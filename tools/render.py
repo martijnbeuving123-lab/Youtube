@@ -75,14 +75,14 @@ def motion_filter(m, dur):
     # upscale first so zoompan's integer crop steps are invisible
     return (f"scale={W*2}:{H*2}:flags=lanczos,"
             f"zoompan=z='{z}':x='{x}':y='{y}':d={n}:s={W}x{H}:fps={FPS},"
-            f"noise=alls=6:allf=t,format=yuv420p")
+            f"format=yuv420p")
 
 
 def main():
     vdir = sys.argv[1].rstrip("/")
     slug = os.path.basename(vdir)
     preview = int(sys.argv[sys.argv.index("--preview") + 1]) if "--preview" in sys.argv else None
-    edit = json.load(open(f"{vdir}/edit.json"))
+    edit = json.load(open(sys.argv[sys.argv.index("--edit") + 1] if "--edit" in sys.argv else f"{vdir}/edit.json"))
     audio = json.load(open(f"{vdir}/audio.json"))
     beats_txt = {b["id"]: b["text"] for b in json.load(open(f"{vdir}/beats.json"))}
     work = f"{vdir}/assets/build"
@@ -167,14 +167,14 @@ def main():
     if fc:
         fc[-1] = fc[-1].rsplit("[", 1)[0] + "[vout]"
         sh(["ffmpeg", "-y", *inputs, "-filter_complex", ";".join(fc), "-map", "[vout]",
-            "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p", video])
+            "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-maxrate", "12M", "-bufsize", "24M", "-pix_fmt", "yuv420p", video])
     else:
         os.replace(clips[0], video)
 
     # 4. mix narration + looped music bed, fade in/out, normalise for YouTube
     music = f"{vdir}/assets/audio/{audio['music']['file']}"
     mdb = edit.get("music_db", -24)
-    out = f"{vdir}/out/{slug}.mp4"
+    out = f"{vdir}/out/{slug}{'_preview' if preview else ''}.mp4"
     af = (f"[1:a]aloop=loop=-1:size=2e9,atrim=0:{total:.3f},volume={mdb}dB,"
           f"afade=t=in:d=3,afade=t=out:st={total-4:.3f}:d=4[m];"
           f"[2:a]aformat=channel_layouts=stereo[n];"
