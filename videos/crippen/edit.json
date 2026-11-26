@@ -327,5 +327,16 @@
    "motion": "still",
    "pause_before": 1.0
   }
- ]
+ ],
+ "chapters": {
+  "01": "The telegram",
+  "06": "The house on Hilldrop Crescent",
+  "16": "Scotland Yard asks questions",
+  "20": "The cellar",
+  "24": "The flight to Antwerp",
+  "29": "The wireless message",
+  "35": "The race to Father Point",
+  "42": "The trial at the Old Bailey",
+  "50": "Legacy, and the 2007 DNA claim"
+ }
 }

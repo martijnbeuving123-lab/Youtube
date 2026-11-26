@@ -139,6 +139,7 @@ def main():
     sh(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/concat.txt", "-c", "pcm_s16le", narration])
     total = t
     json.dump(timeline, open(f"{vdir}/out/timeline.json", "w"), indent=1)
+    json.dump([{"id": b["id"], "visual": b["visual"]} for b in beats], open(f"{vdir}/out/used_visuals.json", "w"), indent=1)
 
     # 2. one clip per beat
     def clip(i):
