@@ -96,6 +96,17 @@ def main():
         for i in range(len(part["starts"])):
             segs.append((f"{vdir}/assets/audio/{part['file']}", st[i], st[i + 1]))
     beats = edit["beats"][:preview] if preview else edit["beats"]
+    for b in beats:
+        if not os.path.exists(f"{vdir}/{b['visual']}"):
+            if b.get("fallback") and os.path.exists(f"{vdir}/{b['fallback']}"):
+                print(f"  beat {b['id']}: {b['visual']} missing, using {b['fallback']}")
+                b["visual"] = b["fallback"]
+                # keep act titles and bare dates; drop captions that name what was in the photo
+                cap = b.get("caption", "")
+                if cap and not ("  \u00b7  " in cap or re.fullmatch(r"\d{1,2} \w+ \d{4}", cap)):
+                    b.pop("caption")
+            else:
+                sys.exit(f"missing visual for beat {b['id']}: {b['visual']}")
     assert len(segs) >= len(beats), "more beats than voiceover lines"
 
     timeline, t = [], LEAD
