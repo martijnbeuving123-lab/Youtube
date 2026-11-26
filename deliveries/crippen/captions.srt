@@ -1,0 +1,795 @@
+1
+00:00:01,000 --> 00:00:08,520
+Have strong suspicions that Crippen London cellar murderer and accomplice are among saloon passengers.
+
+2
+00:00:08,520 --> 00:00:10,952
+Mustache taken off growing beard.
+
+3
+00:00:10,952 --> 00:00:12,869
+Accomplice dressed as boy.
+
+4
+00:00:12,869 --> 00:00:15,523
+Manner and build undoubtedly a girl.
+
+5
+00:00:15,974 --> 00:00:23,284
+Twenty-nine words, tapped out in Morse code from a ship heading west across the Atlantic, in July 1910.
+
+6
+00:00:23,284 --> 00:00:28,537
+Within days, they would be on the front page of every newspaper in London.
+
+7
+00:00:28,537 --> 00:00:33,292
+And no fugitive, it is said, had ever been caught like this before.
+
+8
+00:00:33,743 --> 00:00:41,729
+On one side of the ocean, a quiet American doctor and a young woman dressed as a boy, travelling as father and son.
+
+9
+00:00:41,729 --> 00:00:48,189
+On the other, a detective from Scotland Yard, on a faster ship, racing to reach Canada first.
+
+10
+00:00:48,639 --> 00:00:54,680
+Behind them, in a house in north London, the police had found something under a cellar floor.
+
+11
+00:00:54,680 --> 00:01:00,917
+And the man everyone was looking for had already been questioned once, and allowed to walk away.
+
+12
+00:01:01,366 --> 00:01:09,838
+This is the story of the Crippen case, and the first time wireless telegraphy helped to catch a man wanted for murder.
+
+13
+00:01:09,838 --> 00:01:11,632
+This is Precinct Archive.
+
+14
+00:01:13,483 --> 00:01:18,131
+Hawley Harvey Crippen was born in 1862 in Coldwater, Michigan.
+
+15
+00:01:18,131 --> 00:01:25,028
+He trained in homeopathy, graduating from the Cleveland Homeopathic Medical College in 1884.
+
+16
+00:01:25,028 --> 00:01:34,250
+He was a small, quiet, bespectacled man, and the people who knew him would later struggle to describe him as anything else.
+
+17
+00:01:34,700 --> 00:01:37,932
+His first wife, Charlotte, died in 1892.
+
+18
+00:01:37,932 --> 00:01:41,731
+Two years later, in New York, he married again.
+
+19
+00:01:41,731 --> 00:01:50,379
+His second wife had been born Kunigunde Mackamotski, called herself Cora Turner, and wanted to be a singer.
+
+20
+00:01:50,379 --> 00:01:54,501
+On stage, she would use another name: Belle Elmore.
+
+21
+00:01:54,950 --> 00:02:02,899
+In 1897 the couple moved to London, where Crippen was to manage the British office of a patent medicine company.
+
+22
+00:02:02,899 --> 00:02:06,022
+There was a problem he could not get around.
+
+23
+00:02:06,022 --> 00:02:11,770
+His American qualifications did not allow him to practise as a doctor in Britain.
+
+24
+00:02:11,770 --> 00:02:18,513
+So he sold remedies instead, by post and over the counter, and moved from one firm to the next.
+
+25
+00:02:18,962 --> 00:02:21,705
+Cora threw herself into the music hall.
+
+26
+00:02:21,705 --> 00:02:25,713
+Her stage career was modest, but her social life was not.
+
+27
+00:02:25,713 --> 00:02:33,589
+She became a familiar face among the variety performers of the day, and she joined the Music Hall Ladies' Guild.
+
+28
+00:02:33,589 --> 00:02:36,612
+Her friends were loyal, loud and observant.
+
+29
+00:02:36,612 --> 00:02:41,323
+Hold on to that, because it is the reason this story was ever told.
+
+30
+00:02:41,774 --> 00:02:49,269
+In 1900, at the Drouet Institute for the Deaf, Crippen hired a young typist named Ethel Le Neve.
+
+31
+00:02:49,269 --> 00:02:55,280
+She was seventeen, from Diss in Norfolk, and the daughter of a railway clerk.
+
+32
+00:02:55,280 --> 00:03:00,355
+By 1905, according to the sources, the two were having an affair.
+
+33
+00:03:00,355 --> 00:03:02,697
+By 1908, she was his mistress.
+
+34
+00:03:03,147 --> 00:03:09,601
+By then the Crippens were living at number 39 Hilldrop Crescent, off Camden Road in Holloway.
+
+35
+00:03:09,601 --> 00:03:16,193
+It was a large house for a man on a modest income, and they took in lodgers to help pay for it.
+
+36
+00:03:16,193 --> 00:03:19,663
+By most accounts the marriage was not a happy one.
+
+37
+00:03:19,663 --> 00:03:23,341
+Each of them, it is reported, had found someone else.
+
+38
+00:03:23,790 --> 00:03:30,473
+On Monday, the 31st of January, 1910, the Crippens gave a small dinner party at Hilldrop Crescent.
+
+39
+00:03:30,473 --> 00:03:34,224
+Two guests from the music hall world came to the house.
+
+40
+00:03:34,224 --> 00:03:37,224
+They left in the early hours of the morning.
+
+41
+00:03:37,224 --> 00:03:41,998
+They were among the last people known to have seen Cora Crippen alive.
+
+42
+00:03:42,448 --> 00:03:46,538
+In the days that followed, Cora did not appear at the Guild.
+
+43
+00:03:46,538 --> 00:03:52,196
+Crippen sent word that she had been called away to America, to see a sick relative.
+
+44
+00:03:52,196 --> 00:03:55,332
+Then he said she had fallen ill there herself.
+
+45
+00:03:55,332 --> 00:04:02,014
+Then, in March, he announced that she had died in California, and that her body had been cremated.
+
+46
+00:04:02,463 --> 00:04:05,545
+Something else was happening at the same time.
+
+47
+00:04:05,545 --> 00:04:08,426
+Ethel Le Neve moved into Hilldrop Crescent.
+
+48
+00:04:08,426 --> 00:04:19,548
+And she was seen in public wearing Cora's furs and Cora's jewellery, including at a dinner given by the Guild, where Cora's friends could see exactly what she had on.
+
+49
+00:04:19,997 --> 00:04:22,359
+Cora's friends did not believe him.
+
+50
+00:04:22,359 --> 00:04:29,037
+Among them was the strongwoman Kate Williams, who performed as Vulcana, and who went to the police.
+
+51
+00:04:29,037 --> 00:04:31,129
+The police did little at first.
+
+52
+00:04:31,129 --> 00:04:40,438
+Then the actress Lil Hawthorne and her husband, John Nash, came back from a tour of America, where they had heard nothing about any death.
+
+53
+00:04:40,438 --> 00:04:47,791
+Nash knew a senior officer at Scotland Yard, Superintendent Frank Froest, and he pressed him to look into it.
+
+54
+00:04:48,242 --> 00:04:51,374
+The case went to Chief Inspector Walter Dew.
+
+55
+00:04:51,374 --> 00:04:54,079
+He was a detective of long experience.
+
+56
+00:04:54,079 --> 00:04:59,703
+In 1888 he had been a young constable in Whitechapel during the Ripper murders.
+
+57
+00:04:59,703 --> 00:05:04,045
+By 1910 he had more than a hundred commendations to his name.
+
+58
+00:05:04,495 --> 00:05:09,273
+On the 8th of July, 1910, Dew went to see Crippen at his office.
+
+59
+00:05:09,273 --> 00:05:12,035
+And Crippen did something unexpected.
+
+60
+00:05:12,035 --> 00:05:14,200
+He admitted that he had lied.
+
+61
+00:05:14,200 --> 00:05:16,215
+Cora was not dead, he said.
+
+62
+00:05:16,215 --> 00:05:23,008
+She had left him, for an American music hall performer named Bruce Miller, and gone abroad.
+
+63
+00:05:23,008 --> 00:05:27,561
+He had invented her death to spare himself the embarrassment.
+
+64
+00:05:28,012 --> 00:05:33,931
+Crippen went with Dew to Hilldrop Crescent and let him look around, cellar included.
+
+65
+00:05:33,931 --> 00:05:35,199
+Dew found nothing.
+
+66
+00:05:35,199 --> 00:05:38,582
+By his own account he left reasonably satisfied.
+
+67
+00:05:38,582 --> 00:05:41,964
+A wife who had left her husband was not a crime.
+
+68
+00:05:41,964 --> 00:05:45,488
+Crippen agreed to help place a notice to find her.
+
+69
+00:05:45,937 --> 00:05:50,519
+A few days later, Dew went back with some routine questions.
+
+70
+00:05:50,519 --> 00:05:51,817
+Crippen was gone.
+
+71
+00:05:51,817 --> 00:05:53,421
+So was Ethel Le Neve.
+
+72
+00:05:53,421 --> 00:06:01,209
+A man who had just told the police a credible story had run, and in running he had changed everything.
+
+73
+00:06:01,209 --> 00:06:03,806
+The police went back to the house.
+
+74
+00:06:05,656 --> 00:06:09,190
+They searched Hilldrop Crescent three more times.
+
+75
+00:06:09,190 --> 00:06:16,116
+On the fourth search, on the 12th and 13th of July, Dew turned his attention to the coal cellar.
+
+76
+00:06:16,116 --> 00:06:19,218
+Some of the bricks in the floor were loose.
+
+77
+00:06:19,218 --> 00:06:24,412
+Beneath them, in a layer of lime and clay, officers found human remains.
+
+78
+00:06:24,862 --> 00:06:26,824
+What they found was partial.
+
+79
+00:06:26,824 --> 00:06:30,888
+The head, the limbs and the skeleton were never recovered.
+
+80
+00:06:30,888 --> 00:06:39,718
+With the remains were hair curlers, strands of bleached hair, and a fragment of a man's pyjama jacket bearing a maker's label.
+
+81
+00:06:39,718 --> 00:06:43,853
+A missing person inquiry had become a murder investigation.
+
+82
+00:06:44,302 --> 00:06:51,656
+The Home Office analyst, William Willcox, examined the remains and found hyoscine, a powerful sedative.
+
+83
+00:06:51,656 --> 00:06:59,437
+Records showed that Crippen had bought hyoscine from a chemist in January, shortly before Cora was last seen.
+
+84
+00:06:59,437 --> 00:07:05,149
+On the 16th of July, warrants were issued for the arrest of Crippen and Le Neve.
+
+85
+00:07:05,598 --> 00:07:08,510
+The story went straight onto the front pages.
+
+86
+00:07:08,510 --> 00:07:13,943
+Their photographs were printed under headlines about the North London cellar murder.
+
+87
+00:07:13,943 --> 00:07:22,029
+Every reader in Britain was now looking for a small man with a moustache and gold-rimmed glasses, and a young woman with him.
+
+88
+00:07:22,480 --> 00:07:25,117
+But Crippen was no longer in Britain.
+
+89
+00:07:25,117 --> 00:07:30,036
+The day after Dew's first visit, he and Ethel had crossed to Belgium.
+
+90
+00:07:30,036 --> 00:07:35,240
+They spent a night in a Brussels hotel, then went to the port of Antwerp.
+
+91
+00:07:35,240 --> 00:07:38,092
+On the way, he shaved off his moustache.
+
+92
+00:07:38,092 --> 00:07:41,157
+Ethel cut her hair and put on a boy's suit.
+
+93
+00:07:41,607 --> 00:07:47,817
+On the 20th of July, they boarded the Canadian Pacific liner Montrose, bound for Quebec.
+
+94
+00:07:47,817 --> 00:07:55,086
+They travelled in second-class saloon accommodation, as a father and son: Mr John Robinson and his boy.
+
+95
+00:07:55,536 --> 00:07:59,411
+The captain of the Montrose was Henry George Kendall.
+
+96
+00:07:59,411 --> 00:08:04,016
+He was thirty-six, a career seaman, and he read the newspapers.
+
+97
+00:08:04,016 --> 00:08:11,472
+He had also worked alongside Guglielmo Marconi on ship-to-shore radio before taking his first command.
+
+98
+00:08:11,472 --> 00:08:12,935
+That detail matters.
+
+99
+00:08:13,384 --> 00:08:15,253
+Kendall noticed Mr Robinson.
+
+100
+00:08:15,253 --> 00:08:26,201
+In the captain's own later account, the man had the mark of spectacles on his nose but wore none, and the skin above his lip suggested a moustache recently removed.
+
+101
+00:08:26,201 --> 00:08:27,803
+He noticed the son, too.
+
+102
+00:08:27,803 --> 00:08:37,015
+The boy's trousers were held together with safety pins, and the way the young passenger moved struck the captain as unmistakably feminine.
+
+103
+00:08:37,015 --> 00:08:44,625
+Kendall reportedly also saw the two holding hands, which seemed an odd thing for a father and a teenage son to do.
+
+104
+00:08:45,076 --> 00:08:46,587
+So he tested the idea.
+
+105
+00:08:46,587 --> 00:08:53,726
+According to accounts, he took one of the newspaper photographs and covered the moustache with his hand.
+
+106
+00:08:53,726 --> 00:09:02,239
+And he tried a small trick: he called out to "Mr Robinson", and the man did not respond at once, as if it were not his name.
+
+107
+00:09:02,688 --> 00:09:04,426
+Here is the turning point.
+
+108
+00:09:04,426 --> 00:09:10,172
+The Montrose carried a Marconi wireless set, and a telegraphist named Lawrence Hughes.
+
+109
+00:09:10,172 --> 00:09:16,653
+The set had a limited range, and the ship would soon be beyond reach of the transmitters on land.
+
+110
+00:09:16,653 --> 00:09:22,332
+Kendall wrote out a message and had Hughes send it to the line's office in Liverpool.
+
+111
+00:09:22,783 --> 00:09:30,221
+Have strong suspicions that Crippen London cellar murderer and accomplice are among saloon passengers.
+
+112
+00:09:30,221 --> 00:09:32,628
+Mustache taken off growing beard.
+
+113
+00:09:32,628 --> 00:09:34,524
+Accomplice dressed as boy.
+
+114
+00:09:34,524 --> 00:09:37,149
+Manner and build undoubtedly a girl.
+
+115
+00:09:37,600 --> 00:09:40,230
+The message was passed to Scotland Yard.
+
+116
+00:09:40,230 --> 00:09:46,808
+It is widely described as the first time that wireless telegraphy was used to help catch a criminal.
+
+117
+00:09:46,808 --> 00:09:50,426
+And it put Walter Dew in front of a simple calculation.
+
+118
+00:09:50,876 --> 00:09:54,222
+The Montrose was a steady ship, not a fast one.
+
+119
+00:09:54,222 --> 00:09:57,283
+She was already days out into the Atlantic.
+
+120
+00:09:57,283 --> 00:10:02,409
+But the White Star liner Laurentic, sailing from Liverpool, was quicker.
+
+121
+00:10:02,409 --> 00:10:06,467
+If Dew could get aboard her, he might reach Canada first.
+
+122
+00:10:06,467 --> 00:10:08,745
+He went to Liverpool and sailed.
+
+123
+00:10:09,193 --> 00:10:12,581
+What happened next was unusual for another reason.
+
+124
+00:10:12,581 --> 00:10:18,680
+Kendall kept sending reports as long as he could, and the newspapers learned of the chase.
+
+125
+00:10:18,680 --> 00:10:25,049
+For days, readers in Britain followed a pursuit that the man being pursued knew nothing about.
+
+126
+00:10:25,049 --> 00:10:33,723
+On board the Montrose, Crippen, by the accounts that survive, read, walked the deck, and remarked on the marvel of the wireless.
+
+127
+00:10:34,173 --> 00:10:38,516
+Two ships, one ocean, and a gap closing by the hour.
+
+128
+00:10:38,516 --> 00:10:40,938
+Could Dew reach Quebec first?
+
+129
+00:10:42,788 --> 00:10:43,458
+He could.
+
+130
+00:10:43,458 --> 00:10:50,822
+By his own account, Dew landed in Canada on the 29th of July, two days before the Montrose was due.
+
+131
+00:10:50,822 --> 00:10:55,955
+He contacted the Canadian authorities, and together they made a plan.
+
+132
+00:10:56,404 --> 00:11:03,251
+Ships entering the St Lawrence stopped near Father Point, on the south shore, to take on a river pilot.
+
+133
+00:11:03,251 --> 00:11:05,511
+A pilot coming aboard was routine.
+
+134
+00:11:05,511 --> 00:11:07,637
+Nobody on deck would look twice.
+
+135
+00:11:08,086 --> 00:11:13,846
+On Sunday, the 31st of July, 1910, a pilot boat came out to the Montrose.
+
+136
+00:11:13,846 --> 00:11:20,395
+Among the men who climbed aboard was Walter Dew, wearing a pilot's cap and uniform.
+
+137
+00:11:20,395 --> 00:11:23,472
+With him was a Canadian police officer.
+
+138
+00:11:23,923 --> 00:11:26,147
+Captain Kendall had arranged it.
+
+139
+00:11:26,147 --> 00:11:29,693
+He invited Mr Robinson to come and meet the pilots.
+
+140
+00:11:29,693 --> 00:11:32,752
+Crippen walked up, and Dew took off his cap.
+
+141
+00:11:33,202 --> 00:11:34,881
+"Good morning, Dr Crippen.
+
+142
+00:11:34,881 --> 00:11:35,849
+Do you know me?
+
+143
+00:11:35,849 --> 00:11:38,689
+I'm Chief Inspector Dew from Scotland Yard."
+
+144
+00:11:39,139 --> 00:11:40,430
+There was a pause.
+
+145
+00:11:40,430 --> 00:11:45,164
+Then, according to the record, Crippen said: "Thank God it's over.
+
+146
+00:11:45,164 --> 00:11:47,460
+The suspense has been too great.
+
+147
+00:11:47,460 --> 00:11:49,755
+I couldn't stand it any longer."
+
+148
+00:11:49,755 --> 00:11:52,697
+He held out his wrists for the handcuffs.
+
+149
+00:11:53,145 --> 00:11:56,631
+Ethel Le Neve was arrested in her cabin soon afterwards.
+
+150
+00:11:56,631 --> 00:12:02,794
+Because Canada was then a dominion within the British Empire, there was no long extradition battle.
+
+151
+00:12:02,794 --> 00:12:07,275
+Both of them waived their rights, and they were brought back to England.
+
+152
+00:12:07,275 --> 00:12:14,932
+They landed at Liverpool on the 27th of August, aboard the Megantic, to crowds that had been following the story for weeks.
+
+153
+00:12:16,782 --> 00:12:25,917
+Crippen's trial opened at the Old Bailey on the 18th of October, 1910, before the Lord Chief Justice, Lord Alverstone.
+
+154
+00:12:25,917 --> 00:12:27,466
+It lasted four days.
+
+155
+00:12:27,916 --> 00:12:30,021
+The defence had a clear argument.
+
+156
+00:12:30,021 --> 00:12:33,019
+Cora had left for America, as Crippen had said.
+
+157
+00:12:33,019 --> 00:12:40,101
+And the remains, they suggested, could have been under the floor before the Crippens ever moved into the house.
+
+158
+00:12:40,101 --> 00:12:45,078
+If that were true, then whatever lay in the cellar had nothing to do with him.
+
+159
+00:12:45,528 --> 00:12:48,242
+The prosecution answered with science.
+
+160
+00:12:48,242 --> 00:13:01,239
+A young pathologist named Bernard Spilsbury examined a piece of skin from the remains and identified what he said was a scar, consistent with an operation Cora was known to have had.
+
+161
+00:13:01,239 --> 00:13:05,024
+The defence argued that it was only a fold of tissue.
+
+162
+00:13:05,024 --> 00:13:06,452
+The jury heard both.
+
+163
+00:13:06,903 --> 00:13:09,155
+Then there was the pyjama jacket.
+
+164
+00:13:09,155 --> 00:13:13,661
+A matching pair of pyjama trousers was found in Crippen's bedroom.
+
+165
+00:13:13,661 --> 00:13:23,559
+A witness from the makers, Jones Brothers, said the material had not been sold before 1908, long after the Crippens moved into Hilldrop Crescent.
+
+166
+00:13:23,559 --> 00:13:28,610
+Whoever was buried in that cellar had been buried there in Crippen's time.
+
+167
+00:13:29,061 --> 00:13:30,840
+And there was the hyoscine.
+
+168
+00:13:30,840 --> 00:13:36,641
+Crippen had bought it, shortly before his wife was last seen, and it was in the remains.
+
+169
+00:13:36,641 --> 00:13:41,651
+He never gave an account of what he had done with it that the jury accepted.
+
+170
+00:13:42,101 --> 00:13:46,504
+The jury retired, and came back after twenty-seven minutes.
+
+171
+00:13:46,504 --> 00:13:47,026
+Guilty.
+
+172
+00:13:47,026 --> 00:13:56,129
+Throughout the trial, observers noted, Crippen showed little concern for himself, and a great deal for Ethel's reputation.
+
+173
+00:13:56,580 --> 00:14:01,336
+Ethel Le Neve was tried separately, as an accessory after the fact.
+
+174
+00:14:01,336 --> 00:14:02,614
+She was acquitted.
+
+175
+00:14:03,065 --> 00:14:11,867
+Hawley Harvey Crippen was hanged at Pentonville Prison at nine in the morning on Wednesday, the 23rd of November, 1910.
+
+176
+00:14:11,867 --> 00:14:16,157
+At his request, a photograph of Ethel was buried with him.
+
+177
+00:14:16,157 --> 00:14:18,893
+He never said why he killed his wife.
+
+178
+00:14:18,893 --> 00:14:21,704
+Theories have been offered ever since.
+
+179
+00:14:21,704 --> 00:14:23,258
+They remain theories.
+
+180
+00:14:25,106 --> 00:14:29,804
+The newspapers called it the most sensational capture of the century.
+
+181
+00:14:29,804 --> 00:14:33,753
+What made it sensational was not the detective work alone.
+
+182
+00:14:33,753 --> 00:14:39,812
+It was a message that crossed the sea faster than the ship carrying the man it described.
+
+183
+00:14:39,812 --> 00:14:44,985
+For the first time, a fugitive on the open ocean was no longer out of reach.
+
+184
+00:14:45,437 --> 00:14:49,787
+Walter Dew resigned from the police not long after the case.
+
+185
+00:14:49,787 --> 00:14:58,198
+Years later he wrote a memoir called I Caught Crippen, and admitted in it that his memory of some details had faded.
+
+186
+00:14:58,198 --> 00:15:05,158
+Henry Kendall went on to command the liner Empress of Ireland, and survived her sinking in 1914.
+
+187
+00:15:05,609 --> 00:15:14,552
+Ethel Le Neve left for Canada, came back to London under another name, married, and raised two children in Croydon.
+
+188
+00:15:14,552 --> 00:15:15,875
+She died in 1967.
+
+189
+00:15:16,325 --> 00:15:18,835
+The case has not entirely rested.
+
+190
+00:15:18,835 --> 00:15:34,429
+In 2007, a team led by the American forensic scientist David Foran reported that DNA from a century-old slide of the cellar remains did not match Cora's living relatives, and suggested the tissue was male.
+
+191
+00:15:34,429 --> 00:15:37,624
+Others disputed the method and the sample.
+
+192
+00:15:37,624 --> 00:15:44,927
+In 2009, the Criminal Cases Review Commission declined to refer the case to the Court of Appeal.
+
+193
+00:15:44,927 --> 00:15:46,600
+The conviction stands.
+
+194
+00:15:48,051 --> 00:15:53,025
+And behind all of it was a woman whose name is often left until last.
+
+195
+00:15:53,025 --> 00:16:00,955
+Cora Crippen, Belle Elmore, a music hall singer whose friends refused to accept that she had simply gone away.
+
+196
+00:16:00,955 --> 00:16:05,569
+If they had stayed quiet, no one would have asked the questions.
+
+197
+00:16:05,569 --> 00:16:08,165
+She is remembered here with respect.
+
+198
+00:16:09,615 --> 00:16:11,632
+This case file is closed.
+
+199
+00:16:11,632 --> 00:16:15,022
+New case files arrive on Precinct Archive.
