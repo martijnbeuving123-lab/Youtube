@@ -106,7 +106,7 @@ Crippen went with Dew to Hilldrop Crescent and let him look around, cellar inclu
 ### 19
 [ON SCREEN: an empty office chair; a hat left on a hook.]
 
-A few days later, Dew went back with a few routine questions. Crippen was gone. So was Ethel Le Neve. A man who had just told the police a credible story had run, and in running he had changed everything. The police went back to the house.
+A few days later, Dew went back with some routine questions. Crippen was gone. So was Ethel Le Neve. A man who had just told the police a credible story had run, and in running he had changed everything. The police went back to the house.
 
 ---
 
@@ -282,7 +282,7 @@ The newspapers called it the most sensational capture of the century. What made 
 ### 51
 [ON SCREEN: Walter Dew in later life; cover of "I Caught Crippen".]
 
-Walter Dew resigned from the police not long after the case. Years later he wrote a memoir called I Caught Crippen, and admitted in it that his memory of some details had faded. Henry Kendall kept his command, and four years later survived the sinking of the Empress of Ireland.
+Walter Dew resigned from the police not long after the case. Years later he wrote a memoir called I Caught Crippen, and admitted in it that his memory of some details had faded. Henry Kendall went on to command the liner Empress of Ireland, and survived her sinking in 1914.
 
 ### 52
 [ON SCREEN: Ethel Le Neve in later years, or a quiet Croydon street.]
