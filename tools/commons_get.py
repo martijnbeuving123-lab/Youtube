@@ -3,22 +3,28 @@
 
     python3 tools/commons_get.py <video_dir> <name>="File:Title.jpg" [...]
 
-Saves <video_dir>/assets/img/<name>.jpg (max 1920px wide) and rewrites
+Saves <video_dir>/assets/img/<name>.jpg (max 1280px wide) and rewrites
 <video_dir>/credits.json and credits.md with source, author and licence.
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
 UA = "PrecinctArchiveResearch/0.1 (small documentary research script)"
 
 
-def get(url, tries=5):
+def get(url, tries=4):
+    """Polite fetch: honour Retry-After on 429 instead of hammering."""
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             return urllib.request.urlopen(req, timeout=60).read()
+        except urllib.error.HTTPError as e:
+            err = e
+            wait = int(e.headers.get("Retry-After", 30)) if e.code == 429 else 15
+            print(f"  waiting {wait}s ({e.code})", flush=True)
+            time.sleep(min(wait, 900) + 5)
         except Exception as e:
             err = e
-            time.sleep(10 * (i + 1))
+            time.sleep(15)
     raise err
 
 
@@ -38,9 +44,9 @@ def main():
         try:
             fetch(vdir, name, title, credits)
         except Exception as e:
-            print(f"{name}: FAILED {e}")
+            print(f"{name}: FAILED {e}", flush=True)
         json.dump(credits, open(cpath, "w"), indent=1)
-        time.sleep(3)
+        time.sleep(60)
     write_md(vdir, credits)
 
 
@@ -48,7 +54,7 @@ def fetch(vdir, name, title, credits):
     if True:
         q = urllib.parse.urlencode({"action": "query", "format": "json", "titles": title,
                                     "prop": "imageinfo", "iiprop": "url|extmetadata",
-                                    "iiurlwidth": 1920})  # a standard thumbnail size (w.wiki/GHai)
+                                    "iiurlwidth": 1280})  # a standard thumbnail size (w.wiki/GHai)
         meta = json.loads(get("https://commons.wikimedia.org/w/api.php?" + q))
         page = next(iter(meta["query"]["pages"].values()))
         ii = page["imageinfo"][0]
@@ -61,7 +67,7 @@ def fetch(vdir, name, title, credits):
                          "license": m.get("LicenseShortName", {}).get("value", "?"),
                          "artist": strip(m.get("Artist", {}).get("value", "")),
                          "credit": strip(m.get("Credit", {}).get("value", ""))[:200]}
-        print(f"{name}: {len(data)//1024} KB  {credits[name]['license']}")
+        print(f"{name}: {len(data)//1024} KB  {credits[name]['license']}", flush=True)
 
 
 def write_md(vdir, credits):
