@@ -8,7 +8,7 @@ Saves <video_dir>/assets/img/<name>.jpg (max 1280px wide) and rewrites
 """
 import json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
-UA = "PrecinctArchiveResearch/0.1 (small documentary research script)"
+UA = "PrecinctArchiveBot/0.2 (https://www.youtube.com/@precinctarchive) python-urllib"
 
 
 def get(url, tries=4):
