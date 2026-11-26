@@ -18,13 +18,27 @@ This is the full story of the Crippen case: the disappearance of the music hall 
 Where the record is uncertain, this video says so.
 
 CHAPTERS
+0:00 The telegram
+1:13 The house on Hilldrop Crescent
+4:48 Scotland Yard asks questions
+6:05 The cellar
+7:22 The flight to Antwerp
+9:02 The wireless message
+10:42 The race to Father Point
+12:16 The trial at the Old Bailey
+14:25 Legacy, and the 2007 DNA claim
 
 SOURCES
 Secondary sources, including Walter Dew's memoir "I Caught Crippen" (1938), which he admitted contains errors. Contested details are marked as reported in the narration.
 
 IMAGES
 Archive images via Wikimedia Commons (public domain unless stated). Full credits:
-CREDITS
+- Belle-Elmore LCCN2014685158 (Public domain): https://commons.wikimedia.org/wiki/File:Belle-Elmore_LCCN2014685158.jpg
+- Hawley Harvey Crippen (1862-1910), beter bekend als Dr, SFA005001308 (Public domain): https://commons.wikimedia.org/wiki/File:Hawley_Harvey_Crippen_(1862-1910),_beter_bekend_als_Dr,_SFA005001308.jpg
+- Hawley Harvey Crippen (1862-1910), beter bekend als Dr, SFA005001305 (Public domain): https://commons.wikimedia.org/wiki/File:Hawley_Harvey_Crippen_(1862-1910),_beter_bekend_als_Dr,_SFA005001305.jpg
+- Hawley Harvey Crippen (1862-1910), beter bekend als Dr, SFA005001309 (Public domain): https://commons.wikimedia.org/wiki/File:Hawley_Harvey_Crippen_(1862-1910),_beter_bekend_als_Dr,_SFA005001309.jpg
+- "Dr Crippen and Miss Le Neve", postcard photograph, Wellcome Collection (CC BY 4.0): https://commons.wikimedia.org/wiki/File:Hawley_Harvey_Crippen_and_Ethel_Le_Neve._Photograph_by_Arthu_Wellcome_V0026226.jpg
+- Dr. Crippen and Ethel Leneve on trial (Public domain): https://commons.wikimedia.org/wiki/File:Dr._Crippen_and_Ethel_Leneve_on_trial.jpg
 
 Music: original instrumental score.
 Narration: AI voice.
