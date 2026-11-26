@@ -1,6 +1,7 @@
 # voice.md — Precinct Archive (@precinctarchive)
 
-Built from three transcripts, one per case and one per part position:
+Built from three transcripts (from the earlier three-part format; the voice carries over, the
+format does not):
 - Part 1, Deptford Murders (1905) — `xjZUPtYV2LA`
 - Part 2, Crippen case (1910) — `jfSICIGTJMk`
 - Part 3, Narborough / Pitchfork (1987) — `HDlIpHk_NxE`
@@ -11,8 +12,8 @@ Lines marked **(assumed)** are inferences the creator has not confirmed yet.
 
 One person: an adult who likes true crime but is tired of gore and speculation, and who
 enjoys learning *how* a case was solved — the first fingerprint conviction, the first wireless
-arrest, the first DNA match. They watch on a commute or before bed, want a whole case in under
-ten minutes across three parts, and trust a narrator who says "reportedly" when the record is
+arrest, the first DNA match. They watch in the evening or before bed, want a whole case told
+properly in one sitting, and trust a narrator who says "reportedly" when the record is
 thin. **(assumed — confirm or rewrite)**
 
 ## How I actually talk
@@ -37,10 +38,6 @@ one ordinary person walking into the moment:
 
 **Then the brand line, around 0:60:** "This is Precinct Archive."
 
-**Parts 2 and 3 have no cold open.** They pick up with one sentence of recap and go straight
-on: "Cora Crippen had vanished after a dinner party in January, and now her husband had
-vanished too."
-
 **Context is explained as a mechanism, not decoration.** The narrator flags what matters:
 > There was one more habit in that shop that matters to this story. Every Monday morning,
 > George Chapman came by to collect the previous week's takings.
@@ -49,13 +46,15 @@ vanished too."
 > A mask is worn by someone who thinks he might be recognized. That is an inference, not a
 > fact from the file, but it shaped how the newspapers described the crime.
 
-**Part endings:**
-- Part 1 — a planted warning: "Hold on to that, because the identifications would not hold up
-  when it mattered."
-- Part 2 — one open question: "Could he reach Quebec first?"
-- Part 3 — the legacy ("remembered for two firsts"), the victims named with respect, then the
-  fixed sign-off: "This case file is closed. New case files arrive every day on Precinct
-  Archive."
+**Turns inside the video.** The old series used these lines to end each part. In one long video
+they become the hinges between acts, and the next act starts straight away with no recap:
+- a planted warning: "Hold on to that, because the identifications would not hold up when it
+  mattered."
+- one open question: "Could he reach Quebec first?"
+
+**The ending:** the legacy ("remembered for two firsts"), the victims named with respect, then
+the fixed sign-off: "This case file is closed. New case files arrive every day on Precinct
+Archive."
 
 ## Words I never use
 
@@ -96,17 +95,25 @@ vanished too."
 
 ## My format
 
-- **Series:** one closed British case in three parts, published on three consecutive days at
-  08:00 UTC.
-- **Length:** 2:20 to 3:40 per part, about 150 words a minute, so 350–550 words of
-  narration.
-- **Titles:** "Why The [Specific Moment] Became A Turning Point In The [Case] | Part N of 3"
+- **One case, one video.** No parts, no series. The whole closed case is told in a single
+  long video. (The first nine uploads were three-part series; that format is dropped.)
+- **Length:** 8 to 12 minutes, about 150 words a minute, so 1,200–1,800 words of narration.
+  **(assumed — confirm)**
+- **Structure:**
+  1. Cold open (0:00–1:00): date, time and place, the scene, a flash-forward, and the "first".
+  2. "This is Precinct Archive."
+  3. Act 1, the crime and the setting. Ends on a planted warning ("Hold on to that…").
+  4. Act 2, the investigation. Ends on an open question.
+  5. Act 3, the break, the arrest and the trial.
+  6. The legacy, the victims named with respect, and the sign-off.
+  Put a turn about every 2–3 minutes so there's always an open question.
+- **Titles:** "Why The [Specific Moment] Became A Turning Point In The [Case]", without
+  "| Part N of 3". The moment is the one forensic first the case is remembered for.
 - **Visuals:** faceless — archive photos, newspaper front pages, maps, documents, under a
   low music bed. No presenter on camera. **(assumed — confirm)**
 - **Intro:** a cold open of about 60 seconds, then "This is Precinct Archive." No channel
   intro, no subscribe pitch at the start.
-- **Close:** Part 3 only, with the fixed sign-off. Parts 1 and 2 end on a cliffhanger, with
-  no call to action.
+- **Close:** the fixed sign-off, once, at the end. No call to action anywhere in the middle.
 - **No swearing.** Calm, slow, even. The tension comes from facts, not from delivery.
 
 ## Notes for the skills
