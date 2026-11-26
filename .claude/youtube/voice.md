@@ -97,8 +97,8 @@ Archive."
 
 - **One case, one video.** No parts, no series. The whole closed case is told in a single
   long video. (The first nine uploads were three-part series; that format is dropped.)
-- **Length:** 8 to 12 minutes, about 150 words a minute, so 1,200–1,800 words of narration.
-  **(assumed — confirm)**
+- **Length:** about 20 minutes, at about 150 words a minute, so roughly 3,000 words of narration.
+  The niche rewards long videos (25–50 min outliers); 20 min is the budget-conscious middle.
 - **Structure:**
   1. Cold open (0:00–1:00): date, time and place, the scene, a flash-forward, and the "first".
   2. "This is Precinct Archive."
