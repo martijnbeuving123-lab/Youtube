@@ -1,0 +1,93 @@
+Source: English Wikipedia, 'Stratton Brothers case', retrieved 2026-11-26 (CC BY-SA 4.0).
+
+
+
+
+
+<!-- Deleted image removed: thumb|First part of an article in ''[[The Times'' of May 8, 1905, detailing the trial of the Stratton brothers in the Old Bailey. See discussion.]] -->
+
+'''Alfred Edward Stratton''' (1882-1905) and his brother '''Albert Ernest Stratton''' (1884-1905) were the first men to be convicted in Britain for murder based on fingerprint evidence. They were both executed at 9 am on 23 May 1905 at HM Prison Wandsworth. The case, otherwise known as the '''Mask Murders''' (owing to the black stocking-top masks that had been left at the scene of the crime), the '''Deptford Murders''' (referring to the location) or the '''Farrow Murders''' (for the last name of the victims), was one of the earliest convictions made using forensic science.
+
+==The crime==
+On Monday 27 March 1905, at 8:30 am, William Jones went to Chapman's Oil and Colour Shop at 34 Deptford High Street, where he worked. When he arrived at the shop he found it closed and shuttered, which he found very unusual. The manager of the paint shop '''Thomas Farrow''', aged 71, lived with his wife, '''Ann''', aged 65, in the flat above the shop and he was not in the habit of having the shop still closed at such a late hour. Unable to open the door, Jones tried knocking but since he did not get any response from either Mr or Mrs Farrow he peeked through a window and saw that there were chairs knocked over.
+
+Alarmed at what he saw, he ran for help and found a local resident, Louis Kidman, who worked in a nearby store. The two men forced their way into the shop, and it was not long before they found the body of Mr Farrow on the floor dead, while Mrs Farrow was found barely alive but unconscious in the couple's bed in the upstairs flat. Both bore the signs of having been beaten. A doctor and the police were called and Mrs Farrow was taken to hospital.
+
+==The investigation==
+Despite the disarray within the shop, the police found no signs of forced entry. It was shortly determined that robbery was the motive: an empty cash box was found on the floor estimated to have contained about £13, . As it was a Monday, Jones informed the police it was Mr Farrow's custom on Mondays to collect the week's earnings and deposit them into a local bank. To ensure the doctor would not trip over the cash box, Sergeant Albert Atkinson pushed it aside with his bare hands. It was at this point that Chief Inspector Frederick Fox and Melville MacNaghten, the Assistant Commissioner (Crime) of the Metropolitan Police and head of the Criminal Investigation Department took over the case.
+
+In addition to the lack of forced entry and the empty cash box, it was clear that Mr and Mrs Farrow had been attacked separately, and the discovery of two black masks fashioned from stockings that were left at the scene indicated there were two men involved. Since the victims were in their night clothes, the police suspected Mr Farrow may have opened the door while he was not fully awake and immediately attacked. Despite this, he remained conscious enough to retaliate against the robbers, but was struck again. His assailants proceeded up to the flat, where they attacked Mrs Farrow, located the cash box, and fled with the money. Based on the discovery of separate pools of blood at the upstairs scene, it was determined that Mr Farrow had again regained consciousness, but this time the men killed him, afterwards washing their hands in a nearby basin.
+
+===A greasy smudge on the cash box===
+thumb|''FINGER-PRINT FOUND ON CASH-BOX<br>The left-hand lower illustration is a photographic enlargement of the finger-mark found upon a cash-box left at the scene of a noted murder. The neighbour photograph is of the prisoner's finger-print taken on paper. The general similarity is apparent.''
+
+When MacNaghten was told of the empty cash box, he chose to examine it. He noticed that on the underside of the box's inner tray, there was a greasy smudge which appeared to be a fingerprint. As a member of the Belper Committee which had recommended the use of fingerprints as a method for identification five years before, he wondered if this might be a case to test out this new technique. He used his handkerchief to carefully pick up the cash box, had it wrapped in paper and took it into the fledgling Fingerprinting Bureau at Scotland Yard.
+
+Established on 1 July 1901, the Fingerprint Bureau had proven its worth with the conviction a year later of Harry Jackson for burglary, thanks to fingerprint evidence. It was now headed by Detective Inspector Charles Stockley Collins who was regarded as the foremost English fingerprint expert of his time. Despite its earlier successes, especially in identifying previously convicted criminals who tried to pass themselves off pseudonymously, the technique was still considered unwieldy and both men knew that they were risking public ridicule with the intense scrutiny that a murder case would generate. Furthermore, even if they succeeded in identifying the owner of the fingerprint, they still needed to convince a potential jury sufficiently to convict.
+
+Detective Inspector Collins examined the print thoroughly and determined that the print was made through perspiration and appeared to have been left by the thumb, probably from the right hand. He compared it with those of the Farrows and that of Detective Sergeant Atkinson and was satisfied that the print did not belong to any of those people. Although the Bureau had 80,000-90,000 sets of prints on file, there was no match on any of them as well, which meant that they would need to find a suspect to compare it with. The initial hope of the police was that Mrs Farrow would give a description of her assailants, but she died in hospital on 31 March without regaining consciousness.
+
+===Positive identification and arrest===
+In an effort to identify the robbers, the police resorted to the usual practice of interviewing potential witnesses to the crime. Fortunately there was no shortage of them, for many saw two men — one of them dressed in a dark brown suit and cap, the other in a dark blue serge suit and bowler hat — leave the paint shop at around 7:30 in the morning of 27 March. Two of these witnesses — a professional boxer named Henry John Littlefield and a local girl named Ellen Stanton — positively identified the one in the dark brown suit as Alfred Stratton.
+
+Although he did not have a criminal record, Alfred Stratton was known to the police as being a "vagabond" and was known to have contacts in the criminal underworld. Alfred's brother Albert was also a known police character, and the description of the other man given by the witnesses matched him. The identification of Alfred was apparently confirmed when Alfred's girlfriend Annie Cromarty told the police that he had disposed of his dark brown coat and changed his shoes the day after the murder; she also recalled him asking for a pair of old stockings.
+
+Based on this lead, warrants for the arrest of the pair were issued. Alfred was apprehended on 2 April at the King of Prussia pub; Albert was arrested the following day on the High Street. Both were charged at Greenwich Police Station on Blackheath Road and subsequently fingerprinted. Based on a tip by Annie Cromarty, police were able to recover £4 that was buried near a local waterworks.
+
+When Detective Inspector Collins received the two sets of fingerprints taken from the Stratton brothers, he compared them to the print on the cash box, and he concluded that it exactly matched with the right thumbprint of Alfred Stratton - the items are now in the Crime Museum in New Scotland Yard. The brothers were charged with murder and the trial set on 5 May 1905 at the Old Bailey.
+
+==Trial==
+When the Stratton brothers were brought to trial, MacNaghten, Collins, and Richard Muir, the prosecutor for the Crown, knew that they would face an uphill battle. Since the fingerprint was the only tangible evidence that they had, the case would stand or fall on that evidence, and the defence would try their best to undermine it. Fingerprinting pioneer Henry Faulds was a vocal detractor, because he had the mistaken notion that one fingerprint match was unreliable; thus the defence retained him as a witness. Also set to testify for the defence was Dr John George Garson, who advocated anthropometry over fingerprinting as a means of identification. Both men were professional rivals of Edward Henry, the Commissioner of the Metropolitan Police, who established the Fingerprint Bureau and was responsible for the acceptance of fingerprinting in the English legal system; he was also in attendance.
+
+The prosecution called over 40 witnesses to the stand. Muir and his team wanted to place the two defendants at the scene of the crime, and despite Muir's inherent distrust of eyewitness testimony, he was counting on their consistency to reinforce the fingerprint evidence. Although some of them like Henry Alfred Jennings, a local milkman, were not able to make a positive identification of the defendants despite being consistent in their general appearance, others like Henry Littlefield and Ellen Stanton were positive in their identification of Alfred Stratton. The Home Office pathologist who did the post-mortem on the Farrows told the court that the injuries on the Farrows were consistent with being inflicted by weapons similar to the tools that the brothers had in their possession.
+
+Kate Wade, Albert Stratton's girlfriend, testified that Albert was not with her during the night of the murder, and he usually stayed with her. In addition, Annie Cromarty, Alfred's girlfriend, testified that Alfred had come home on the morning of 27 March with a good amount of money without explaining where he obtained it; she also added that he threw out the clothes that he wore that day when he saw the newspaper accounts of the murder, and that Alfred asked her to tell the police, or anyone else who asked, that he was with her the night of the murder.
+
+However, the defense counsel, H.G. Rooth, Curtis Bennett and Harold Morris, were able to give plausible alternative explanations, which would tend to cast doubt on the prosecution's witnesses, so much so that they were confident enough to have Alfred Stratton take the stand. He testified that at about 2:30 in the morning of the 27th, he was awakened by his brother Albert who was tapping on the window and wanted to borrow money from him for a night's lodging. He replied that he would check if he had some, and when Alfred came back to tell his brother that he had none, Albert was gone. He went out and found his brother some distance away, in Regent Street. It was there that they were seen by several witnesses who testified having seen them at around that time. He told his brother that he had no money and offered to let him stay for the night. Albert agreed and slept on the floor, and the brothers stayed until 9 in the morning. He explained the £4 that was recovered by the police as money which he won over a boxing contest a couple of months before. He buried the money three weeks prior to the murders and he intended to give the money to Annie Cromarty.
+
+Muir had anticipated this tactic by the defence, and before calling Inspector Collins, he summoned William Gittings, who worked in the jail where the Stratton brothers were confined awaiting trial. Gittings related a conversation that he had with Albert Stratton, who said, "I reckon he (Alfred) will get strung up and I shall get about ten years…He has led me into this." Muir hoped to impress the jury into thinking that that statement would be counted as a confession. Then he called Inspector Collins to the stand.
+
+===Expert testimony===
+It was Muir's intention to first establish Inspector Collins' credentials as an expert in the field of fingerprinting before the jury, then explain, in layman's terms, how fingerprinting worked as a means of identification. Collins was then made to discuss the fingerprint involved in the case. He showed the jury the cash box that was recovered from the scene and the fingerprint that he was able to obtain from the box, and demonstrated how it matched with the right thumb print of Alfred Stratton, for up to twelve points of agreement. At the request of a member of the jury Collins also demonstrated the difference in a print caused by various levels of pressure.
+
+After Collins took the stand, the defence called Dr John Garson to the stand. They were hoping to discredit Collins' testimony by establishing his credentials as one of Inspector Collins' mentors, thus giving to the jury the impression that he was more of an expert than Collins in the study of fingerprinting. As expected, he testified that upon examination of the print taken from the cash box and that of Alfred Stratton, he would say with certainty that they were not in agreement.
+
+However, the defence failed to reckon with the fact that Garson was not an expert of fingerprinting but of anthropometry, its rival field in identification. As a matter of fact, he had spoken against fingerprinting in the Belper Committee. And there was one more thing of which they were unaware, which Muir intended to use to his advantage.
+
+In cross-examination, Muir called into evidence two letters, each written by Garson. One letter was to the Director of Public Prosecutions, the other was to the solicitor for the defence. Each letter said that Garson would be willing to testify for either side in the trial, depending on who would pay him more.
+
+:M<small>R.</small> M<small>UIR</small>. — How can you reconcile the writing of these two letters in the same day?
+
+:The witness (Dr Garson). — I am an independent witness.
+
+The judge, Mr Justice Channell, remarked that after writing two such letters he would opine that Dr. Garson was an "absolutely untrustworthy" witness.
+
+Having seen the credibility of Dr Garson as a witness shattered, the defence decided not to call Dr Faulds as a witness, fearing that Prosecutor Muir would have something to discredit him as well.
+
+==Conviction and execution==
+After both sides had given their summations and the jury had been given their final instructions, it took them a little more than two hours of deliberation to find the Stratton brothers guilty of murder, and on 6 May 1905 they were sentenced to death by hanging. The sentence was carried out on 23 May the same year.
+
+==References==
+
+
+==Further reading==
+*Beavan, Colin. ''Fingerprints: The Origins of Crime Detection and the Murder Case That Launched Forensic Science''. New York: Hyperion, 2001. 
+
+==External links==
+*[https://deptford.org/001/fingerprint High Street murders] — Deptford.org
+*[https://web.archive.org/web/20150210061108/http://www.crimelibrary.com/criminal_mind/forensics/fingerprints/2.html The Case That Made History] — Crime Library
+*[https://web.archive.org/web/20090421234516/http://people.stu.ca/~mclaugh/FINGERPRINTS/HISTORICAL_REACTIONS_WEBPAGE/FINGERPRINTS.HTML The History Of Fingerprinting In Criminal Identification And The Launch Of Forensic Science]
+
+
+Category:1905 murders in the United Kingdom
+Category:English people convicted of murder
+Category:People convicted of murder by England and Wales
+Category:Executed English people
+Category:London crime history
+Category:People executed for murder
+Category:20th-century executions by England and Wales
+Category:Fingerprints
+Category:Criminal brother duos
+Category:Criminal sibling duos
+Category:Murderer duos
+Category:History of the Metropolitan Police
