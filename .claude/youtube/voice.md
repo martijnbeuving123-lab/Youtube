@@ -22,7 +22,7 @@ Calm, documentary narration in the third person. Faceless: a voiceover over a mu
 archive-style visuals. Never "I", almost never "you". The narrator is the keeper of the
 file, not a character in the video.
 
-**Cold open, present tense, timestamp first.** Part 1 starts with date, time and place, then
+**Cold open, present tense, timestamp first.** Every video starts with date, time and place, then
 one ordinary person walking into the moment:
 > Monday, the 27th of March, 1905. Half past eight in the morning, Deptford High Street in
 > Southeast London. A 16 year old named William Jones arrives for work at Chapman's Oil and
