@@ -13,6 +13,9 @@ social publishing, or similar) unless the owner explicitly asks in that conversa
 
 Talk to the owner in Dutch. Videos, scripts and metadata are in English (British spelling).
 
+Full operating brief (CEO role, weekly topic shortlist, research rules, reports):
+`.claude/youtube/ceo-brief.md`. Production board and case log: `channel/pipeline.md`.
+
 ## Standing decisions
 
 - One case, one video, about 20 minutes (~3,000 words of narration). No multi-part series.
