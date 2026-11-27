@@ -55,7 +55,8 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 - Thumbnails: one shared "case file" house style for both channels (owner's choice 2026-11-27),
   made with `tools/thumbnail.py`; reference `channel/style/thumbnail-reference.jpg`, rules in
   `channel/daily-run.md` step 7. Real archive photos only.
-- Shorts: one Short per channel per day from the long video, published the next day at 12:00
+- Shorts: one Short per day from the long video (Precinct Archive; The Defector Files paused until
+  it has an upload route without Hermoso's post limit), published the next day at 12:00
   Amsterdam (owner's decision 2026-11-27; two-week trial reviewed in the weekly report). Made with
   `tools/short.py` (`channel/daily-run.md` step 6b), scheduled by the daily check.
 - Budget: no paid services or credits beyond the vidIQ upload; anything that costs money is the

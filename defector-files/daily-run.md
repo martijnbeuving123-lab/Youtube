@@ -83,7 +83,12 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
 - QA: duration, 1080p, about -14 LUFS, sampled frames.
 
 
-## 6b. Short for tomorrow 12:00 (owner's decision 2026-11-27; 20 min, never at the cost of the deadline)
+## 6b. Short for tomorrow 12:00 — PAUSED for The Defector Files
+**Paused (owner, 2026-11-27):** no Shorts for this channel until the owner has set up an upload
+route without Hermoso's Free-plan post limit (e.g. the channel connected in vidIQ). Skip this
+step and say "Shorts gepauzeerd" in the report. The steps below apply once it is switched on.
+
+### (when switched on)
 Every day one YouTube Short from today's long video, published the next day at **12:00
 Amsterdam** (the daily check schedules it). Skip it if the long video is not uploaded yet with
 less than 90 minutes to the deadline; the long video always comes first.
