@@ -1,0 +1,33 @@
+# The Defector Files — channel brief
+
+YouTube channel **The Defector Files** (@TheDefectorFiles, channel ID `UCgxd9z2Sxn6dPkxhZdQvpJg`).
+Faceless, narrated documentaries of about 20 minutes: true spy stories from the declassified
+record. Double agents, defectors, moles, codebreakers, wartime deceptions, and the
+investigations that caught them. Closed cases only.
+
+Sister channel of Precinct Archive; it shares the repo's `tools/` and the yt-* skills.
+Talk to the owner in Dutch. Videos, scripts and metadata in English (**American spelling**,
+American date order: "June 19, 1953").
+
+## Standing decisions (owner, 2026-11-27)
+
+- One case, one video, about 20 minutes (~3,000 words). Every day.
+- **The owner uploads this channel themselves.** Claude does NOT use vidIQ or any upload tool for
+  this channel. By **15:00 Amsterdam time** Claude delivers: the MP4 (sent to the owner via
+  SendUserFile, status proactive) and an upload pack in `defector-files/deliveries/<slug>/`
+  (`upload.md`, thumbnail, captions).
+- Research, script, packaging and SEO with the repo skills (`yt-viral`, `yt-script`,
+  `yt-package`, `yt-seo`). No paid services.
+- Voice: Kokoro `am_michael`, speed 0.95 (`tools/voiceover.py`). Music: `tools/music.py`.
+- Visuals: real public-domain archive material only. Main source: Library of Congress
+  (`tools/loc_get.py`; only items with a full-size image and "no known restrictions" /
+  government work). Wikimedia Commons (`tools/commons_get.py`) as a second source; it is often
+  rate-limited from the cloud. Cards (`tools/cards.py`) and maps (`tools/maps.py`) fill gaps.
+  Record every image in `credits.md`. **No AI imagery of real people.** Never present a
+  generic photo as the specific person, place or document.
+- Hard limits: closed case; strong sources; nobody called a spy unless convicted, officially
+  confirmed (e.g. Venona, an official history) or self-confessed; contested points flagged;
+  advertiser-safe; no glorifying of violence.
+
+Voice profile: `defector-files/voice.md`. Daily runbook: `defector-files/daily-run.md`.
+Production board and case log: `defector-files/pipeline.md`.

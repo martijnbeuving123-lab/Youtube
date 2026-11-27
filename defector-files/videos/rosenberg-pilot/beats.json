@@ -1,0 +1,47 @@
+[
+ {
+  "id": "01",
+  "screen": "assets/img/singsing.jpg",
+  "text": "On the evening of June nineteenth, 1953, inside Sing Sing Prison in New York, the United States executed a married couple. Julius and Ethel Rosenberg became the only American civilians put to death for espionage-related activity during the Cold War."
+ },
+ {
+  "id": "02",
+  "screen": "assets/cards/title.png",
+  "text": "They left behind two young sons, and a question that would divide America for half a century. Were they Soviet spies who helped hand over the secret of the atomic bomb? Or were they victims of Cold War fear?"
+ },
+ {
+  "id": "03",
+  "screen": "assets/img/hoover.jpg",
+  "text": "The trail began not in New York, but in Britain. In early 1950, the physicist Klaus Fuchs, who had worked at Los Alamos, confessed to passing atomic secrets to Moscow. He named his American courier: a chemist from Philadelphia called Harry Gold. J. Edgar Hoover's FBI began to pull on the thread."
+ },
+ {
+  "id": "04",
+  "screen": "assets/cards/gold.png",
+  "text": "Gold was arrested on May twenty-third, 1950. And Gold led the FBI to a young army machinist who had worked at Los Alamos. His name was David Greenglass. He was Ethel Rosenberg's younger brother."
+ },
+ {
+  "id": "05",
+  "screen": "assets/cards/arrest.png",
+  "text": "Greenglass talked. On July seventeenth, agents arrested his brother-in-law, Julius Rosenberg. Less than a month later, they arrested Ethel."
+ },
+ {
+  "id": "06",
+  "screen": "assets/img/wirescreen.jpg",
+  "text": "At the trial in March 1951, Greenglass was the star witness. He told the court that his sister had typed up the stolen notes. On March twenty-ninth, the jury found the Rosenbergs guilty."
+ },
+ {
+  "id": "07",
+  "screen": "assets/cards/quote.png",
+  "text": "On April fifth, Judge Irving Kaufman sentenced them both to death."
+ },
+ {
+  "id": "08",
+  "screen": "assets/cards/2001.png",
+  "text": "Decades later, decoded Soviet cables confirmed that Julius had worked for Soviet intelligence. But in 2001, David Greenglass admitted that he could not actually remember his sister typing anything. He said he had testified to protect his own wife."
+ },
+ {
+  "id": "09",
+  "screen": "assets/cards/end.png",
+  "text": "This is the Rosenberg case. The spy ring, the brother who testified against his sister, and the evidence that still divides historians. This is The Defector Files."
+ }
+]
