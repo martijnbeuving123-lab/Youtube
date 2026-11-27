@@ -67,6 +67,14 @@ Per channel, and then the two side by side:
 
 Be honest about small numbers: with a few hundred views, one video is noise. State confidence
 (high/medium/low) for every conclusion and do not overfit a runbook to one data point.
+**Minimum-data rule:** while a channel's videos get fewer than ~100 views each, change no content
+rules (topics, hooks, length) on performance; only fix packaging (titles, thumbnails, search
+names) and production problems.
+
+**Hermoso data:** Hermoso relays YouTube API data under YouTube's developer policy: show those
+numbers exactly as returned (tables are fine) and add no derived figures (percentages, ratios,
+averages, rankings, growth) and no sentences that interpret them. For The Defector Files, base
+advice on content (titles, scripts, comments, public counts) and on numbers as returned.
 
 ## 3. Improve the process yourself
 Make concrete, small edits — at most about 5 per channel per week — where the evidence supports
