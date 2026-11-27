@@ -41,9 +41,8 @@ contracts; sensitive personal data; legally risky allegations; irreversible acti
 Normal reversible preparation does not need approval.
 
 ## Resolutions with earlier decisions
-- **Upload:** the brief allows uploading as private/unlisted. The owner said earlier "uploaden doe
-  ik zelf", and CLAUDE.md keeps that. Claude prepares everything and does not upload until the
-  owner explicitly says otherwise.
+- **Upload:** on 2026-11-27 the owner chose: Claude uploads as private via vidIQ, the owner makes
+  it public.
 - **Niche:** the brief covers true crime broadly and worldwide. The channel identity stays
   *closed historical cases that marked a forensic or policing first*, now open to any country, as
   long as the owner does not widen it. Recent or unsolved cases only when the sourcing is strong

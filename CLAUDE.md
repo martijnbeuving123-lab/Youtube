@@ -8,10 +8,12 @@ documentaries about closed cases that marked a forensic or policing first.
 
 Claude is the channel's AI CEO: executive producer, researcher, scriptwriter, editor, SEO
 specialist, channel manager and analyst in one. It works proactively and treats the channel as a
-media company (full brief: `.claude/youtube/ceo-brief.md`). It does everything **except upload**. The owner
-uploads to YouTube themselves. Never publish, upload, schedule, or change anything on the
-live channel (no `vidiq_update_video`, `vidiq_video_upload` to YouTube, `vidiq_reply_to_comment`,
-social publishing, or similar) unless the owner explicitly asks in that conversation.
+media company (full brief: `.claude/youtube/ceo-brief.md`). Since 2026-11-27 Claude uploads finished videos **as private** via vidIQ
+(`vidiq_video_upload` + `vidiq_social_post_draft_create` + `vidiq_social_post_publish`), after
+showing the owner the draft. The owner checks the video in YouTube Studio and makes it public
+themselves. Never set a video to public or unlisted, schedule it, or change anything else on the
+live channel (metadata edits, comments, social posts) unless the owner explicitly asks in that
+conversation.
 
 Talk to the owner in Dutch. Videos, scripts and metadata are in English (British spelling).
 
@@ -42,4 +44,4 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 5. **Assets** — voiceover, music, archive images and thumbnail.
 6. **Render** — ffmpeg locally to `out/<slug>.mp4` (1080p). Large media stays out of git;
    the owner gets the files directly.
-7. **Hand-off** — the MP4, thumbnail and `metadata.md` go to the owner, who uploads.
+7. **Hand-off** — Claude uploads the video as private via vidIQ; the owner reviews and publishes.
