@@ -16,7 +16,9 @@ outside `defector-files/` except shared tools when a tool bug blocks you.
   `defector-files/pipeline.md`), finish that one first.
 
 ## 1. Pick the case with the most viral potential (30 min)
-1. Candidates (8–12): unproduced cases in the case log, plus
+1. Candidates (8–12), always including at least two **recent** cases (2015 onwards, see
+   README.md; aim for about 1–2 recent videos a week, check the case log for this week's mix):
+   unproduced cases in the case log, plus
    `~/kvenv/bin/python tools/collect_channels.py defector-files/competitors.txt > /tmp/collected.json`
    and `python3 .claude/skills/yt-viral/swipe.py /tmp/collected.json --min 2.0` (what beats its
    channel's median, and which formula), plus WebSearch for anniversaries, new books,

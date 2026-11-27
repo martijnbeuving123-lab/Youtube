@@ -32,3 +32,16 @@ Image sources: LoC = Library of Congress has full-size public-domain photos (che
 | Velvalee Dickinson, the "Doll Woman" | 1942–1944 | US | Coded letters about dolls carried naval secrets | ? | Candidate |
 | Operation Pastorius | 1942 | US | Nazi saboteurs landed by U-boat on Long Island | LoC likely | Candidate |
 | Ana Montes | 1985–2001 | US | Pentagon's top Cuba analyst spied for Havana | ? | Candidate |
+
+### Recent cases (2015 onwards; check that the case is closed before choosing, mark facts ⚠ until verified)
+
+| Case | Years | Country | Hook | Images | State |
+|---|---|---|---|---|---|
+| Jonathan and Diana Toebbe | 2020–2022 | US | Navy engineer hid nuclear-submarine secrets in a peanut-butter sandwich; the "buyer" was the FBI | court/DOJ documents | Candidate |
+| Kevin Mallory | 2017–2019 | US | Ex-CIA officer recruited by China over LinkedIn | court/DOJ documents | Candidate |
+| Peter Debbins | 2020–2021 | US | Ex-Green Beret who passed secrets to Russian intelligence | court/DOJ documents | Candidate |
+| Yanjun Xu | 2018–2022 | US/Belgium | First Chinese intelligence officer extradited to the US; targeted GE Aviation | court/DOJ documents | Candidate |
+| Vadim Krasikov (Tiergarten murder) | 2019–2024 | Germany | State-ordered killing in Berlin; freed in the 2024 prisoner swap | court documents, maps | Candidate |
+| Sergey Cherkasov ("Victor Muller Ferreira") | 2022 | Netherlands/Brazil | Russian illegal stopped at Schiphol on his way to an internship at the ICC | official releases, maps | Candidate |
+| Bulgarian spy ring for Russia (Orlin Roussev) | 2020–2025 | UK | Six Bulgarians in Britain spying for Moscow | court documents, maps | Candidate (check sentencing is final) |
+| Artem and Anna Dultsev | 2022–2024 | Slovenia | Russian illegals posing as Argentines; children did not know; freed in the 2024 swap | official releases, maps | Candidate |
