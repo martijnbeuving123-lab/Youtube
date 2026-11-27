@@ -1,0 +1,6 @@
+{
+ "music": {
+  "file": "music.wav",
+  "source": "tools/music.py key E seed 27 (generated)"
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "music_db": -23,
+ "chapters": {
+  "01": "Deptford High Street, 27 March 1905",
+  "06": "The shop on the High Street",
+  "18": "The smudge on the tray",
+  "32": "Two brothers",
+  "42": "Fingerprints on trial",
+  "54": "The verdict and the legacy"
+ },
+ "beats": [
+  {
+   "id": "01",
+   "visual": "assets/cards/c01.png",
+   "motion": "in"
+  },
+  {
+   "id": "02",
+   "visual": "assets/img/deptford_hs.jpg",
+   "motion": "in",
+   "fallback": "assets/cards/c02.png",
+   "caption": "Deptford High Street today"
+  },
+  {
+   "id": "03",
+   "visual": "assets/cards/print.png",
+   "motion": "in"
+  },
+  {
+   "id": "04",
+   "visual": "assets/cards/c04.png",
+   "motion": "still"
+  },
+  {
+   "id": "05",
+   "visual": "assets/cards/title.png",
+   "motion": "still"
+  },
+  {
+   "id": "06",
+   "visual": "assets/cards/map.png",
+   "motion": "in",
+   "caption": "I  \u00b7  The shop on the High Street",
+   "pause_before": 1.4
+  },
+  {
+   "id": "07",
+   "visual": "assets/cards/c07.png",
+   "motion": "in"
+  },
+  {
+   "id": "08",
+   "visual": "assets/cards/c08.png",
+   "motion": "in"
+  },
+  {
+   "id": "09",
+   "visual": "assets/cards/c09.png",
+   "motion": "in"
+  },
+  {
+   "id": "10",
+   "visual": "assets/cards/c10.png",
+   "motion": "in"
+  },
+  {
+   "id": "11",
+   "visual": "assets/cards/c11.png",
+   "motion": "in"
+  },
+  {
+   "id": "12",
+   "visual": "assets/cards/c12.png",
+   "motion": "in"
+  },
+  {
+   "id": "13",
+   "visual": "assets/cards/house.png",
+   "motion": "in"
+  },
+  {
+   "id": "14",
+   "visual": "assets/cards/c14.png",
+   "motion": "in"
+  },
+  {
+   "id": "15",
+   "visual": "assets/cards/masks.png",
+   "motion": "in"
+  },
+  {
+   "id": "16",
+   "visual": "assets/cards/c16.png",
+   "motion": "in"
+  },
+  {
+   "id": "17",
+   "visual": "assets/cards/c17.png",
+   "motion": "in"
+  },
+  {
+   "id": "18",
+   "visual": "assets/cards/c18.png",
+   "motion": "in",
+   "caption": "II  \u00b7  The smudge on the tray",
+   "pause_before": 1.4
+  },
+  {
+   "id": "19",
+   "visual": "assets/cards/c19.png",
+   "motion": "in"
+  },
+  {
+   "id": "20",
+   "visual": "assets/cards/bertillon.png",
+   "motion": "in"
+  },
+  {
+   "id": "21",
+   "visual": "assets/img/faulds.jpg",
+   "motion": "in",
+   "fallback": "assets/cards/c45.png",
+   "caption": "Henry Faulds"
+  },
+  {
+   "id": "22",
+   "visual": "assets/img/henry_vf.jpg",
+   "motion": "in",
+   "fallback": "assets/cards/c58.png",
+   "caption": "Sir Edward Henry, 'Vanity Fair', 1905"
+  },
+  {
+   "id": "23",
+   "visual": "assets/img/fp_book.jpg",
+   "motion": "left",
+   "fallback": "assets/cards/c23.png",
+   "caption": "Henry's classification manual"
+  },
+  {
+   "id": "24",
+   "visual": "assets/cards/c24.png",
+   "motion": "in"
+  },
+  {
+   "id": "25",
+   "visual": "assets/cards/cashbox.png",
+   "motion": "in"
+  },
+  {
+   "id": "26",
+   "visual": "assets/cards/c26.png",
+   "motion": "in"
+  },
+  {
+   "id": "27",
+   "visual": "assets/cards/c27.png",
+   "motion": "in"
+  },
+  {
+   "id": "28",
+   "visual": "assets/cards/c28.png",
+   "motion": "in"
+  },
+  {
+   "id": "29",
+   "visual": "assets/cards/c29.png",
+   "motion": "in"
+  },
+  {
+   "id": "30",
+   "visual": "assets/cards/c30.png",
+   "motion": "in"
+  },
+  {
+   "id": "31",
+   "visual": "assets/cards/print.png",
+   "motion": "out"
+  },
+  {
+   "id": "32",
+   "visual": "assets/cards/c32.png",
+   "motion": "in",
+   "caption": "III  \u00b7  Two brothers",
+   "pause_before": 1.4
+  },
+  {
+   "id": "33",
+   "visual": "assets/cards/c33.png",
+   "motion": "in"
+  },
+  {
+   "id": "34",
+   "visual": "assets/cards/c34.png",
+   "motion": "in"
+  },
+  {
+   "id": "35",
+   "visual": "assets/cards/c35.png",
+   "motion": "in"
+  },
+  {
+   "id": "36",
+   "visual": "assets/cards/c36.png",
+   "motion": "in"
+  },
+  {
+   "id": "37",
+   "visual": "assets/cards/c37.png",
+   "motion": "in"
+  },
+  {
+   "id": "38",
+   "visual": "assets/cards/c38.png",
+   "motion": "in"
+  },
+  {
+   "id": "39",
+   "visual": "assets/cards/compare.png",
+   "motion": "in"
+  },
+  {
+   "id": "40",
+   "visual": "assets/cards/match.png",
+   "motion": "in"
+  },
+  {
+   "id": "41",
+   "visual": "assets/cards/c41.png",
+   "motion": "in"
+  },
+  {
+   "id": "42",
+   "visual": "assets/cards/c42.png",
+   "motion": "in",
+   "caption": "IV  \u00b7  Fingerprints on trial",
+   "pause_before": 1.4
+  },
+  {
+   "id": "43",
+   "visual": "assets/cards/c43.png",
+   "motion": "in"
+  },
+  {
+   "id": "44",
+   "visual": "assets/cards/c44.png",
+   "motion": "in"
+  },
+  {
+   "id": "45",
+   "visual": "assets/cards/c45.png",
+   "motion": "in"
+  },
+  {
+   "id": "46",
+   "visual": "assets/cards/c46.png",
+   "motion": "in"
+  },
+  {
+   "id": "47",
+   "visual": "assets/cards/c47.png",
+   "motion": "still"
+  },
+  {
+   "id": "48",
+   "visual": "assets/cards/c48.png",
+   "motion": "in"
+  },
+  {
+   "id": "49",
+   "visual": "assets/cards/points.png",
+   "motion": "in"
+  },
+  {
+   "id": "50",
+   "visual": "assets/cards/c50.png",
+   "motion": "in"
+  },
+  {
+   "id": "51",
+   "visual": "assets/cards/letters.png",
+   "motion": "in"
+  },
+  {
+   "id": "52",
+   "visual": "assets/cards/c52.png",
+   "motion": "still"
+  },
+  {
+   "id": "53",
+   "visual": "assets/cards/c53.png",
+   "motion": "in"
+  },
+  {
+   "id": "54",
+   "visual": "assets/cards/c54.png",
+   "motion": "in",
+   "caption": "V  \u00b7  The verdict",
+   "pause_before": 1.4
+  },
+  {
+   "id": "55",
+   "visual": "assets/cards/c55.png",
+   "motion": "in"
+  },
+  {
+   "id": "56",
+   "visual": "assets/cards/c56.png",
+   "motion": "in"
+  },
+  {
+   "id": "57",
+   "visual": "assets/img/henry_vf.jpg",
+   "motion": "out",
+   "fallback": "assets/cards/c23.png"
+  },
+  {
+   "id": "58",
+   "visual": "assets/cards/c58.png",
+   "motion": "in"
+  },
+  {
+   "id": "59",
+   "visual": "assets/cards/c59.png",
+   "motion": "in"
+  },
+  {
+   "id": "60",
+   "visual": "assets/img/faulds.jpg",
+   "motion": "out",
+   "fallback": "assets/cards/c60.png"
+  },
+  {
+   "id": "61",
+   "visual": "assets/cards/c61.png",
+   "motion": "in"
+  },
+  {
+   "id": "62",
+   "visual": "assets/cards/c62.png",
+   "motion": "still"
+  },
+  {
+   "id": "63",
+   "visual": "assets/cards/end.png",
+   "motion": "still"
+  }
+ ]
+}

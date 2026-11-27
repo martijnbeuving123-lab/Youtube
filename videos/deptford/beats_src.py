@@ -144,7 +144,12 @@ import json, sys
 beats=[{"id": f"{i+1:02d}", "act": a, "screen": s, "text": t} for i,(a,s,t) in enumerate(B)]
 if __name__=="__main__":
     d=sys.argv[1]
-    json.dump([{k:v for k,v in x.items() if k!="act"} for x in beats], open(f"{d}/beats.json","w"), indent=1)
+    # phonetic spellings for the TTS only (never in script.md)
+    PHON={"Deptford":"Detford","Macnaghten":"Mack-nawten","Bertillon":"Bair-tee-yon"}
+    def ph(t):
+        for a,b2 in PHON.items(): t=t.replace(a,b2)
+        return t
+    json.dump([{"id":x["id"],"screen":x["screen"],"text":ph(x["text"])} for x in beats], open(f"{d}/beats.json","w"), indent=1)
     out=["# The Deptford Murders — script","","Working title: **The Thumbprint That Hanged Two Brothers: The Deptford Murders (1905)**","Format: one video, about 20 minutes. Narrator: Kokoro bm_george (local). British spelling.","Each beat = one visual block. `[ON SCREEN: …]` is the image or graphic for that block; the","lines under it are the narration exactly as voiced. Reconstructions and illustrations are labelled","as such on screen; no image is presented as evidence unless it is archive material.","","Hooks scored with `yt-script/hookscore.py` (ADDRESS is low by design, see voice.md). Winner (40):","\"No British jury had ever convicted anyone of murder on a fingerprint…\" — The Statistic / a first; placed at 0:40.","","---"]
     cur=None
     for x in beats:
