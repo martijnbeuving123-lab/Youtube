@@ -1,0 +1,86 @@
+# Our own YouTube uploader (no vidIQ or Hermoso needed). Started by the Claude tasks via
+# workflow_dispatch; runs tools/youtube_api.py with the channel's secrets.
+# Setup (once, by the owner): channel/youtube-api-setup.md
+name: youtube
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "defector or precinct"
+        required: true
+        default: defector
+      action:
+        description: "upload | schedule | status | whoami"
+        required: true
+        default: whoami
+      ref:
+        description: "branch holding the metadata, thumbnail and captions"
+        required: false
+        default: claude/pensive-cerf-dz4nqf
+      meta:
+        description: "upload: path of the meta.json in the repo"
+        required: false
+      video_id:
+        description: "schedule/status: YouTube video id"
+        required: false
+      publish_at:
+        description: "schedule: ISO time, e.g. 2026-11-28T18:00:00Z"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-${{ inputs.channel }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+
+      - name: Pick the channel's credentials
+        id: creds
+        run: |
+          case "${{ inputs.channel }}" in
+            defector|precinct) echo "ok" ;;
+            *) echo "unknown channel"; exit 1 ;;
+          esac
+
+      - name: Fetch the staged video
+        if: inputs.action == 'upload'
+        run: |
+          git fetch --depth 1 origin upload-staging
+          git show origin/upload-staging:video.mp4 > /tmp/video.mp4
+          ls -la /tmp/video.mp4
+
+      - name: Run
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ inputs.channel == 'defector' && secrets.YT_REFRESH_TOKEN_DEFECTOR || secrets.YT_REFRESH_TOKEN_PRECINCT }}
+        run: |
+          set -o pipefail
+          case "${{ inputs.action }}" in
+            upload)   python3 tools/youtube_api.py upload "${{ inputs.meta }}" /tmp/video.mp4 | tee /tmp/out.txt ;;
+            schedule) python3 tools/youtube_api.py schedule "${{ inputs.video_id }}" "${{ inputs.publish_at }}" | tee /tmp/out.txt ;;
+            status)   python3 tools/youtube_api.py status "${{ inputs.video_id }}" | tee /tmp/out.txt ;;
+            whoami)   python3 tools/youtube_api.py whoami | tee /tmp/out.txt ;;
+            *) echo "unknown action"; exit 1 ;;
+          esac
+          { echo '```'; grep '^RESULT' /tmp/out.txt || true; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Empty the staging branch
+        if: always() && inputs.action == 'upload'
+        run: |
+          git config user.name "youtube-uploader"
+          git config user.email "noreply@github.com"
+          git checkout --orphan empty-stage
+          git rm -rf --cached . > /dev/null
+          git commit --allow-empty -m "upload-staging emptied" > /dev/null
+          git push -f origin HEAD:upload-staging
