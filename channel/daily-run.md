@@ -77,7 +77,9 @@ session can resume.
 - Push `out/captions.srt` and the thumbnail to `deliveries/<slug>/` so the owner can add the captions.
 
 ## 9. Report
-Update `channel/pipeline.md` and end with a short report in Dutch:
+Update `channel/pipeline.md`: mark today's case **Produced** in the case log (with the YouTube
+link), and set tomorrow's case as "Next up". Never produce a case that is already marked Produced.
+Then end with a short report in Dutch:
 - the YouTube link;
 - the title and the case;
 - the owner's tasks in Studio: AI disclosure **Yes**, not made for kids, upload the captions,
