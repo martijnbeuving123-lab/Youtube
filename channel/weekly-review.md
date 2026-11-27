@@ -13,8 +13,10 @@ before every push. Read first: `CLAUDE.md`, `.claude/youtube/ceo-brief.md`,
 
 ## Hard limits (never change these, not even via a runbook edit)
 - On the live channels you may change **only the title, description, tags and thumbnail** of
-  public videos, as step 3b describes (owner's decision, 2026-11-27). Never privacy, schedule,
-  made-for-kids, AI disclosure, category, comments, playlists, posts, uploads or deletions.
+  public videos, as step 3b describes (owner's decision, 2026-11-27), plus the fixes in step 3f
+  when the audit is red or orange: the channel description/keywords, and setting weak old videos
+  to **private** (never delete). Never public/unlisted, schedule, made-for-kids, AI disclosure,
+  category, comments, posts, uploads or deletions.
 - **Thumbnail house style is fixed.** A new thumbnail is made with `tools/thumbnail.py` in the
   channel's own house style; only the photo and the words change. Never a different layout, font,
   colour scheme or template, not even on one video.
@@ -208,8 +210,21 @@ guidelines; check the current wording with WebSearch on YouTube's help pages onc
   every public video, the channel page and About text, and a clear verdict: **groen** (apply),
   **oranje** (fix these first) or **rood** (do not apply yet), with the list of fixes. Advise
   the owner to apply only on groen.
-- Proposals that need the owner (human voice, making weak old videos private, slower cadence) go
-  under "Jouw akkoord nodig".
+- **Red or orange: fix it yourself, no approval needed** (owner's decision, 2026-11-27). In the
+  same run:
+  - fix the process causes in the runbooks and `channel/originality-rules.md`;
+  - repackage every flagged video (title, description, tags, thumbnail in the house style; the
+    5-per-week cap of step 3b does not apply to audit fixes), so titles and thumbnails no longer
+    look alike;
+  - rewrite the channel description and keywords if they are thin or generic (Hermoso
+    `update_youtube_channel` where it reaches the channel);
+  - set old videos that clearly fail the rules and would hurt a review (e.g. near-identical
+    templated videos, the short "Part x of 3" pieces if the audit flags them) to **private**.
+    Never delete. Log each one (id, title, reason) in the packaging log so it can be restored,
+    and never make private a video among the channel's top 3 by watch time;
+  - re-check after the fixes and report the new light.
+- Only the owner can do: a human voice, a slower cadence, applying for the Partner Program. Those
+  stay proposals in the report.
 In the report: a traffic light per channel (keuringsstatus) and the top 3 risks.
 
 ## 4. Report → `reports/weekly/<YYYY-MM-DD>.md` (Dutch)
