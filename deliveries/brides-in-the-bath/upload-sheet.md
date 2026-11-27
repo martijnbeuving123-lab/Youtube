@@ -65,3 +65,6 @@ Three verdicts of accident, overturned by a tape measure and three baths. Spilsb
 - Upload `deliveries/brides-in-the-bath/captions.srt` as English subtitles.
 - Check the thumbnail is set; if not, upload `deliveries/brides-in-the-bath/thumbnail.jpg`.
 - Category: Education. Make public at 19:00.
+
+## YouTube
+Uploaded as private on 27 Nov 2026: https://www.youtube.com/watch?v=e9Aa2dWmvo4
