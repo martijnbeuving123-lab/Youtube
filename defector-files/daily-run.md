@@ -139,9 +139,18 @@ repo is public, so the video is staged for a few minutes on branch `upload-stagi
    stop and put that at the top of the report.
 9. Save the YouTube link in `upload.md` and push.
 
-Fallback (Hermoso missing, no posts left, or an error you cannot fix): send the MP4 with
-SendUserFile (status `proactive`, display `attach`) and say in the report that the owner must
-upload it with `upload.md`.
+Fallback — the owner uploads by hand (owner's decision 2026-11-27, for when Hermoso's free posts
+are used up, Hermoso is missing, or an error you cannot fix). Do not skip production:
+1. Write `defector-files/deliveries/<slug>/upload.md`: title, full description, tags, category
+   Education, made for kids No, "altered or synthetic content" Yes, privacy **Private** (no
+   schedule), and the 5 Studio steps (upload MP4 → title/description/tags → thumbnail → captions
+   → save as Private).
+2. Send with SendUserFile (status `proactive`, display `attach`), in one call: the MP4,
+   `thumbnail.jpg`, `captions.srt` and `upload.md`.
+3. Put at the top of the report: "📤 Handmatig uploaden: zet de video vóór 17:30 als PRIVÉ op
+   YouTube; de dagelijkse check plant hem om 19:00 in." Note in the pipeline:
+   "awaiting manual upload (<slug>)".
+When fewer than 3 Hermoso posts are left, warn at the top of the report every day.
 
 ## 9. Report (Dutch, short)
 Update `defector-files/pipeline.md` (case → Produced, tomorrow's case → Next up). Then report:
