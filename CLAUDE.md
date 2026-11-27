@@ -48,5 +48,6 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
    chapters, tags).
 5. **Assets** — voiceover, music, archive images and thumbnail.
 6. **Render** — ffmpeg locally to `out/<slug>.mp4` (1080p). Large media stays out of git;
-   the owner gets the files directly.
+   the owner gets the files directly. (Only exception: `tools/hermoso_stage.py` puts an upload
+   copy on branch `upload-staging` for a few minutes for the Defector Files Hermoso upload.)
 7. **Hand-off** — Claude uploads the video as private via vidIQ; the owner reviews and publishes.

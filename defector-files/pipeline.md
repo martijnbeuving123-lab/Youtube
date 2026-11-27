@@ -30,7 +30,7 @@ Image sources: LoC = Library of Congress has full-size public-domain photos (che
 | Francis Gary Powers / U-2 | 1960 | US/USSR | Shot down over the USSR; the swap on Glienicke Bridge | LoC likely | Candidate |
 | Alger Hiss and the pumpkin papers | 1948–1950 | US | Microfilm hidden in a pumpkin | LoC likely | Candidate |
 | Velvalee Dickinson, the "Doll Woman" | 1942–1944 | US | Coded letters about dolls carried naval secrets | ? | Candidate |
-| Operation Pastorius | 1942 | US | Nazi saboteurs landed by U-boat on Long Island | LoC likely | Candidate |
+| Operation Pastorius | 1942 | US | Nazi saboteurs landed by U-boat on Long Island | LoC likely | Produced 27 Nov (video sent to owner as pastorius.bundle; not on GitHub, not uploaded); do not redo |
 | Ana Montes | 1985–2001 | US | Pentagon's top Cuba analyst spied for Havana | ? | Candidate |
 
 ### Recent cases (2015 onwards; check that the case is closed before choosing, mark facts ⚠ until verified)

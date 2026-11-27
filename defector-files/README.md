@@ -12,10 +12,12 @@ American date order: "June 19, 1953").
 ## Standing decisions (owner, 2026-11-27)
 
 - One case, one video, about 20 minutes (~3,000 words). Every day.
-- **The owner uploads this channel themselves.** Claude does NOT use vidIQ or any upload tool for
-  this channel. By **15:00 Amsterdam time** Claude delivers: the MP4 (sent to the owner via
-  SendUserFile, status proactive) and an upload pack in `defector-files/deliveries/<slug>/`
-  (`upload.md`, thumbnail, captions).
+- **Claude uploads every video as PRIVATE via Hermoso** (owner's decision, 2026-11-27), by
+  **15:00 Amsterdam time**, with title, description, tags, category Education, thumbnail,
+  captions, "altered or synthetic content" Yes and "made for kids" No. The owner checks it in
+  YouTube Studio and makes it public themselves. Never public, unlisted or scheduled, and no
+  other changes on the live channel. No vidIQ for this channel. Steps: `daily-run.md` step 8.
+  The upload pack in `defector-files/deliveries/<slug>/` is still written, as a record and backup.
 - Research, script, packaging and SEO with the repo skills (`yt-viral`, `yt-script`,
   `yt-package`, `yt-seo`). No paid services.
 - Voice: Kokoro `am_michael`, speed 0.95 (`tools/voiceover.py`). Music: `tools/music.py`.

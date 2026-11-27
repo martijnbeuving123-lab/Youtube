@@ -1,19 +1,25 @@
 # Daily production run — The Defector Files
 
-A scheduled task starts a fresh session every morning. **Deadline: by 15:00 Amsterdam time
-the owner has the MP4 and the upload pack.** The owner uploads it to YouTube themselves.
+A scheduled task starts a fresh session every morning. **Deadline: by 15:00 Amsterdam time the
+video is on YouTube as PRIVATE**, uploaded by Claude via Hermoso. The owner only checks it and
+makes it public.
 
 Read `defector-files/README.md` and `defector-files/voice.md` first. Work on branch
 `claude/pensive-cerf-dz4nqf`. Commit and push after every step (`git pull --rebase` before every
 push: the Precinct Archive run pushes to the same branch, in other folders). Never touch files
 outside `defector-files/` except shared tools when a tool bug blocks you.
 
-**Do not use vidIQ or any upload tool for this channel.**
+**Upload via Hermoso only (step 8), always as private. Never vidIQ for this channel. Never make
+a video public, unlisted or scheduled, and change nothing else on the live channel.**
 
 ## 0. Check (5 min)
 - `bash tools/setup.sh` (Kokoro, yt-dlp, soundfile).
 - `TZ=Europe/Amsterdam date`. If the previous run left a half-finished video (see
   `defector-files/pipeline.md`), finish that one first.
+- Hermoso check (ToolSearch "Hermoso"): `list_connector_accounts` must show YouTube
+  `@thedefectorfiles`, and `hermoso_credits` → `posting.left` must be at least 1. If the
+  connector is missing, YouTube is not connected, or no posts are left, still make the video,
+  deliver it as in the fallback in step 8, and say so at the top of the report.
 
 ## 1. Pick the case with the most viral potential (30 min)
 1. Candidates (8–12), always including at least two **recent** cases (2015 onwards, see
@@ -65,15 +71,36 @@ outside `defector-files/` except shared tools when a tool bug blocks you.
 - `yt-seo`: description (with sources and image credits, and "Narration is AI-generated."),
   chapters, tags, pinned comment.
 
-## 8. Deliver to the owner (by 15:00)
-- Write `defector-files/deliveries/<slug>/upload.md` with, ready to paste: title, description
-  (with chapters), tags, pinned comment, category Education, "Altered or synthetic content: Yes",
-  "Made for kids: No", language English. Copy `thumbnail.jpg` and `captions.srt` there. Push.
-- Send the MP4 with SendUserFile (status `proactive`, display `attach`), with a one-line caption.
-  If the send fails or the file is refused, say so in the report and leave the MP4 in the session.
+## 8. Upload as private via Hermoso (by 15:00)
+Hermoso refuses files over ~16 MB sent from here, but fetches any size from a public URL. The
+repo is public, so the video is staged for a few minutes on branch `upload-staging`:
+1. Write `defector-files/deliveries/<slug>/upload.md` (title, description with chapters, tags,
+   pinned comment, category Education, AI disclosure Yes, made for kids No, language English)
+   and copy `thumbnail.jpg` and `captions.srt` there. Push (record and backup).
+2. `python3 tools/hermoso_stage.py push defector-files/videos/<slug>/out/<slug>.mp4`
+   (makes an upload copy of at most 95 MB, pushes it, prints the raw URL).
+3. Hermoso `upload_file` with `url` = that raw URL → a Hermoso video URL.
+4. **At once:** `python3 tools/hermoso_stage.py clear` (empties the branch, so the unpublished
+   video is no longer public there). Do this even if step 3 failed.
+5. Thumbnail: Hermoso `upload_file` with `getUploadUrl: true`, then
+   `curl -T defector-files/deliveries/<slug>/thumbnail.jpg -H "Content-Type: image/jpeg" <uploadUrl>`
+   → a Hermoso image URL.
+6. `post_to_youtube` with: `videoUrl` (step 3), `title`, `description`, `tags`,
+   **`privacy: "private"`**, `categoryId: "27"`, `madeForKids: false`, `aiGenerated: true`,
+   `notifySubscribers: false`, `defaultLanguage: "en"`, `defaultAudioLanguage: "en"`,
+   `thumbnailUrl` (step 5). Never pass `publishAt`. Note the video id it returns.
+7. Captions: `manage_youtube_caption` `action: "upload"`, `videoId`, `language: "en"`,
+   `name: "English"`, `text` = the contents of `captions.srt`.
+8. Check: `list_youtube_videos` shows the video with privacy **private**. If it is not private,
+   stop and put that at the top of the report.
+9. Save the YouTube link in `upload.md` and push.
+
+Fallback (Hermoso missing, no posts left, or an error you cannot fix): send the MP4 with
+SendUserFile (status `proactive`, display `attach`) and say in the report that the owner must
+upload it with `upload.md`.
 
 ## 9. Report (Dutch, short)
 Update `defector-files/pipeline.md` (case → Produced, tomorrow's case → Next up). Then report:
-the title and case, where the upload pack is, the owner's steps (upload in Studio, paste
-`upload.md`, thumbnail, captions, AI disclosure Yes, not for kids, publish), anything uncertain,
+the YouTube link (private), the title and case, the owner's one step (check it in Studio and
+make it public), Hermoso posts left (`hermoso_credits` → `posting.left`), anything uncertain,
 tomorrow's case.
