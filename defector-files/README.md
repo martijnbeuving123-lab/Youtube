@@ -25,6 +25,13 @@ American date order: "June 19, 1953").
   rate-limited from the cloud. Cards (`tools/cards.py`) and maps (`tools/maps.py`) fill gaps.
   Record every image in `credits.md`. **No AI imagery of real people.** Never present a
   generic photo as the specific person, place or document.
+- **Recent cases are welcome** (owner, 2026-11-27): now and then, about 1–2 times a week, a case
+  from roughly 2015 onwards (e.g. a 2020 arrest), when it beats the historical candidates on
+  the scores. Extra rules for recent cases: the conviction or guilty plea is final (no trial or
+  appeal still running) or the facts are officially confirmed; only what courts, prosecutors
+  and official bodies established; living relatives and bystanders are not named; no claims
+  about people who were never charged. Images: court sketches and documents released by the
+  court or the US government, maps and cards; never press photos without a clear licence.
 - Hard limits: closed case; strong sources; nobody called a spy unless convicted, officially
   confirmed (e.g. Venona, an official history) or self-confessed; contested points flagged;
   advertiser-safe; no glorifying of violence.
