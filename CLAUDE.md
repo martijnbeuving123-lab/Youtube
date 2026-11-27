@@ -23,6 +23,9 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 ## Standing decisions
 
 - One case, one video, about 20 minutes (~3,000 words of narration). No multi-part series.
+- Cadence: one new video **every day**, uploaded as private by 17:00 Amsterdam time; the owner
+  makes it public at 19:00. A scheduled task runs `channel/daily-run.md` every morning.
+  No script approval in advance: the owner approves by reviewing the private upload.
 - Voice: vidIQ voiceover, **Daniel – Steady Broadcaster** (British male), voiceId
   `onwK4e9ZLuTAKqWW03F9`.
 - Voice profile: `.claude/youtube/voice.md`. The yt-* skills read it from
@@ -37,8 +40,7 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 
 1. **Pick the case** — `/yt-viral` plus vidIQ outliers and keyword research.
 2. **Research** — `research.md`, facts with sources. Mark anything contested.
-3. **Script** — `/yt-script`, saved as `script.md`. Owner approves before any voiceover credits
-   are spent.
+3. **Script** — `/yt-script`, saved as `script.md`. (Daily cadence: no advance approval.)
 4. **Package** — `/yt-package` and `/yt-seo`, saved as `metadata.md` (title, description,
    chapters, tags).
 5. **Assets** — voiceover, music, archive images and thumbnail.
