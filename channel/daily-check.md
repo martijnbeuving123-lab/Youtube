@@ -73,6 +73,8 @@ a private video with that title uploaded today (Hermoso `list_youtube_videos`). 
 and schedule it for 19:00 like any other (Hermoso `update_youtube_video` with `publishAt`; this
 uses no Hermoso posts), and fix missing captions/thumbnail from the delivery files. Not found:
 report "❌ nog niet geüpload door jou" with a reminder; the catch-up run at 18:30 checks again.
+The same goes for a manually uploaded Short ("awaiting manual upload (short)"): find it as a
+private video and schedule it for tomorrow 12:00.
 
 **No video uploaded?** Say so plainly at the top of the report ("NIET KLAAR"), with what the
 day's production run reported (its session / `pipeline.md`), and whether the finished MP4 exists

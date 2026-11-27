@@ -83,12 +83,11 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
 - QA: duration, 1080p, about -14 LUFS, sampled frames.
 
 
-## 6b. Short for tomorrow 12:00 — PAUSED for The Defector Files
-**Paused (owner, 2026-11-27):** no Shorts for this channel until the owner has set up an upload
-route without Hermoso's Free-plan post limit (e.g. the channel connected in vidIQ). Skip this
-step and say "Shorts gepauzeerd" in the report. The steps below apply once it is switched on.
-
-### (when switched on)
+## 6b. Short for tomorrow 12:00 (owner's decision 2026-11-27: a video AND a Short every day)
+On: make the Short every day. Upload it via Hermoso while posts are left (the long video gets
+the post first); when no post is left for it, include the Short in the manual-upload package of
+step 8 (fallback) with its own title/description in `upload.md` ("upload as Private, no
+schedule; the daily check schedules it for tomorrow 12:00").
 Every day one YouTube Short from today's long video, published the next day at **12:00
 Amsterdam** (the daily check schedules it). Skip it if the long video is not uploaded yet with
 less than 90 minutes to the deadline; the long video always comes first.
@@ -107,7 +106,8 @@ less than 90 minutes to the deadline; the long video always comes first.
    + the long video's link, image credits, "Narration is AI-generated."; category Education;
    made for kids No; AI disclosure Yes where the tool allows it. Record the Short's video id in
    the pipeline as "Short (private, for tomorrow 12:00)".
-   Upload route: The Defector Files: via Hermoso only while `hermoso_credits` → `posting.left` is above the days left in the month plus 2 (the long video comes first); otherwise skip and say so. If the channel is connected in vidIQ, use vidIQ instead (free).
+   Upload route: Hermoso while posts are left (long video first); otherwise the owner uploads it
+   by hand (step 8 fallback). If the channel is ever connected in vidIQ, use vidIQ instead (free).
 
 ## 7. Package → `metadata.md` and thumbnail
 - 3 titles and 3 thumbnail concepts (`yt-package` title.py), winner used. Thumbnail in the shared house style: follow the thumbnail rules in
