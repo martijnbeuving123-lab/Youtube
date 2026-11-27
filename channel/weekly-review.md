@@ -140,10 +140,12 @@ worst first. Never touch a video that is still private (the owner has not review
   characters visible; British spelling for Precinct Archive, American for The Defector Files;
   factual, no claim the video does not deliver, nobody called guilty who was not convicted.
 - **Description and tags:** `/yt-seo`. Keep chapters, sources/credits lines and disclosures.
-- **Thumbnail:** only `tools/thumbnail.py` in the house style (Precinct Archive: reference
-  `videos/crippen/out/thumbnail.jpg`; The Defector Files: `defector-files/voice.md`). New archive
-  photo and/or new words, same rules as the daily run (real archive image, no AI images of real
-  people, words do not repeat the title). Look at the image before uploading.
+- **Thumbnail:** only `tools/thumbnail.py` in the shared "case file" house style of both
+  channels (reference `channel/style/thumbnail-reference.jpg`; rules in `channel/daily-run.md`
+  step 7). New archive photo and/or new words; real archive images only, no AI images of real
+  people, no large hate symbols, words do not repeat the title.
+  **Restyle:** any public video of either channel whose thumbnail is not yet in this style gets
+  a new one in it (owner's decision 2026-11-27); these do not count toward the 5-per-week cap.
 
 **How.** Precinct Archive: `vidiq_update_video` (title/description/tags) and
 `vidiq_update_video_thumbnail`, channel `UCdRfVXC9tY_Poq1cNZ-JXGA`. The Defector Files: Hermoso

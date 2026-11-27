@@ -83,8 +83,8 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
 - QA: duration, 1080p, about -14 LUFS, sampled frames.
 
 ## 7. Package → `metadata.md` and thumbnail
-- 3 titles and 3 thumbnail concepts (`yt-package` title.py), winner used. Thumbnail with
-  `tools/thumbnail.py` in the house style; words must not repeat the title.
+- 3 titles and 3 thumbnail concepts (`yt-package` title.py), winner used. Thumbnail in the shared house style: follow the thumbnail rules in
+  `channel/daily-run.md` step 7 (`tools/thumbnail.py ... --label "CASE FILE · PLACE, YEAR"`).
 - `yt-seo`: description (with sources and image credits, and "Narration is AI-generated."),
   chapters, tags, pinned comment.
 

@@ -52,6 +52,9 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
   Congress and Wikimedia Commons (Commons is rate-limited from the cloud; see
   `channel/daily-run.md` step 4). Record the source and licence of each one in `credits.md`, animated with slow pans and zooms, under a low music
   bed. No AI imagery of real victims or perpetrators.
+- Thumbnails: one shared "case file" house style for both channels (owner's choice 2026-11-27),
+  made with `tools/thumbnail.py`; reference `channel/style/thumbnail-reference.jpg`, rules in
+  `channel/daily-run.md` step 7. Real archive photos only.
 - Budget: no paid services or credits beyond the vidIQ upload; anything that costs money is the
   owner's call.
 

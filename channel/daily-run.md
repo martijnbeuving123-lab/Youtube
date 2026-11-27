@@ -127,15 +127,18 @@ archive images** per video:
 
 ## 7. Package → `metadata.md` and `out/thumbnail.jpg`
 - 3 titles and 3 thumbnail concepts (scored with `yt-package`'s `title.py`), the winner used.
-- **Thumbnail: always the channel's house style**, the same as the Crippen video (owner's choice,
-  reference `videos/crippen/out/thumbnail.jpg`). Make it with
-  `python3 tools/thumbnail.py out/thumbnail.jpg <archive photo> "LINE1" "LINE2" --strip "QUOTE..."`:
-  - near-black left half; on it two short lines in big cream serif capitals (2-4 words in total);
-  - a red bar under the headline;
-  - a typewriter-style cream strip with a short quote or fact from the case, ending in "...";
-  - on the right, a real archive photo (sepia), fading into the black.
-  Never an AI-generated face, painting or "likeness" of a real person, and no red AI-style lettering.
-  The thumbnail words must not repeat the title.
+- **Thumbnail: always the shared house style of both channels** ("case file" style, owner's
+  choice 2026-11-27; reference `channel/style/thumbnail-reference.jpg`, examples in
+  `deliveries/*/thumbnail.jpg`). Make it with
+  `python3 tools/thumbnail.py <out.jpg> <archive photo> "LINE1" "LINE2" --label "CASE FILE · PLACE, YEAR" [--crop x,y,w,h] [--top <scene>] [--bottom <scene>]`:
+  - dark, grainy background; on the left two lines in Playfair Display Black capitals, line one
+    cream, line two larger and red (2-4 words in total), with a red rule under them;
+  - a cream "case file" label in typewriter capitals: what, where, when;
+  - on the right, a large real archive photo (black-and-white / sepia) fading into the dark;
+  - optional faded archive scenes top-left / bottom-left (a document, telegram card, map, plate).
+  Only real archive images: never an AI-generated face, painting or "likeness" of a real person,
+  and no swastikas or other hate symbols large in the thumbnail (advertiser safety). Never change
+  the layout, fonts or colours. The thumbnail words must not repeat the title.
 - Description, chapters, sources, image credits, tags, pinned comment.
 
 ## 8. Upload as private (by 17:00)

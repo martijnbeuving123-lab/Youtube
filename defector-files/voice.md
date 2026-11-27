@@ -42,8 +42,9 @@ Shocking, chilling, insane, evil, traitor-scum style insults, "you won't believe
   Act 2 the work (tradecraft, damage); Act 3 the hunt and the arrest; trial and aftermath;
   legacy and sign-off.
 - Titles: specific and concrete, e.g. "The FBI Agent Who Spied for Moscow for 22 Years".
-- Thumbnails: house style via `tools/thumbnail.py` (black left half, cream serif words, red bar,
-  typewriter strip, real archive photo on the right). Never an AI face.
+- Thumbnails: the shared "case file" house style via `tools/thumbnail.py` (reference
+  `channel/style/thumbnail-reference.jpg`; rules in `channel/daily-run.md` step 7). Real archive
+  photos only; never an AI face; no large swastikas or hate symbols.
 
 ## Notes for the skills
 `hookscore.py` rewards "you" early; this channel does not address the viewer. Judge hooks on
