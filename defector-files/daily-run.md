@@ -1,8 +1,8 @@
 # Daily production run — The Defector Files
 
 A scheduled task starts a fresh session every morning. **Deadline: by 15:00 Amsterdam time the
-video is on YouTube as PRIVATE**, uploaded by Claude via Hermoso. The owner only checks it and
-makes it public.
+video is on YouTube as PRIVATE**, uploaded by Claude via Hermoso. The daily check (`channel/daily-check.md`)
+then schedules it to go public at 19:00 if it is fully ready (owner's decision, 2026-11-27).
 
 Read `defector-files/README.md` and `defector-files/voice.md` first. Work on branch
 `claude/pensive-cerf-dz4nqf`. Commit and push after every step (`git pull --rebase` before every
@@ -114,7 +114,6 @@ upload it with `upload.md`.
 
 ## 9. Report (Dutch, short)
 Update `defector-files/pipeline.md` (case → Produced, tomorrow's case → Next up). Then report:
-the YouTube link (private), the title and case, the owner's one step (check it in Studio and
-make it public), Hermoso posts left (`hermoso_credits` → `posting.left`), how many real archive images were
+the YouTube link (private), the title and case, that the daily check will schedule it for 19:00, Hermoso posts left (`hermoso_credits` → `posting.left`), how many real archive images were
 used and from which sources (`tools/image_check.py`), anything uncertain,
 tomorrow's case.

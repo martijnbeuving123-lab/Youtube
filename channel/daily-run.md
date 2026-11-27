@@ -2,7 +2,8 @@
 
 A scheduled task starts a fresh session every morning (about 09:45 Amsterdam time). That session
 follows this runbook. **Deadline: the video is uploaded to YouTube as private by 17:00 Amsterdam
-time**, so the owner can review it and make it public at 19:00.
+time**. The daily check (`channel/daily-check.md`, ~17:40) then schedules it to go public at
+19:00 if it is fully ready (owner's decision, 2026-11-27).
 
 The owner decided on 2026-11-27:
 - one new 20-minute video every day;
@@ -147,8 +148,9 @@ link), and set tomorrow's case as "Next up". Never produce a case that is alread
 Then end with a short report in Dutch:
 - the YouTube link;
 - the title and the case;
-- the owner's tasks in Studio: AI disclosure **Yes**, not made for kids, upload the captions,
-  make it public at 19:00;
+- whether AI disclosure **Yes**, not made for kids and the captions were set at upload (write
+  this in `channel/pipeline.md` too, so the daily check knows); the daily check schedules the
+  video for 19:00;
 - how many real archive images were used, and from which sources;
 - anything that went wrong or is uncertain;
 - tomorrow's case.

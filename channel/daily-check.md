@@ -1,9 +1,13 @@
 # Daily check — both channels (every day ~17:40 Amsterdam)
 
 A scheduled task starts a fresh session every day at about 17:40 Amsterdam time, after both
-upload deadlines (The Defector Files 15:00, Precinct Archive 17:00) and before the owner makes the
-videos public at 19:00. Two jobs: **(A) is today's video on each channel fully ready to go public
-at 19:00**, and **(B) reply to viewers' comments**. Owner's decisions, 2026-11-27.
+upload deadlines (The Defector Files 15:00, Precinct Archive 17:00). Two jobs: **(A) check that
+today's video on each channel is fully ready and, if so, schedule it to go public at 19:00**, and
+**(B) reply to viewers' comments**. Owner's decisions, 2026-11-27: the owner no longer publishes
+by hand; Claude schedules every ready video for 19:00.
+
+A second, short run at about 18:30 (catch-up) does only part A, for a video that was not there
+or not ready at 17:40.
 
 Work on branch `claude/pensive-cerf-dz4nqf`; `git pull --rebase` before every push. Read
 `CLAUDE.md`, `defector-files/README.md`, `.claude/youtube/voice.md` and `defector-files/voice.md`
@@ -14,8 +18,11 @@ channel is connected there (`list_connector_accounts`; Hermoso is free, prefer i
 **The Defector Files** (`UCgxd9z2Sxn6dPkxhZdQvpJg`) via Hermoso. Public reads via TubeAlfred.
 
 ## Hard limits
-- Never change privacy, never make anything public or unlisted, never schedule (`publishAt`),
-  never delete anything. The owner makes videos public at 19:00.
+- The only publishing action allowed: on **today's** upload of each channel, keep privacy
+  `private` and set `publishAt` to **today 19:00 Europe/Amsterdam** (work out the UTC time with
+  `TZ=Europe/Amsterdam date -d 'today 19:00' -u +%Y-%m-%dT%H:%M:%SZ`; it moves with summer time).
+  Never make a video public immediately, never unlisted, never schedule any other video or time,
+  never delete anything. If it is already past 18:55 Amsterdam time, do not schedule; report it.
 - vidIQ: at most 30 credits per day, and never below a balance of 550. Never buy anything.
 - Only reply to comments; never delete, hide, hold, like-bomb or report them, never post to the
   community tab.
@@ -47,6 +54,16 @@ For Precinct Archive, vidIQ can set title/description/tags and the thumbnail; wh
 (captions, AI disclosure, made-for-kids) goes on the owner's to-do list unless Hermoso reaches
 that channel. Read every change back.
 
+**Schedule for 19:00 — only if all of these pass** (after your fixes): uploaded today, private,
+processing finished, title, description, custom thumbnail, made for kids **No** and AI disclosure
+**Yes**. Missing captions or tags alone do not block it (fix them if you can, report them). If
+the connector cannot read or set made-for-kids / AI disclosure (vidIQ for Precinct Archive),
+accept them only if the day's run recorded in the pipeline that they were set at upload;
+otherwise do not schedule. Precinct Archive: `vidiq_update_video` with `privacyStatus: "private"`
+and `publishAt`. The Defector Files: Hermoso `update_youtube_video` with `publishAt` (no `privacy`
+change). Read it back: the video must show as private with that publish time. Never schedule a
+video that fails a check; leave it private and say why at the top of the report.
+
 **No video uploaded?** Say so plainly at the top of the report ("NIET KLAAR"), with what the
 day's production run reported (its session / `pipeline.md`), and whether the finished MP4 exists
 so the owner can upload it by hand.
@@ -76,6 +93,9 @@ Never post the same reply twice; if a posting result is uncertain, check the thr
 retrying.
 
 ## Report (Dutch, short — the owner reads it as a notification)
-Start with one line per channel: **✅ klaar voor 19:00** or **❌ niet klaar**. Then per channel:
+Start with one line per channel: **✅ ingepland voor 19:00** (with the title) or **❌ niet
+ingepland** (with the reason, and what the owner can do: e.g. fix X in Studio and schedule it).
+The owner can still stop a scheduled video by setting it back to private in Studio. Then per
+channel:
 what was wrong and what you fixed, what the owner must still do in YouTube Studio (if anything),
 the number of comments answered and skipped, and anything flagged. Commit and push the logs.

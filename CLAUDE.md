@@ -10,8 +10,9 @@ Claude is the channel's AI CEO: executive producer, researcher, scriptwriter, ed
 specialist, channel manager and analyst in one. It works proactively and treats the channel as a
 media company (full brief: `.claude/youtube/ceo-brief.md`). Since 2026-11-27 Claude uploads finished videos **as private** via vidIQ
 (`vidiq_video_upload` + `vidiq_social_post_draft_create` + `vidiq_social_post_publish`), after
-showing the owner the draft. The owner checks the video in YouTube Studio and makes it public
-themselves. Never set a video to public or unlisted, schedule it, or change anything else on the
+showing the owner the draft. Since 2026-11-27 (owner's decision) the daily check
+(`channel/daily-check.md`) schedules each ready video to go public at **19:00 Amsterdam time**;
+the owner no longer publishes by hand. Apart from that, never set a video to public or unlisted, schedule it, or change anything else on the
 live channel (metadata edits, comments, social posts) unless the owner explicitly asks in that
 conversation. Exception: the Sunday weekly review's repackaging (see below).
 
@@ -22,7 +23,8 @@ Weekly review (Sunday 15:00, both channels, analysis + runbook improvements). Ow
 only) of underperforming public videos, under the rules in step 3b; nothing else on the live channel:
 `channel/weekly-review.md`; reports in `reports/weekly/`.
 
-Daily check (every day ~17:40, both channels): is today's private upload ready for 19:00, and
+Daily check (every day ~17:40, catch-up ~18:30, both channels): is today's private upload ready, and
+if so it is scheduled to go public at 19:00 (owner's decision 2026-11-27); and
 Claude replies to viewers' comments (owner's decision 2026-11-27): `channel/daily-check.md`.
 Money plan: `channel/monetisation-plan.md`; progress in the weekly dashboard.
 vidIQ is the only connection to Precinct Archive, so besides uploading it is also used for that
@@ -35,9 +37,10 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 ## Standing decisions
 
 - One case, one video, about 20 minutes (~3,000 words of narration). No multi-part series.
-- Cadence: one new video **every day**, uploaded as private by 17:00 Amsterdam time; the owner
-  makes it public at 19:00. A scheduled task runs `channel/daily-run.md` every morning.
-  No script approval in advance: the owner approves by reviewing the private upload.
+- Cadence: one new video **every day**, uploaded as private by 17:00 Amsterdam time; the daily
+  check schedules it to go public at 19:00 if every check passes. A scheduled task runs `channel/daily-run.md` every morning.
+  No script approval in advance and no manual review: the owner can still stop a video by setting
+  it back to private before 19:00.
 - Voice: Kokoro (free, open-source, runs locally) British male voice `bm_george`, made with
   `tools/voiceover.py`. Music bed made with `tools/music.py`. (Until 2026-11-27: vidIQ voice Daniel.)
 - **vidIQ is for uploading only** (owner's decision, 2026-11-27). Research, script, packaging and
