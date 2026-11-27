@@ -22,13 +22,18 @@ This is the full story of the Deptford murders, also known as the Mask Murders o
 Where the record is uncertain, this video says so. Some details, such as the exact sum taken, are reported differently in different accounts.
 
 CHAPTERS
+0:00 Deptford High Street, 27 March 1905
+1:15 The shop on the High Street
+4:31 The smudge on the tray
+9:00 Two brothers
+11:54 Fingerprints on trial
+16:03 The verdict and the legacy
 
 SOURCES
 Based on: Wikipedia, "Stratton Brothers case", "Edward Henry", "Henry Faulds", "Melville Macnaghten", "Richard Muir (barrister)"; History.com, "Fingerprint evidence is used to solve a British murder case"; Crime Library, "The Case That Made History". Further reading: Colin Beavan, Fingerprints: The Origins of Crime Detection and the Murder Case That Launched Forensic Science (2001); Proceedings of the Old Bailey, May 1905.
 
 IMAGES
-Archive images via Wikimedia Commons (public domain unless stated). Maps, cards, fingerprints and diagrams are original illustrations, not archive material; no fingerprint shown is a real print from the case. Full credits:
-CREDITS
+All visuals are original cards, schematic maps and illustrations, not archive material; no fingerprint shown is a real print from the case.
 
 Music: original instrumental score.
 Narration: AI voice.
