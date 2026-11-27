@@ -1,0 +1,138 @@
+{{Short description|English serial killer (1872–1915)}}
+{{Other people|George Smith}}
+{{More citations needed|date=July 2026}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox criminal
+| name        = George Joseph Smith
+| image       = GeorgeJosephSmith.JPG
+| caption     = George Joseph Smith
+| birth_name  = George Joseph Smith
+| other_names = Brides in the Bath Murderer<br>George Oliver Love<br>George Rose Smith<br>Charles Oliver James<br>Henry Williams<br>John Lloyd
+| birth_date  = {{Birth date|df=yes|1872|1|11}}
+| birth_place = [[Bethnal Green]], [[London]], England
+| death_date  = {{Death date and age|df=yes|1915|8|13|1872|1|11}}
+| death_place = [[Maidstone]], [[Kent]], England
+| spouse      = Caroline Thornhill (1898–1915)<br>Florence Wilson (1908–15; bigamous)<br>Edith Peglar (1908–15; bigamous)<br>Sarah Freeman (1909–15; bigamous)<br>Bessie Mundy (1910–12; bigamous)<br>Alice Burnham (1913; bigamous)<br>Alice Reavil (1914–15; bigamous)<br>Margaret Lofty (1914; bigamous)
+| death_cause = [[Execution by hanging]]
+| victims     = 3
+| country     = England
+| states      =
+| begin_year  = 1912
+| end_year    = 1914
+| apprehended = 23 March 1915
+| penalty     = [[Capital punishment in the United Kingdom|Death]]
+| convictions = [[Murder]] 
+}}
+'''George Joseph Smith''' (11 January 1872 – 13 August 1915) was an English [[serial killer]] and [[bigamy|bigamist]] who was convicted and subsequently hanged for the murders of three women in 1915. The case became known as the '''Brides in the Bath Murders'''. As well as being widely reported in the media, it was significant in the history of [[forensic pathology]] and detection. It was also one of the first cases in which striking similarities between connected crimes were used to prove guilt, a technique used in subsequent [[prosecution]]s.
+
+== Early life and marriages ==
+George Joseph Smith was born in [[Bethnal Green]], [[London]], on 11 January 1872, the son of an insurance agent. At age 9, Smith was sent to a [[reformatory]] at [[Gravesend]], [[Kent]], and later was imprisoned for fraud and theft. In 1896 he was sentenced to 12 months' imprisonment for persuading a woman to steal from her employers. Smith used the proceeds to open a baker's shop in [[Leicester]].
+
+In 1898, under the alias George Oliver Love, Smith married Caroline Beatrice Thornhill in Leicester; it was his only legal marriage. They moved to [[London]], where she worked as a maid for a number of employers, stealing from them for her husband. Thornhill was eventually caught in [[Worthing]], [[Sussex]], and sentenced to 12 months. On her release, she incriminated her husband and he was imprisoned in January 1901 for two years. On his release, Thornhill fled to Canada.
+
+In June 1908, Smith married Florence Wilson, a widow from [[Worthing]]. On 3 July he left her, but not before taking [[Pound sterling|£]]30 ({{Inflation|UK|30|1908|r=-3|fmt=eq|cursign=£}}) drawn from her savings account and selling her belongings from their [[Camden Town]] residence in London. On 30 July in [[Bristol]], Smith married Edith Peglar, who had replied to an advertisement for a housekeeper. Smith would disappear for months at a time, saying that he was going to another city to sell antiques. Between his other marriages, Smith would always come back to Peglar with money.
+
+In October 1909, Smith married Sarah Freeman, under the name George Rose Smith. As with Wilson, he left Freeman after clearing out her savings and selling her [[war bond]]s, with a total take of £400 ({{Inflation|UK|400|1909|r=-3|fmt=eq|cursign=£}}). He then married Bessie Mundy and Alice Burnham. In September 1914, he married Alice Reid under the alias Charles Oliver James. In total, Smith entered into seven bigamous marriages between 1908 and 1914. In most of these cases, Smith stole and dissipated his wives' possessions before he disappeared.
+
+== Two similar deaths ==
+In January 1915, the [[Metropolitan Police]] received a letter from Joseph Crossley, who owned a [[boarding house]] in [[Blackpool]], [[Lancashire]]. Dated 3 January, it was written by Crossley on behalf of his wife Alice and Mr Charles Burnham, father of Alice Smith (''née'' Burnham), who had died suddenly in a boarding house while in her bathtub. She was found by her husband, George Smith. Alice was not an heiress but had worked hard and saved money. Additionally, Smith took out a [[life insurance]] policy on her worth £500 ({{Inflation|UK|500|1913|r=-3|fmt=eq|cursign=£}}).<ref name="casebook">{{cite news|title=Brides in the Bath|url=https://www.youtube.com/watch?v=nhw_o6ePWwA|accessdate=22 June 2017|work=Fred Dinenage: Murder Casebook|date=8 June 2016}}</ref>
+
+Burnham had spotted a newspaper article in the ''[[News of the World]]'' before Christmas 1914 on the death of Margaret Elizabeth Lloyd (''[[given name|née]]'' Lofty), aged 38. She had been found dead in her bathtub at her lodgings in 14 Bismarck Road (later renamed Waterlow Road), [[Highgate]] by her husband John Lloyd and their [[landlady]].
+
+With his letter Crossley enclosed one cutting of the ''News of the World'' article and another describing the report of a Blackpool [[coroner]]'s [[inquest]] into Alice's death, dated 13 December 1913. He, his wife Alice and Burnham found the two deaths to be strikingly similar and urged the police to investigate the matter.
+
+== The hunt ==
+The case was assigned to [[Detective Inspector|Divisional Detective Inspector]] [[Arthur Neil]], despite his already being busy with [[Enemy alien#United Kingdom|enemy aliens]] and other wartime police duties. Neil visited 14 Bismarck Road, where the Lloyds had taken lodgings, and found it hard to believe that an adult like Mrs Lloyd could have drowned in such a small tub, especially since the tub was three-quarters full when she was found. He then interviewed the [[coroner]], Dr Bates, and asked whether there were signs of violence on the woman; none were seen except for a tiny bruise above the left elbow. Upon further investigation, Neil learned that a [[will (law)|will]] had been made on 18 December 1914, three hours before Mrs Lloyd died, which made her husband John the sole [[beneficiary]]; John had submitted the new will to a lawyer "for settlement". In addition, Mrs Lloyd had withdrawn all her savings on that same day.
+
+On 12 January, Dr Bates called Neil with an enquiry from the [[Yorkshire Insurance Company]] regarding the death of Mrs Lloyd. Three days before she was married, she had taken out a life insurance policy for £700 ({{Inflation|UK|700|1913|r=-3|fmt=eq|cursign=£}}), with John as sole beneficiary. Neil promptly asked the doctor to delay his reply. At the same time, Neil requested more information on the Smith case from the Blackpool police. Similarly, the late Mrs Smith had earlier taken out a life insurance policy and made a will in her husband's favour, and she took the lodgings in Blackpool only after Mr Smith inspected the bathtub.
+
+Neil asked Dr Bates to issue a favourable report to the insurance company. He was counting on the suspect to get in touch with his lawyer, and the office was watched day and night. On 1 February, a man fitting Lloyd/Smith's description appeared. Neil introduced himself and asked him whether he was John Lloyd. After Lloyd answered in the affirmative, Neil then asked him whether he was also George Smith. The man denied it vehemently. Neil, already sure that Lloyd and Smith were the same man, told him that he would take him for questioning on suspicion of bigamy. The man finally admitted that he was indeed Smith and was arrested.
+
+== Spilsbury enters the case ==
+When Smith was arrested for the charge of bigamy and suspicion of murder, the [[pathologist]] [[Bernard Spilsbury]] was asked to determine how the women died.<ref>Andrew Rose, ''Lethal Witness'', Sutton Publishing 2007, Kent State University Press 2009</ref> Although he was the [[Home Office]] [[pathologist]] and acted mainly in a consulting capacity, Spilsbury was also available for direct assistance to the police force.
+
+Margaret Lloyd's body was [[exhumation|exhumed]], and Spilsbury's first task was to confirm [[drowning]] as the cause of death; and if so, whether by accident or by force. He confirmed the tiny bruise on the elbow as noted before, as well as two microscopic marks. Even the evidence of drowning was not extensive. There were no signs of [[heart disease|heart]] or [[circulatory disease]], but the evidence suggested that death was almost instantaneous, as if the victim died of a sudden [[stroke]]. Poison was also seen as a possibility, and Spilsbury ordered tests on its presence. Finally, he proposed to Neil that they run some experiments in the very same bathtub in which Mrs Lloyd died. Neil had it set up in the police station.
+
+== A third victim ==
+[[File:GeorgeJosephSmithBridesintheBath1914BessieMundya.jpg|150px|thumb|George Joseph Smith and Bessie Mundy, pictured shortly before her murder]] 
+Newspaper reports about the "Brides in the Baths" began to appear. On 8 February, the senior police officer in [[Herne Bay, Kent|Herne Bay]], a small seaside resort in [[Kent]], who had read the stories, sent Neil a report of another death which was strikingly similar to the other two. A year before Burnham's death in Blackpool, one Henry Williams had rented a house with no bath in 80 High Street, Herne Bay for himself and his wife, Beatrice "Bessie" Mundy, whom he had married in [[Weymouth, Dorset|Weymouth]], [[Dorset]] in 1910.<ref name="Moore">{{cite book |last1=Moore |first1=James |title=Murder by Numbers - Fascinating Figures Behind The World's Worst Crimes |publisher=History Press |year=2018 |isbn=9780750981453 |page=18}}</ref> After failing to access money she had held in trust he abandoned her for two years. When they met by accident on the seafront at [[Weston-super-Mare]] in 1912 he convinced her to take him back and go on holiday with him to Herne Bay.
+
+Smith rented a bathtub seven weeks after meeting Mundy again and then took her to a local [[General practitioner|GP]], Dr Frank French. She was complaining of headaches, for which the doctor prescribed some medication, but Smith argued these were [[epilepsy|epileptic]] seizures.<ref name="Moore" /> On 12 July 1912, Williams woke French, saying that his wife was having another seizure. He checked on her, and promised to come back the following afternoon. However, he was surprised when, on the following morning, he was informed by Williams that his wife had died of drowning. The doctor found Bessie in the tub, her head under water, her legs stretched out straight and her feet protruding out of the water.<ref name="Moore" /> There was no trace of violence, so French attributed the drowning to epilepsy. The inquest [[jury]] awarded Williams the amount of £2,579{{citation needed|date=July 2026}} ({{Inflation|UK|2579|1912|r=-3|fmt=eq|cursign=£}}), as stipulated in Mrs Williams' will, made up five days before her death.
+
+Neil then sent photographs of Smith to Herne Bay for possible identification, and then went to Blackpool, where Spilsbury was conducting an [[autopsy]] of Alice Smith. The results were the same as with Margaret Lloyd: the lack of violence, every suggestion of instantaneous death, and little evidence of drowning. Furthermore, there were no traces of poison on Margaret Lloyd. Baffled, Spilsbury routinely took measurements of the corpse and had the tub sent to London.
+
+Back in London, Neil had received confirmation from Herne Bay. "Henry Williams" was also "John Lloyd" and "George Smith". This time, when Spilsbury examined Bessie Williams, he found one sure sign of drowning: the presence of [[Goose bumps|goose pimples]] on the skin on her thigh. As with the other two deaths, the tub in which Mrs Williams had died was sent to London.
+
+== Solution ==
+For weeks, Spilsbury pondered over the bathtubs and the victims' measurements. The first stage of an epileptic seizure consists of a stiffening and extension of the entire body. Considering Bessie Williams' height (5 feet 7 inches) and the length of the tub (5 feet), the upper part of her body would have been pushed up the sloping head of the tub, far above the level of the water.<ref name="Moore" /> The second stage consists of violent spasms of the limbs, which were drawn up to the body and then flung outward. Therefore, no one of her size could possibly get under water, even when her muscles were relaxed: the tub was simply too small.
+
+Using French's description of Bessie Williams when he found her in the bathtub, Spilsbury reasoned that Smith must have seized her by the feet and suddenly pulled them up toward himself, sliding the upper part of the body under water.<ref name="Moore" /> The sudden flood of water into her nose and throat might cause [[Shock (circulatory)|shock]] and sudden loss of consciousness, explaining the absence of injuries and minimal signs of drowning.
+
+Neil hired several experienced female divers of the same size and build as the victims. He tried to push them under water by force but there would be inevitable signs of struggle. Neil then unexpectedly pulled the feet of one of the divers, and her head glided underwater before she knew what happened. Suddenly Neil saw that the woman was no longer moving. He quickly pulled her out of the tub and it took him and a doctor over half an hour to revive her.<ref name="Moore" /> When she came to, she related that the only thing she remembered was the rush of water before she lost consciousness. Thus was Spilsbury's theory confirmed.
+
+George Joseph Smith was arrested on 15 February 1915 and formally charged on 23 March 1915 with the murders of Bessie Williams, Alice Smith, and Margaret Lloyd.
+
+== Trial and legal legacy ==
+On 22 June 1915 the trial began at the [[Old Bailey]]. The prosecuting counsel were [[Archibald Bodkin]] (later [[Director of Public Prosecutions]]), [[Cecil Whiteley]] (later [[King's Counsel|KC]]) and [[Travers Humphreys]] (later Mr Justice Humphreys).<ref>{{cite book |title= Encyclopedia of Murder|last= Wilson|first= Colin|author2=Patricia Pitman |year= 1984|publisher= [[Pan Books]]|location= London|isbn= 978-0-330-28300-7|pages= 577–580}}</ref><ref>{{cite book |title= The Trial of George Joseph Smith|editor-last= Watson|editor-first= ER |year= 1922|publisher= [[William Hodge]]|location= London}}</ref> Although in accordance with [[English law]] he could be tried only for the murder of Bessie Mundy, the [[prosecution]] used the deaths of the other two to establish the pattern of Smith's crimes; this was allowed by [[Thomas Edward Scrutton|Mr Justice Scrutton]] despite the protests of Smith's [[barrister|counsel]], [[Edward Marshall Hall|Sir Edward Marshall Hall]]. Smith elected not to give evidence in his own defence, indicating this to Marshall Hall in a handwritten note (pictured).
+[[File:Smith's instructions to counsel.jpg|thumb|right|180px|Smith's handwritten note to Marshall Hall]]
+
+It took the jury about 20 minutes on 1 July to find him guilty; he was then [[death sentence|sentenced to death]]. Marshall Hall [[appeal]]ed on the grounds that the evidence of "system" has been improperly admitted, but [[Rufus Isaacs, 1st Marquess of Reading|Lord Reading LCJ]] dismissed the appeal,<ref>{{cite book | title=Famous cases: nine trials that changed the law | author1=Brian P. Block | author2=John Hostettler | publisher=Waterside Press| year=2002 | isbn=978-1-872870-34-2 | pages=225–30 }}</ref> and Smith was hanged in [[Maidstone (HM Prison)|Maidstone Prison]] on 13 August 1915 by the hangman [[John Ellis (executioner)|John Ellis]].
+
+The use of 'system' &ndash; comparing other crimes to the one a criminal is being tried for to prove guilt &ndash; set a [[precedent]] that was later used in other murder trials. For example, the doctor and suspected [[serial killer]] [[John Bodkin Adams]] was charged for the murder of [[Edith Alice Morrell]], but the deaths of [[Gertrude Hullett]] and her husband Jack were used in the committal hearing to prove the existence of a pattern. This use of 'system' was later criticised by the trial judge when Adams was tried only on the Morrell charge.<ref>Devlin, Patrick. Easing the passing: The trial of Doctor John Bodkin Adams, London, The Bodley Head, 1985.</ref>
+
+== Popular culture ==
+
+In his book ''[[Why Britain is at War]]'',<ref>"Why Britain is at War" (1939) by Harold Nicolson, republished as {{ISBN|978-0-14-104896-3}}</ref> [[Harold Nicolson]] used Smith's repeatedly murderous behaviour as a parallel to Hitler's repeatedly acquisitive behaviour in Europe in the 1930s. In Evelyn Waugh's book ''[[Unconditional Surrender (novel)|Unconditional Surrender]]'', which is set during the Second World War, General Whale is referred to as "Brides-in-the-bath" because all the operations he sponsored seemed to require the extermination of all involved.
+
+The Smith case is mentioned in Dorothy L. Sayers' mysteries ''[[Whose Body?]]'',<ref>Dorothy L. Sayers, ''[[Whose Body?]]'', Chapter 7.</ref> ''[[Unnatural Death (novel)|Unnatural Death]]''<ref>Dorothy L. Sayers, ''[[Unnatural Death (novel)]]'', Chapter 8.</ref> and ''[[Busman's Honeymoon]]'',<ref>Dorothy L. Sayers, ''[Busman's Honeymoon]'', Chapter 5.</ref> as well as in Agatha Christie's ''[[A Caribbean Mystery]]'' and ''[[The Murder on the Links]]''. It is also mentioned in Ngaio Marsh's "[[Artists in Crime]]" and in Patricia Highsmith's novel ''[[A Suspension of Mercy]]'' on page 63: "Not for him the Smith brides-in-a-bath murders for peanuts." The crimes of George Joseph Smith also feature in William Trevor's novel ''[[The Children of Dynmouth]]'' in which the sociopathic protagonist plans to re-enact the crimes as part of the community's Easter Fete. On page 273 of Monica Ferris's novel "The Drowning Spool" it mentions "a certain George Joseph Smith" who is discovered through the work of "a very clever forensic investigator back then". [[Margery Allingham]]'s short story "Three Is a Lucky Number" (1955) adapts the events and refers to James Joseph Smith and his brides. It is also mentioned in [[Gladys Mitchell]]’s novel “''[[Brazen Tongue]]''” (1940) in which the local detective Stallard claims to [[Mrs Bradley]] that “like George Joseph Smith, we’ve ’eclipsed the European war’” in the reporting of the series of murders that opens the book. The Smith case was dramatised in the radio series ''[[The Black Museum (radio series)|The Black Museum]]'' in 1952 under the title of ''The Bath Tub''. Czechoslovak Television's series ''Adventures of Criminology'' (1990), based on famous criminal cases in which new methods of investigation were used, depicts this case in the episode 7, ''Reconstruction''. The protagonist of [[Anthony Burgess]]'s 1968 short story ''[[An American Organ]]'' wishes to emulate Smith by murdering his wife in a bath.
+
+Smith features at [[Madame Tussauds]] museum and in the 1969 [[Special Branch (TV series)|''Special Branch'']] episode "You Don't Exist". A missing episode of ''[[Dead of Night (TV series)|Dead of Night]]'' (1972), a [[BBC2]] paranormal anthology series, entitled ''Smith'' concerned Smith's spirit possessing a man and re-enacting one of his murders. In 1981, the trial was depicted in the episode "My Perfect Husband" of [[Lady Killers (TV series)|''Lady Killers'']], with Smith being played by [[Kenneth Haigh]]. ''[[Silent Witness]]'' episode ''Fatal Error'' (2003) contains a reference to the case in connection with a series of murders based on forensic pathology textbook examples. There was also ''[[The Brides in the Bath]]'' (2003), a TV film made by [[Yorkshire Television]], starring [[Martin Kemp (entertainer)|Martin Kemp]] as George Smith and the play [[Tryst (drama)|''Tryst'']] by [[Karoline Leach]], first produced in New York in 2006, starring [[Maxwell Caulfield]] and [[Amelia Campbell]].<ref>{{cite web |url=http://wild-reality.net/tryst/ |title=TRYST |publisher=wild-reality.net |accessdate=2010-04-05 }}</ref> This story is the basis for the Canadian play ''The Drowning Girls'' by Beth Graham, Charlie Tomlinson and Daniela Vlaskalic.<ref>{{Cite web |last=Butler |first=Erica |date=2023-11-30 |title=Mt A drama presents The Drowning Girls, a true crime tale that 'centres female voices' » CHMA 106.9 FM |url=https://www.chmafm.com/welcome/mt-a-drama-presents-the-drowning-girls-a-true-crime-tale-that-centres-female-voices/ |access-date=2023-12-22 |website=CHMA 106.9 FM |language=en-US}}</ref> In the episode "Echoes of the Dead" from the British TV detective series ''[[Midsomer Murders]]'',<ref>''[[List of Midsomer Murders episodes#Series 14 (2011–2012)|Midsomer Murders: Echoes of the Dead]]'', Series 14 (2011-12), Episode 3.</ref> DCI Barnaby solves a series of murders that revolve around "Brides-in-the-bath" murders with multiple references to the case including Smith, Spilsbury, and the forensic science of the period. In season 3, episode 2, "[[Professor T. (British TV series)#ep14|The Perfect Picture]]", of [[Professor T. (British TV series)|''Professor T'']], the Professor references the 1915 trial case of George Joseph Smith and the groundbreaking forensic work of pathologist Sir Bernard Spilsbury as important in the case confronting him.
+
+For some years, Smith's waxwork was exhibited in the [[Chamber of Horrors (Madame Tussauds)|Chamber of Horrors]] at [[Madame Tussauds]] in London.
+
+The 1949 film ''[[Obsession (1949 film)|Obsession]]'' mentions the brides in the bath case.The 1973 Tamil film ''[[Gauravam (1973 film)|Gauravam]]'' was loosely based on the Brides in the bath case. It was used as a subplot in the courtroom drama.
+
+== See also ==
+* [[Forensic pathology]]
+* [[List of serial killers in the United Kingdom]]
+
+== References ==
+
+<references/>
+* Jane Robins, ''The Magnificent Spilsbury and the Case of the Brides in the Bath'' (John Murray, 2010) 
+* J.H.H. Gaute and Robin Odell, ''The New Murderer's Who's Who'' (London: Harrap Books, 1996)
+* Eric R. Watson (ed.), ''Trial of George Joseph Smith'', [[Notable British Trials]] series (William Hodge & Co., 1922)
+* Herbert Arthur, ''All the Sinners'' (John Long, 1931)
+* [[Nigel Balchin]], ''The Anatomy of Villainy'' (Collins, 1950)
+* Dudley Barker, ''Lord Darling's Famous Cases'' (Hutchinson, 1936)
+* [[C. E. Bechhofer Roberts]], ''Sir Travers Humphreys: His Career and Cases'' (The Bodley Head, 1936)
+* William Bolitho, ''Murder for Profit'' (Jonathan Cape, 1926)
+* Ernest Bowen-Rowlands, ''In the Light of the Law'' (Grant Richards, 1931)
+* Douglas G. Browne and [[E. V. Tullett]], ''Sir Bernard Spilsbury: His Life and Cases'' (George G. Harrap, 1951)
+* Albert Crew, ''The Old Bailey'' (Ivor Nicholson & Watson, 1933)
+* Harold Dearden, ''Death under the Microscope'' (Hutchinson, 1934)
+* {{cite book | title=Bernard Spilsbury: his life and cases | author1=Douglas G. Browne | author2=E. V. Tullett | author2-link=Tom Tullett | publisher=[[Penguin Books]] |location=[[Harmondsworth]] | year=1955 }}
+
+== External links ==
+* [http://netk.net.au/BridesInTheBathHome.asp Trial report on Networked Knowledge], based on Notable British Trials
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, George Joseph}}
+[[Category:1872 births]]
+[[Category:1912 murders in the United Kingdom]]
+[[Category:20th-century British murderers]]
+[[Category:1915 deaths]]
+[[Category:20th-century English criminals]]
+[[Category:20th-century executions by England and Wales]]
+[[Category:Criminals from London]]
+[[Category:English people convicted of murder]]
+[[Category:English serial killers]]
+[[Category:Executed British serial killers]]
+[[Category:Executed people from London]]
+[[Category:London crime history]]
+[[Category:People convicted of murder by England and Wales]]
+[[Category:People from Bethnal Green]]
+[[Category:Uxoricides in England]]
+[[Category:Perpetrators of uxoricide]]
+[[Category:Male murderers]]
