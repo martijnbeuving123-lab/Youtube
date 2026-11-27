@@ -12,12 +12,12 @@ Updated 2026-11-27.
 
 | Case | Year | Country | First | State |
 |---|---|---|---|---|
-| Hawley Harvey Crippen | 1910 | UK/Canada | Wireless used to catch a murder suspect | Produced |
+| Hawley Harvey Crippen | 1910 | UK/Canada | Wireless used to catch a murder suspect | Produced: public https://www.youtube.com/watch?v=zfbMUna7tSM (also an older 3-part short series) |
 | Stratton brothers (Deptford) | 1905 | UK | Fingerprint murder conviction | Next |
 | George Joseph Smith (Brides in the Bath) | 1915 | UK | Spilsbury's bath tests; "system" evidence | Shortlisted |
 | PC George Gutteridge | 1927 | UK | Firearms identification at trial | Shortlisted |
 | Buck Ruxton | 1935 | UK | Photographic superimposition | Shortlisted |
 | Alfred Rouse (blazing car) | 1931 | UK | Fire investigation; victim never named | Shortlisted |
 | Marie Lafarge | 1840 | France | Marsh test for arsenic at trial | Shortlisted |
-| Colin Pitchfork | 1988 | UK | First DNA conviction and first DNA exoneration | Parked: child victims, offender alive |
+| Colin Pitchfork (Narborough murders) | 1988 | UK | First DNA conviction and first DNA exoneration | Produced as an older 3-part short series (22-24 Nov 2026); do not redo |
 | John George Haigh | 1949 | UK | Identification from gallstones and dentures | Parked: heavily covered |

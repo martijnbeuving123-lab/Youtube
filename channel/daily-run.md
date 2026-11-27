@@ -82,7 +82,15 @@ Never spend more than about 50 credits on selection; the voiceover needs the res
 
 ## 7. Package → `metadata.md` and `out/thumbnail.jpg`
 - 3 titles and 3 thumbnail concepts (scored with `yt-package`'s `title.py`), the winner used.
-- Thumbnail with `tools/thumbnail.py` from an archive photo.
+- **Thumbnail: always the channel's house style**, the same as the Crippen video (owner's choice,
+  reference `videos/crippen/out/thumbnail.jpg`). Make it with
+  `python3 tools/thumbnail.py out/thumbnail.jpg <archive photo> "LINE1" "LINE2" --strip "QUOTE..."`:
+  - near-black left half; on it two short lines in big cream serif capitals (2-4 words in total);
+  - a red bar under the headline;
+  - a typewriter-style cream strip with a short quote or fact from the case, ending in "...";
+  - on the right, a real archive photo (sepia), fading into the black.
+  Never an AI-generated face, painting or "likeness" of a real person, and no red AI-style lettering.
+  The thumbnail words must not repeat the title.
 - Description, chapters, sources, image credits, tags, pinned comment.
 
 ## 8. Upload as private (by 17:00)
