@@ -9,7 +9,7 @@ Title options (scored with yt-package `title.py`, thumbnail text in brackets):
 3. Brides in the Bath: The Bathtub Test That Caught a Killer [3 BRIDES. 3 BATHS.] — 62/100 (no date; thumbnail repeats title)
 
 Thumbnail concepts:
-1. **Archive portrait of George Joseph Smith, "NOT AN ACCIDENT", strip "THREE BATHS · 1912-1914"** ← used (`out/thumbnail.jpg`)
+1. **Archive portrait of George Joseph Smith, "NOT AN ACCIDENT", strip "THE TUB WAS FIVE FEET LONG..." (house style)** ← used (`out/thumbnail.jpg`)
 2. Schematic bath diagram with the 5 ft / 5 ft 7 in measurements in red, "THE BATHTUB TEST".
 3. Smith and Bessie Mundy photograph, cropped tight on Smith, "ONE MAN, 3 NAMES".
 
