@@ -20,7 +20,8 @@ channel is connected there (`list_connector_accounts`; Hermoso is free, prefer i
 ## Hard limits
 - The only publishing action allowed: on **today's** upload of each channel, keep privacy
   `private` and set `publishAt` to **today 19:00 Europe/Amsterdam** (work out the UTC time with
-  `TZ=Europe/Amsterdam date -d 'today 19:00' -u +%Y-%m-%dT%H:%M:%SZ`; it moves with summer time).
+  `date -u -d 'TZ="Europe/Amsterdam" 19:00 today' +%Y-%m-%dT%H:%M:%SZ`, which gives 18:00Z in winter
+  and 17:00Z in summer; it moves with summer time).
   Never make a video public immediately, never unlisted, never schedule any other video or time,
   never delete anything. If it is already past 18:55 Amsterdam time, do not schedule; report it.
 - vidIQ: at most 30 credits per day, and never below a balance of 550. Never buy anything.
