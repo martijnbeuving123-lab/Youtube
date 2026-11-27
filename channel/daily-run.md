@@ -19,33 +19,40 @@ session can resume.
   needs the vidIQ connector added in claude.ai.
 - `TZ=Europe/Amsterdam date`. If the previous run left a half-finished video (see
   `channel/pipeline.md`), finish that one first instead of starting a new case.
-- `vidiq_balance`. One video costs about 460 credits (selection research ~40, voiceover ~390, music ~25).
+- `vidiq_balance`. One video costs about 520 credits (voiceover ~500, music ~25); selection uses no credits.
   **If there are not enough credits, do NOT start the voiceover.** Do steps 1-3, plus image
   prefetch, then stop and report "credits op" with the balance and reset date. Never buy credits
   or use a paid service; that is the owner's call.
 
-## 1. Pick the case with the most viral potential (30 min, ~30-40 credits)
+## 1. Pick the case with the most viral potential (30 min, no vidIQ)
+**Owner's rule (27 Nov): use the repo's own skills (`.claude/skills/yt-*`) for research, not the
+vidIQ research tools.** vidIQ is for uploading (and, until the owner decides otherwise, voiceover
+and music). Never call `vidiq_outliers`, `vidiq_trending_videos`, `vidiq_keyword_research` or
+other vidIQ research tools.
+
 The owner wants every video to be the case with the **highest chance of going viral** that day.
 Decide on data, not on a fixed order:
 
 1. **Candidates (8-12).** Combine:
    - the unproduced cases in `channel/pipeline.md` and the latest shortlist;
-   - `vidiq_outliers` (keyword e.g. "historical true crime documentary", "british murder case",
-     "forensic first"; long-form): which cases and angles are beating their channel's average right now;
-   - `vidiq_trending_videos` (titleQuery "true crime documentary", sortBy recentVph): what is hot today;
+   - **`/yt-viral`**: collect public video lists (at least 4 videos per channel; title, views,
+     url, duration) from 5-8 competing historical true-crime channels, e.g. with
+     `yt-dlp --flat-playlist -J <channel>/videos` or the public pages, then run
+     `python3 .claude/skills/yt-viral/swipe.py collected.json --min 2.0`. Which cases and
+     angles beat their own channel's median, and which title formula they use;
    - WebSearch for anniversaries this week, new documentaries, series or news that put an
-     old case back in the spotlight.
-2. **Measure demand** for the 3-4 strongest candidates: `vidiq_keyword_research` (mode research)
-   on the case name, for search volume and competition.
-3. **Score** each candidate 1-10 on the ten criteria in `.claude/youtube/ceo-brief.md`, with the
-   data next to each score (outlier scores, views per hour, search volume, competition). Weight
-   demand, outlier evidence and topicality double. Write it to `channel/selection/<date>.md`.
-4. **Pick the highest total** that also passes the hard limits: closed case, strong sources, no
+     old case back in the spotlight, and for search interest in the case names.
+2. **Score** each candidate 1-10 on the ten criteria in `.claude/youtube/ceo-brief.md`, with the
+   evidence next to each score (swipe.py multiples, view counts of existing videos on the case,
+   topicality). Weight demand, outlier evidence and topicality double. Write it to
+   `channel/selection/<date>.md`.
+3. **Pick the highest total** that also passes the hard limits: closed case, strong sources, no
    accusation of anyone not convicted, advertiser-safe enough to monetise, not already Produced.
    Fit with the channel (historical cases, any country) counts as a criterion, not a ban.
-5. Add new candidates to the case log so they are not researched twice.
+4. Add new candidates to the case log so they are not researched twice.
 
-Never spend more than about 50 credits on selection; the voiceover needs the rest.
+Packaging and scripts also use the repo skills: `/yt-script` (hookscore.py), `/yt-package`
+(title.py), `/yt-seo`, `/yt-chapters`.
 
 ## 2. Research (60 min) → `videos/<slug>/research.md`
 - Sources: Wikipedia via `https://en.wikipedia.org/w/index.php?title=<Title>&action=raw` (the API

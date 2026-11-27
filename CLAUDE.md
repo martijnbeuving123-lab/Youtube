@@ -38,7 +38,7 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 
 ## Pipeline, per video (`videos/<slug>/`)
 
-1. **Pick the case** — `/yt-viral` plus vidIQ outliers and keyword research.
+1. **Pick the case** — repo skills only (`/yt-viral` with `swipe.py`, plus WebSearch). No vidIQ research tools: vidIQ is for uploading (and voiceover/music).
 2. **Research** — `research.md`, facts with sources. Mark anything contested.
 3. **Script** — `/yt-script`, saved as `script.md`. (Daily cadence: no advance approval.)
 4. **Package** — `/yt-package` and `/yt-seo`, saved as `metadata.md` (title, description,
