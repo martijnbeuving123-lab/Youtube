@@ -14,6 +14,9 @@ Work on branch `claude/inspiring-tesla-iif0hl`, and commit and push after every 
 session can resume.
 
 ## 0. Check (5 min)
+- Are the vidIQ tools (`mcp__vidIQ__*`) available? Search for them with ToolSearch first. If they
+  are missing, do steps 1-4 (research, script, images), push, and report that the scheduled task
+  needs the vidIQ connector added in claude.ai.
 - `TZ=Europe/Amsterdam date`. If the previous run left a half-finished video (see
   `channel/pipeline.md`), finish that one first instead of starting a new case.
 - `vidiq_balance`. One video costs about 420 credits (voiceover ~390, music ~25).
