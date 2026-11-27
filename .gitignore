@@ -8,3 +8,4 @@ videos/*/assets/
 client_secret*.json
 token*.json
 *.pickle
+__pycache__/
