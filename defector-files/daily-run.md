@@ -29,8 +29,10 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
    and `python3 .claude/skills/yt-viral/swipe.py /tmp/collected.json --min 2.0` (what beats its
    channel's median, and which formula), plus WebSearch for anniversaries, new books,
    documentaries, declassifications or news that put an old case in the spotlight.
-2. **Check images before choosing:** `python3 tools/loc_get.py --search "<case terms>"`. A case
-   needs at least 8 usable full-size images (people, places, documents) or it waits.
+2. **Check images before choosing:** `python3 tools/loc_get.py --search "<case terms>"`, and for
+   older or European cases also `python3 tools/wellcome_get.py --books "<terms>"` and
+   `--search "<terms>"`. A case needs at least 8 usable full-size images (people, places,
+   documents) or it waits.
 3. Score 1–10 on: interest, search demand, originality, source quality, story quality, visual
    potential, competition, topicality, advertiser suitability, distinctiveness. Demand, outlier
    evidence and topicality count double. Write `defector-files/selection/<date>.md`.
@@ -50,7 +52,18 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
 
 ## 4. Images (start right after the pick)
 - `python3 tools/loc_get.py defector-files/videos/<slug> name=<item id> ...` (writes credits).
-- Commons via `tools/commons_get.py` only if LoC lacks something; it may be rate-limited.
+- LoC sometimes answers 429: wait a few minutes and try again later in the run, do not give up.
+- **Wellcome Collection** as the second source (public domain / CC0 / CC BY only, credits
+  written): `python3 tools/wellcome_get.py --search "<words>"` for single images, and
+  `--books "<words>" --before 1960` for digitised books and pamphlets (wartime propaganda,
+  espionage and codes, police and forensic manuals). Make a contact sheet with
+  `--sheet <work id> /tmp/sheet.jpg 1-120`, look at it, then fetch
+  `defector-files/videos/<slug> <name>=<work id>:<page>[:x,y,w,h]` (percent crop to the plate).
+- Commons via `tools/commons_get.py` only as a background job for one or two images found
+  nowhere else; it is blocked (429) for this cloud nearly all the time. Never wait on it.
+- **Gate before rendering:** `python3 tools/image_check.py defector-files/videos/<slug> --min 12`.
+  If it fails, search more first. Only if three more searches give nothing, render anyway
+  and put the shortfall at the top of the report.
 - Cards with `tools/cards.py` (title, text, quote, telegram with your own sub line), maps with
   `tools/maps.py`. Look at every image before using it.
 
@@ -102,5 +115,6 @@ upload it with `upload.md`.
 ## 9. Report (Dutch, short)
 Update `defector-files/pipeline.md` (case → Produced, tomorrow's case → Next up). Then report:
 the YouTube link (private), the title and case, the owner's one step (check it in Studio and
-make it public), Hermoso posts left (`hermoso_credits` → `posting.left`), anything uncertain,
+make it public), Hermoso posts left (`hermoso_credits` → `posting.left`), how many real archive images were
+used and from which sources (`tools/image_check.py`), anything uncertain,
 tomorrow's case.

@@ -70,21 +70,34 @@ Packaging and scripts also use the repo skills: `/yt-script` (hookscore.py), `/y
 Wikimedia Commons rate-limits this cloud's shared IP (HTTP 429 on almost every request), so it
 can no longer be the main source. Use the sources in this order, and aim for **at least 12 real
 archive images** per video:
-1. **Wellcome Collection** (reliable, high resolution, many Victorian/Edwardian crime, police,
-   poison, prison, execution and forensic images):
-   `python3 tools/wellcome_get.py --search "<words>"`, then
-   `python3 tools/wellcome_get.py videos/<slug> <name>=<image id> ...`. The tool only takes
-   public domain, CC0 and CC BY (never CC BY-NC: the channel is monetised) and writes the credit
-   that CC BY requires. Search broadly: the case names, places, "Newgate", "police", "poison",
-   "execution", "fingerprint", the period's newspapers.
-2. **Library of Congress** (`tools/loc_get.py --search` / fetch): good for US and some British
+1. **Wellcome Collection, digitised books** (the richest source; whole public-domain books
+   with plates and photographs: police and detective manuals, forensic and medico-legal
+   textbooks, trial reports, prison and asylum records, period newspapers):
+   - `python3 tools/wellcome_get.py --books "<words>" --before 1935` lists usable works
+     (public domain, CC0, CC BY only). Search short terms: the forensic first ("finger prints",
+     "Bertillon", "firearms", "poisons", "medical jurisprudence"), "police", "Scotland Yard",
+     "criminal", the town, the prison, the newspaper.
+   - `python3 tools/wellcome_get.py --sheet <work id> /tmp/sheet.jpg 1-120` makes a numbered
+     contact sheet; **look at it** (Read the image) to spot the plates, photos and diagrams.
+   - `python3 tools/wellcome_get.py videos/<slug> <name>=<work id>:<page>[:x,y,w,h]` downloads
+     a page, cropped to the plate with the percent box (e.g. `:5,15,90,40`). Look at the result.
+2. **Wellcome Collection, single images**: `python3 tools/wellcome_get.py --search "<words>"`,
+   then `python3 tools/wellcome_get.py videos/<slug> <name>=<image id> ...`. Never CC BY-NC
+   (the channel is monetised); the tool refuses it and writes the credit CC BY requires.
+3. **Library of Congress** (`tools/loc_get.py --search` / fetch): good for US and some British
    press photos. It also rate-limits at times (429): try again later in the run.
-3. **Wikimedia Commons** (`tools/commons_get.py`): only as a background job for images found
-   nowhere else, e.g. the defendant's police photo. Start it early; it honours Retry-After.
-   If it still fails, use what did arrive.
+4. **Wikimedia Commons** (`tools/commons_get.py`): blocked for this cloud almost all the time
+   (HTTP 429 for every client, Hermoso included). Only a background job for one or two images
+   found nowhere else, e.g. the defendant's police photo. Never wait on it.
+- **Gate before rendering:** `python3 tools/image_check.py videos/<slug> --min 12`. If it fails,
+  search more (other terms, other books) before rendering. Only if three more searches still
+  give nothing, render anyway and put the shortfall at the top of the report.
+- **When choosing the case (step 1):** do a quick `--books` and `--search` for each of the top
+  three candidates. A case with fewer than about 8 findable real images loses points on
+  visual potential.
 - All tools write to the same `credits.json` / `credits.md`; `finalize_metadata.py` puts the
   used ones in the description.
-- **Thumbnail:** the right-hand photo must be a real archive image (from any of the three
+- **Thumbnail:** the right-hand photo must be a real archive image (from any of these
   sources). Only if none arrived, use a period object or place, never an illustration of a person.
 - **Prefetch:** at the end of the run, start downloads for tomorrow's case so they are there
   in the morning.
