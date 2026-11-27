@@ -36,7 +36,7 @@ b(A1, "card: \"Sarah Freeman, 1909 — accounts put the loss at about £400\".",
 b(A1, "map: Weymouth, Dorset. Caption: Weymouth, 1910.",
 "In 1910, in the seaside town of Weymouth, in Dorset, a man calling himself Henry Williams met a woman named Beatrice Mundy. Everyone called her Bessie. She was in her early thirties, and, unlike his earlier wives, she had real money.")
 b(A1, "archive photograph: George Joseph Smith and Bessie Mundy. Caption: Bessie Mundy and 'Henry Williams'.",
-"Bessie's father, accounts say a bank manager, had left her a sum that accounts put at about two and a half thousand pounds. But it was held in trust by her family, and paid out to her as a small allowance. She could not simply hand it over. They married in Weymouth that summer.")
+"Her father, reportedly a bank manager, had left her a sum that accounts put at about two and a half thousand pounds. But it was held in trust by her family, and paid out to her as a small allowance. She could not simply hand it over. They married in Weymouth that summer.")
 b(A1, "card: \"The money was in trust\".",
 "When it became clear that the capital could not be reached, Williams left her, taking what cash he could. Hold on to that detail. The money in trust was the one obstacle he could not get round while Bessie was alive. There was one way round it, and it needed a will.")
 b(A1, "map: Weston-super-Mare. Caption: Weston-super-Mare, 1912.",
@@ -64,7 +64,7 @@ b(A2, "card: \"Friday, 12 December 1913. Blackpool.\"",
 b(A2, "map: Bath and Highgate. Caption: Bath, 17 December 1914.",
 "A year passed. In December 1914, in the city of Bath, a man calling himself John Lloyd married Margaret Elizabeth Lofty. She was thirty-eight, and, accounts say, a clergyman's daughter. Three days before the wedding, she had taken out a life policy worth about seven hundred pounds.")
 b(A2, "card: \"14 Bismarck Road, Highgate\".",
-"The day after the wedding, the couple arrived at lodgings at 14 Bismarck Road, in Highgate, north London. On the 18th of December, Margaret went to a solicitor and made a new will, leaving everything to her husband. She also withdrew her savings. It was a little over three hours before she died.")
+"Straight after the wedding, the couple took lodgings at 14 Bismarck Road, in Highgate, north London. On the 18th of December, Margaret went to a solicitor and made a new will, leaving everything to her husband. She also withdrew her savings. It was a little over three hours before she died.")
 b(A2, "slow push on dark card: \"Friday, 18 December 1914\".",
 "That evening she took a bath. According to the way the landlady's evidence is usually told, she heard splashing from the bathroom, then quiet, and then the sound of the harmonium in the sitting room. Shortly afterwards, Mr Lloyd went out, came back, and called for help. His wife was found dead in the bath.")
 b(A2, "card: \"Inquest — accidental death\".",

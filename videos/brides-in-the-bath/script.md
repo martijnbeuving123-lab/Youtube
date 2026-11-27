@@ -90,7 +90,7 @@ In 1910, in the seaside town of Weymouth, in Dorset, a man calling himself Henry
 ### 16
 [ON SCREEN: archive photograph: George Joseph Smith and Bessie Mundy. Caption: Bessie Mundy and 'Henry Williams'.]
 
-Bessie's father, accounts say a bank manager, had left her a sum that accounts put at about two and a half thousand pounds. But it was held in trust by her family, and paid out to her as a small allowance. She could not simply hand it over. They married in Weymouth that summer.
+Her father, reportedly a bank manager, had left her a sum that accounts put at about two and a half thousand pounds. But it was held in trust by her family, and paid out to her as a small allowance. She could not simply hand it over. They married in Weymouth that summer.
 
 ### 17
 [ON SCREEN: card: "The money was in trust".]
@@ -157,7 +157,7 @@ A year passed. In December 1914, in the city of Bath, a man calling himself John
 ### 29
 [ON SCREEN: card: "14 Bismarck Road, Highgate".]
 
-The day after the wedding, the couple arrived at lodgings at 14 Bismarck Road, in Highgate, north London. On the 18th of December, Margaret went to a solicitor and made a new will, leaving everything to her husband. She also withdrew her savings. It was a little over three hours before she died.
+Straight after the wedding, the couple took lodgings at 14 Bismarck Road, in Highgate, north London. On the 18th of December, Margaret went to a solicitor and made a new will, leaving everything to her husband. She also withdrew her savings. It was a little over three hours before she died.
 
 ### 30
 [ON SCREEN: slow push on dark card: "Friday, 18 December 1914".]

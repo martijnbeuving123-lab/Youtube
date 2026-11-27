@@ -84,7 +84,7 @@ def quote(out, words, who=""):
     vignette(grain(img)).save(out)
 
 
-def telegram(out, msg, header="WIRELESS MESSAGE"):
+def telegram(out, msg, header="WIRELESS MESSAGE", sub="S.S. MONTROSE  \u00b7  JULY 1910", foot="Text as recorded  \u00b7  reconstruction"):
     img = Image.new("RGB", (W, H), BG)
     paper = Image.new("RGB", (1500, 720), (226, 214, 184))
     pd = ImageDraw.Draw(paper)
@@ -93,12 +93,12 @@ def telegram(out, msg, header="WIRELESS MESSAGE"):
         pd.line((0, i, 1500, i), fill=(c, c - 12, c - 40))
     pd.rectangle((30, 30, 1470, 690), outline=(120, 90, 60), width=3)
     pd.text((70, 60), header, font=font(SERIF_B, 40), fill=(90, 50, 35))
-    pd.text((70, 115), "S.S. MONTROSE  ·  JULY 1910", font=font(SERIF, 30), fill=(110, 80, 55))
+    pd.text((70, 115), sub, font=font(SERIF, 30), fill=(110, 80, 55))
     pd.line((70, 170, 1430, 170), fill=(120, 90, 60), width=2)
     y = 220
     for ln in textwrap.wrap(msg.upper(), 46):
         pd.text((80, y), ln, font=font(MONO_B, 46), fill=(40, 34, 30)); y += 70
-    pd.text((70, 630), "Text as recorded  \u00b7  reconstruction", font=font(SERIF_I, 26), fill=(120, 95, 70))
+    pd.text((70, 630), foot, font=font(SERIF_I, 26), fill=(120, 95, 70))
     paper = paper.rotate(-1.2, resample=Image.BICUBIC, expand=True, fillcolor=BG)
     img.paste(paper, ((W - paper.width) // 2, (H - paper.height) // 2))
     vignette(grain(img), 0.45).save(out)
