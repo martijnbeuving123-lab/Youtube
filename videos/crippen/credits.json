@@ -47,5 +47,40 @@
   "license": "Public domain",
   "artist": "",
   "credit": ""
+ },
+ "kendall": {
+  "title": "File:Captain-Kendall-Empress-of-Ireland.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Captain-Kendall-Empress-of-Ireland.jpg",
+  "license": "Public domain",
+  "artist": "Agence Rol",
+  "credit": "Biblioth\u00e8que nationale de France"
+ },
+ "laurentic": {
+  "title": "File:Laurentic, hq.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurentic,_hq.jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "credit": "Old photograph"
+ },
+ "hilldrop39": {
+  "title": "File:39 Hilldrop Crescent. The site of Dr. Crippen's home.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:39_Hilldrop_Crescent._The_site_of_Dr._Crippen%27s_home.jpg",
+  "license": "Public domain",
+  "artist": "Maggie Jones",
+  "credit": "https://www.flickr.com/photos/maggiejones/6896478558/"
+ },
+ "hilldrop": {
+  "title": "File:Hilldrop Crescent N7 (7042572295).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hilldrop_Crescent_N7_(7042572295).jpg",
+  "license": "Public domain",
+  "artist": "Maggie Jones from London, England",
+  "credit": "Hilldrop Crescent N7"
+ },
+ "lighthouse1906": {
+  "title": "File:Pointe-au-P\u00e8re 2nd lighthouse (ca 1906).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pointe-au-P%C3%A8re_2nd_lighthouse_(ca_1906).jpg",
+  "license": "Public domain",
+  "artist": "Inconnu / J. P. Garneau \u00e9diteur",
+  "credit": "Leuchtt\u00fcrme Kanadas auf historischen Postkarten by Klaus Huelse"
  }
 }
