@@ -43,6 +43,9 @@ Decide on data, not on a fixed order:
    Fit with the channel (historical cases, any country) counts as a criterion, not a ban.
 4. Add new candidates to the case log so they are not researched twice.
 
+Packaging and scripts also use the repo skills: `/yt-script` (hookscore.py), `/yt-package`
+(title.py), `/yt-seo`, `/yt-chapters`.
+
 ## 2. Research (60 min) → `videos/<slug>/research.md`
 - Sources: Wikipedia via `https://en.wikipedia.org/w/index.php?title=<Title>&action=raw` (the API
   rate-limits), plus Old Bailey Proceedings, National Archives and other reliable sources

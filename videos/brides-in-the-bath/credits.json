@@ -1,0 +1,23 @@
+{
+ "smith": {
+  "title": "File:GeorgeJosephSmith.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:GeorgeJosephSmith.JPG",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "credit": "Police Gazette, 1915, unknown issue"
+ },
+ "mundy": {
+  "title": "File:GeorgeJosephSmithBridesintheBath1914BessieMundya.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:GeorgeJosephSmithBridesintheBath1914BessieMundya.jpg",
+  "license": "Public domain",
+  "artist": "Professional studio photographer, 1912.",
+  "credit": "Book Twentieth-Century Murder, first published in 1995."
+ },
+ "spilsbury": {
+  "title": "File:BernardSpilsbury.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BernardSpilsbury.jpg",
+  "license": "Public domain",
+  "artist": "Unknown authorUnknown author",
+  "credit": "Official Home Office photograph"
+ }
+}

@@ -1,0 +1,359 @@
+{
+ "music_db": -23,
+ "beats": [
+  {
+   "id": "01",
+   "visual": "assets/cards/diag_room.png",
+   "motion": "in"
+  },
+  {
+   "id": "02",
+   "visual": "assets/cards/volunteer.png",
+   "motion": "in"
+  },
+  {
+   "id": "03",
+   "visual": "assets/cards/neil.png",
+   "motion": "in"
+  },
+  {
+   "id": "04",
+   "visual": "assets/cards/map_three.png",
+   "motion": "in"
+  },
+  {
+   "id": "05",
+   "visual": "assets/img/smith.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "06",
+   "visual": "assets/cards/title.png",
+   "motion": "still"
+  },
+  {
+   "id": "07",
+   "visual": "assets/img/smith_profile.jpg",
+   "motion": "in",
+   "caption": "I  \u00b7  The man with many names",
+   "pause_before": 1.4,
+   "fallback": "assets/img/smith.jpg"
+  },
+  {
+   "id": "08",
+   "visual": "assets/cards/y1896.png",
+   "motion": "in"
+  },
+  {
+   "id": "09",
+   "visual": "assets/cards/map_early.png",
+   "motion": "in"
+  },
+  {
+   "id": "10",
+   "visual": "assets/cards/y1901.png",
+   "motion": "in"
+  },
+  {
+   "id": "11",
+   "visual": "assets/cards/names.png",
+   "motion": "in"
+  },
+  {
+   "id": "12",
+   "visual": "assets/img/smith2.jpg",
+   "motion": "left",
+   "fallback": "assets/cards/map_early.png"
+  },
+  {
+   "id": "13",
+   "visual": "assets/cards/pegler.png",
+   "motion": "in"
+  },
+  {
+   "id": "14",
+   "visual": "assets/cards/freeman.png",
+   "motion": "in"
+  },
+  {
+   "id": "15",
+   "visual": "assets/cards/map_weymouth.png",
+   "motion": "in",
+   "caption": "Weymouth, 1910"
+  },
+  {
+   "id": "16",
+   "visual": "assets/img/mundy.jpg",
+   "motion": "in",
+   "caption": "Bessie Mundy and 'Henry Williams'",
+   "fallback": "assets/cards/trust.png"
+  },
+  {
+   "id": "17",
+   "visual": "assets/cards/trust.png",
+   "motion": "in"
+  },
+  {
+   "id": "18",
+   "visual": "assets/cards/map_weston.png",
+   "motion": "in",
+   "caption": "Weston-super-Mare, 1912"
+  },
+  {
+   "id": "19",
+   "visual": "assets/cards/map_hernebay.png",
+   "motion": "in",
+   "caption": "80 High Street, Herne Bay"
+  },
+  {
+   "id": "20",
+   "visual": "assets/cards/wills.png",
+   "motion": "in"
+  },
+  {
+   "id": "21",
+   "visual": "assets/cards/jul12.png",
+   "motion": "in"
+  },
+  {
+   "id": "22",
+   "visual": "assets/cards/misadventure.png",
+   "motion": "in"
+  },
+  {
+   "id": "23",
+   "visual": "assets/img/mundy.jpg",
+   "motion": "out",
+   "fallback": "assets/img/smith.jpg"
+  },
+  {
+   "id": "24",
+   "visual": "assets/img/burnham.jpg",
+   "motion": "in",
+   "caption": "II  \u00b7  Two newspaper cuttings",
+   "pause_before": 1.4,
+   "fallback": "assets/cards/map_blackpool.png"
+  },
+  {
+   "id": "25",
+   "visual": "assets/cards/policy500.png",
+   "motion": "in"
+  },
+  {
+   "id": "26",
+   "visual": "assets/cards/map_blackpool.png",
+   "motion": "in",
+   "caption": "Blackpool, December 1913"
+  },
+  {
+   "id": "27",
+   "visual": "assets/cards/dec13.png",
+   "motion": "in"
+  },
+  {
+   "id": "28",
+   "visual": "assets/cards/map_highgate.png",
+   "motion": "in",
+   "caption": "Bath, December 1914"
+  },
+  {
+   "id": "29",
+   "visual": "assets/cards/bismarck.png",
+   "motion": "in"
+  },
+  {
+   "id": "30",
+   "visual": "assets/cards/dec18.png",
+   "motion": "in"
+  },
+  {
+   "id": "31",
+   "visual": "assets/cards/accidental.png",
+   "motion": "in"
+  },
+  {
+   "id": "32",
+   "visual": "assets/cards/notw.png",
+   "motion": "in"
+  },
+  {
+   "id": "33",
+   "visual": "assets/cards/letter.png",
+   "motion": "in"
+  },
+  {
+   "id": "34",
+   "visual": "assets/cards/neil.png",
+   "motion": "out"
+  },
+  {
+   "id": "35",
+   "visual": "assets/cards/tub.png",
+   "motion": "in"
+  },
+  {
+   "id": "36",
+   "visual": "assets/cards/yorkshire.png",
+   "motion": "in"
+  },
+  {
+   "id": "37",
+   "visual": "assets/cards/parallels.png",
+   "motion": "in"
+  },
+  {
+   "id": "38",
+   "visual": "assets/cards/watched.png",
+   "motion": "in"
+  },
+  {
+   "id": "39",
+   "visual": "assets/cards/feb1.png",
+   "motion": "in",
+   "caption": "III  \u00b7  Three baths in Kentish Town",
+   "pause_before": 1.4
+  },
+  {
+   "id": "40",
+   "visual": "assets/cards/bigamy.png",
+   "motion": "in"
+  },
+  {
+   "id": "41",
+   "visual": "assets/img/spilsbury.jpg",
+   "motion": "in",
+   "caption": "Bernard Spilsbury",
+   "fallback": "assets/cards/spilsbury.png"
+  },
+  {
+   "id": "42",
+   "visual": "assets/cards/findings.png",
+   "motion": "in"
+  },
+  {
+   "id": "43",
+   "visual": "assets/cards/feb8.png",
+   "motion": "in"
+  },
+  {
+   "id": "44",
+   "visual": "assets/cards/equals.png",
+   "motion": "in"
+  },
+  {
+   "id": "45",
+   "visual": "assets/cards/gooseflesh.png",
+   "motion": "in"
+  },
+  {
+   "id": "46",
+   "visual": "assets/cards/diag_measure.png",
+   "motion": "still"
+  },
+  {
+   "id": "47",
+   "visual": "assets/cards/diag_rigid.png",
+   "motion": "still"
+  },
+  {
+   "id": "48",
+   "visual": "assets/cards/diag_lift.png",
+   "motion": "still"
+  },
+  {
+   "id": "49",
+   "visual": "assets/cards/shock.png",
+   "motion": "in"
+  },
+  {
+   "id": "50",
+   "visual": "assets/cards/diag_room.png",
+   "motion": "out"
+  },
+  {
+   "id": "51",
+   "visual": "assets/cards/mar23.png",
+   "motion": "in"
+  },
+  {
+   "id": "52",
+   "visual": "assets/img/oldbailey.jpg",
+   "motion": "in",
+   "caption": "IV  \u00b7  The Old Bailey, June 1915",
+   "pause_before": 1.4,
+   "fallback": "assets/cards/oldbailey.png"
+  },
+  {
+   "id": "53",
+   "visual": "assets/cards/system.png",
+   "motion": "in"
+  },
+  {
+   "id": "54",
+   "visual": "assets/cards/ruling.png",
+   "motion": "in"
+  },
+  {
+   "id": "55",
+   "visual": "assets/cards/witnesses.png",
+   "motion": "in"
+  },
+  {
+   "id": "56",
+   "visual": "assets/img/spilsbury.jpg",
+   "motion": "out",
+   "fallback": "assets/cards/diag_measure.png"
+  },
+  {
+   "id": "57",
+   "visual": "assets/img/counsel.jpg",
+   "motion": "in",
+   "caption": "Smith's note to his counsel",
+   "fallback": "assets/img/smith.jpg"
+  },
+  {
+   "id": "58",
+   "visual": "assets/cards/jul1.png",
+   "motion": "in"
+  },
+  {
+   "id": "59",
+   "visual": "assets/cards/appeal.png",
+   "motion": "in"
+  },
+  {
+   "id": "60",
+   "visual": "assets/cards/legacy.png",
+   "motion": "in",
+   "caption": "V  \u00b7  Legacy",
+   "pause_before": 1.4
+  },
+  {
+   "id": "61",
+   "visual": "assets/cards/fallible.png",
+   "motion": "in"
+  },
+  {
+   "id": "62",
+   "visual": "assets/cards/victims.png",
+   "motion": "still"
+  },
+  {
+   "id": "63",
+   "visual": "assets/cards/letterend.png",
+   "motion": "in"
+  }
+ ],
+ "chapters": {
+  "01": "The experiment in Kentish Town",
+  "07": "The man with many names",
+  "15": "Bessie Mundy, Herne Bay 1912",
+  "24": "Alice Burnham, Blackpool 1913",
+  "28": "Margaret Lofty, Highgate 1914",
+  "33": "The letter from Blackpool",
+  "39": "The arrest",
+  "41": "Spilsbury and the three baths",
+  "52": "The trial at the Old Bailey",
+  "60": "Legacy"
+ }
+}
