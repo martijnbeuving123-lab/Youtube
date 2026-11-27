@@ -50,6 +50,17 @@ views; `youtube_comments_list` on this week's videos (what viewers ask, praise, 
 If a connector is missing in the session, use the public data, and say in the report which
 connector the scheduled task lacks.
 
+**Monetisation (both channels):** public subscriber counts (TubeAlfred `youtube_channel_get`);
+long-form watch minutes over the last 365 days and Shorts views over the last 90 days
+(`report: "shorts_vs_longform_split"` / Hermoso `report: "contentType"`, one call per window).
+Check the current Partner Program thresholds (WebSearch on YouTube's own help page; they are
+reported to double for new applicants from 2027-02-01).
+
+**Competitors (both niches):** for the channels in `channel/competitors.txt` and
+`defector-files/competitors.txt` (add strong ones you find): subscribers, uploads in the last
+7 days, and their best video of the week with its views (TubeAlfred `youtube_channel_get` /
+`youtube_channel_videos`, or `tools/collect_channels.py`). Run `/yt-viral` (`swipe.py`) on it.
+
 Join the numbers to the repo: for each video find `videos/<slug>/` or
 `defector-files/videos/<slug>/` (title, hook, case, length, thumbnail text, selection scores in
 `channel/selection/`). That turns "video X did well" into "hook type / case type / title formula
@@ -80,6 +91,20 @@ names) and production problems.
 numbers exactly as returned (tables are fine) and add no derived figures (percentages, ratios,
 averages, rankings, growth) and no sentences that interpret them. For The Defector Files, base
 advice on content (titles, scripts, comments, public counts) and on numbers as returned.
+
+## 2b. Be the best in the niche
+The owner's goal is for both channels to become the best in their niche. Keep a leaderboard per
+niche in `channel/niche-leaderboard.md` and `defector-files/niche-leaderboard.md`: each
+competitor's subscribers, weekly uploads and best video of the week, with our channel in the same
+table, week by week. From it, name in the report:
+- which cases, angles and title formulas broke out for competitors this week (outlier multiple
+  from `swipe.py`), and which of them we should cover next (add them to the case log with the
+  evidence, so the daily runs pick them up);
+- what the top channels do that we do not (length, thumbnails, openings, series, Shorts,
+  community posts), each as a concrete action or experiment;
+- where we already beat them.
+Never copy a competitor's script, title word for word or thumbnail; take the case and the
+pattern, and make our own.
 
 ## 3. Improve the process yourself
 Make concrete, small edits — at most about 5 per channel per week — where the evidence supports
@@ -135,6 +160,11 @@ not uploaded). Only after the owner approves a new style in a conversation is it
 to **all** videos of that channel at once and in `tools/thumbnail.py` and the daily runbook, so
 the channel keeps one style.
 
+## 3c. Update the money plan
+Check `channel/monetisation-plan.md` against this week's numbers and rules: update the "Waar staan
+we" table, mark steps done, and add the most useful next step. Changes to the owner's decisions
+(Shorts, accounts, spending) stay proposals.
+
 ## 4. Report → `reports/weekly/<YYYY-MM-DD>.md` (Dutch)
 Structure:
 1. **Samenvatting** (5 regels): hoe ging de week, belangrijkste inzicht, belangrijkste actie.
@@ -151,7 +181,26 @@ Structure:
    andere uploadtijd, uitgaven, wijzigingen aan vaste besluiten) — als duidelijke vragen.
 8. Kosten van deze review (vidIQ-credits gebruikt, saldo).
 
+## 4b. Update the dashboard (https://claude.ai/artifact/JtDHcTqwXtZH9DyK1gbr1q)
+The owner wants the weekly report, including the money progress, in this dashboard every Sunday.
+It is an Artifact of the "Data" type: its numbers are CSV files, its text is `files/index.html`
+in its store. Load the `Artifact` and `ArtifactData` tools (ToolSearch), then:
+1. Read the store (`ArtifactData` list on collections `dash`, `datasets`, `files`) and note each
+   document's `version`.
+2. Write this week's CSVs with the same columns as the current files (`precinct_videos.csv`,
+   `defector_videos.csv`, `defector_traffic.csv`, `channels.csv`, `ypp.csv`; read the current ones
+   with `Artifact` read `path` if needed), upload each with `Artifact` publish `asset: true` to
+   the dashboard url, and point each dataset at its new `/_blob/<id>` with an `update` (with
+   `if_version`) that also sets `updated: {at, by: "Claude, weekreview"}`.
+3. Replace the week-specific text in `files/index.html` (date line, takeaway, findings, advice,
+   what was changed, experiments, approvals) with `str_replace` on its `text` field. Keep the
+   layout, classes, `data-draw` drawings and marks. Never put a number in static text that a
+   dataset holds; mark it instead.
+4. Read `data/users/me/check` and `runs` afterwards; fix what fails. If the dashboard cannot be
+   reached, say so in the report and carry on.
+Hermoso numbers (The Defector Files) are shown as returned, with no derived figures.
+
 Commit and push the report. The owner reads the result in the Claude app (push notification),
 so end with a final message in Dutch that holds the advice in full: points 1, 3-7 of the report
-(not only a summary), plus the report's path. Send the report file with `SendUserFile` (status
+(not only a summary), the money progress, plus the report's path and the dashboard link. Send the report file with `SendUserFile` (status
 proactive). No email.

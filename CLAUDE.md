@@ -22,6 +22,13 @@ Weekly review (Sunday 15:00, both channels, analysis + runbook improvements). Ow
 only) of underperforming public videos, under the rules in step 3b; nothing else on the live channel:
 `channel/weekly-review.md`; reports in `reports/weekly/`.
 
+Daily check (every day ~17:40, both channels): is today's private upload ready for 19:00, and
+Claude replies to viewers' comments (owner's decision 2026-11-27): `channel/daily-check.md`.
+Money plan: `channel/monetisation-plan.md`; progress in the weekly dashboard.
+vidIQ is the only connection to Precinct Archive, so besides uploading it is also used for that
+channel's analytics, repackaging and comment replies in the weekly review and daily check, within
+their credit caps (owner's requests 2026-11-27; awaiting the owner's explicit confirmation).
+
 Full operating brief (CEO role, weekly topic shortlist, research rules, reports):
 `.claude/youtube/ceo-brief.md`. Production board and case log: `channel/pipeline.md`.
 
