@@ -17,6 +17,9 @@ conversation.
 
 Talk to the owner in Dutch. Videos, scripts and metadata are in English (British spelling).
 
+Weekly review (Sunday 15:00, both channels, analysis + runbook improvements):
+`channel/weekly-review.md`; reports in `reports/weekly/`.
+
 Full operating brief (CEO role, weekly topic shortlist, research rules, reports):
 `.claude/youtube/ceo-brief.md`. Production board and case log: `channel/pipeline.md`.
 
