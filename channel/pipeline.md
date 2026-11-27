@@ -4,7 +4,7 @@ Updated 2026-11-27.
 
 | Stage | Case | Folder | Status | Waiting on |
 |---|---|---|---|---|
-| Ready for upload | Dr Crippen, 1910: first arrest by wireless | `videos/crippen/` | 16:19, 1080p, captions, thumbnail, metadata. Download: `deliveries/crippen/` | Owner uploads. Optional v2 with 5 more archive photos |
+| Uploaded (private) | Dr Crippen, 1910: first arrest by wireless | `videos/crippen/` | On YouTube as private: https://www.youtube.com/watch?v=LBPAjuWjXI8 | Owner: AI disclosure, not for kids, captions, then public |
 | Next up | Deptford, 1905: first UK murder conviction on fingerprints | `videos/deptford/` | Wikipedia source saved; research dossier next | — |
 | Shortlist | See `channel/shortlist-2026-11.md` | | | Owner may reorder |
 
