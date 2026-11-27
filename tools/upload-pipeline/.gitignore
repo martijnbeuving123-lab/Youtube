@@ -1,0 +1,107 @@
+# ============================================================
+# SECRETS — NEVER commit any of these. Bots scrape GitHub
+# within minutes of a commit and harvest credentials.
+# ============================================================
+.env
+.env.local
+.env.*
+*.env
+secrets/
+secret/
+*token.json
+*token*.json
+*_token.json
+client_secret*.json
+credentials.json
+api_keys.txt
+.aws/
+.gcp/
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+build/
+dist/
+develop-eggs/
+.eggs/
+venv/
+.venv/
+env/
+ENV/
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================================
+# OS-specific cruft
+# ============================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# IDE / Editor
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ============================================================
+# Project-specific runtime state
+# ============================================================
+state/
+upload_log.json
+*_upload_log.json
+*uploadpost_log.json
+*.log
+logs/
+
+# ============================================================
+# Backups
+# ============================================================
+*.bak
+*.bak-*
+*.backup
+*~
+
+# ============================================================
+# Excel / spreadsheet lock files
+# ============================================================
+~$*.xlsx
+~$*.xls
+.~lock.*
+
+# ============================================================
+# Video / media (these belong in cloud storage, not git)
+# ============================================================
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+Raw_Sora_Files/
+Ready_to_Upload/
+Ready_to_Crosspost/
+Uploaded/
+
+# ============================================================
+# Python testing
+# ============================================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/

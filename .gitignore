@@ -3,3 +3,8 @@ out/
 *.mp3
 *.wav
 videos/*/assets/
+
+# upload pipeline secrets
+client_secret*.json
+token*.json
+*.pickle
