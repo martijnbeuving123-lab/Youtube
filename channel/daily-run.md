@@ -10,7 +10,7 @@ The owner decided on 2026-11-27:
 - Claude uploads as private only. Never public, unlisted or scheduled.
 
 Read `CLAUDE.md`, `.claude/youtube/ceo-brief.md` and `.claude/youtube/voice.md` first.
-Work on branch `claude/inspiring-tesla-iif0hl`, and commit and push after every step so a crashed
+Work on branch `claude/pensive-cerf-dz4nqf` (the branch the scheduled task names), and commit and push after every step so a crashed
 session can resume.
 
 ## 0. Check (5 min)
@@ -47,20 +47,45 @@ Packaging and scripts also use the repo skills: `/yt-script` (hookscore.py), `/y
 (title.py), `/yt-seo`, `/yt-chapters`.
 
 ## 2. Research (60 min) → `videos/<slug>/research.md`
-- Sources: Wikipedia via `https://en.wikipedia.org/w/index.php?title=<Title>&action=raw` (the API
-  rate-limits), plus Old Bailey Proceedings, National Archives and other reliable sources
-  reachable from here. Every fact sourced, contested points marked ⚠, as in `videos/crippen/research.md`.
+- **Primary source first.** For a trial at the Old Bailey up to 1913, fetch the verbatim
+  trial account: `python3 tools/oldbailey_get.py --search "<surname> murder" --year <year>`, then
+  `python3 tools/oldbailey_get.py videos/<slug> <trial id>` (saves `sources/oldbailey-<id>.txt`).
+  Quote witnesses and the judge from it, with the citation. Never put the page scans in the video
+  (non-commercial licence).
+- Then Wikipedia via `https://en.wikipedia.org/w/index.php?title=<Title>&action=raw`, the
+  National Archives catalogue (`https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=<words>`,
+  `Accept: application/json`) for file references, and archive.org search/metadata
+  (`archive.org/advancedsearch.php`, `archive.org/metadata/<id>`) to cite books such as the
+  *Notable British Trials* volumes. archive.org file downloads do NOT work from here (they
+  redirect to storage servers outside the allowlist).
+- Every fact sourced, contested points marked ⚠, as in `videos/crippen/research.md`. Say in the
+  report which primary sources were used.
 
 ## 3. Script (45 min) → `script.md` and `beats.json`
 - About 3,000 words, 50-60 beats, each with `[ON SCREEN: ...]`. Structure and voice as in
   `voice.md`. Run the `yt-script` hook scorer on 5 hooks and keep the best.
 - `beats.json`: `[{"id": "01", "screen": "...", "text": "narration"}]`, as in `videos/crippen/`.
 
-## 4. Images (start early; runs in the background)
-- Find public-domain or CC images on Wikimedia Commons. Download with `tools/commons_get.py`
-  (it honours 429 Retry-After; Commons allows only about one file per 20 minutes from here).
-  Start this the moment the case is chosen. Anything still missing at render time falls back to
-  cards, maps and images that did arrive.
+## 4. Images (start early, right after the case is chosen)
+Wikimedia Commons rate-limits this cloud's shared IP (HTTP 429 on almost every request), so it
+can no longer be the main source. Use the sources in this order, and aim for **at least 12 real
+archive images** per video:
+1. **Wellcome Collection** (reliable, high resolution, many Victorian/Edwardian crime, police,
+   poison, prison, execution and forensic images):
+   `python3 tools/wellcome_get.py --search "<words>"`, then
+   `python3 tools/wellcome_get.py videos/<slug> <name>=<image id> ...`. The tool only takes
+   public domain, CC0 and CC BY (never CC BY-NC: the channel is monetised) and writes the credit
+   that CC BY requires. Search broadly: the case names, places, "Newgate", "police", "poison",
+   "execution", "fingerprint", the period's newspapers.
+2. **Library of Congress** (`tools/loc_get.py --search` / fetch): good for US and some British
+   press photos. It also rate-limits at times (429): try again later in the run.
+3. **Wikimedia Commons** (`tools/commons_get.py`): only as a background job for images found
+   nowhere else, e.g. the defendant's police photo. Start it early; it honours Retry-After.
+   If it still fails, use what did arrive.
+- All tools write to the same `credits.json` / `credits.md`; `finalize_metadata.py` puts the
+  used ones in the description.
+- **Thumbnail:** the right-hand photo must be a real archive image (from any of the three
+  sources). Only if none arrived, use a period object or place, never an illustration of a person.
 - **Prefetch:** at the end of the run, start downloads for tomorrow's case so they are there
   in the morning.
 - Cards with `tools/cards.py` (title, text, quote, telegram); maps with `tools/maps.py`
@@ -111,5 +136,6 @@ Then end with a short report in Dutch:
 - the title and the case;
 - the owner's tasks in Studio: AI disclosure **Yes**, not made for kids, upload the captions,
   make it public at 19:00;
+- how many real archive images were used, and from which sources;
 - anything that went wrong or is uncertain;
 - tomorrow's case.

@@ -12,6 +12,9 @@ or that are US government work; check the rights line before using an image.
 import io, json, os, re, sys, urllib.parse, urllib.request
 from PIL import Image
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import credits as cr
+
 UA = "Mozilla/5.0 (documentary research; contact via YouTube channel)"
 
 
@@ -57,28 +60,22 @@ def fetch(vdir, name, ref):
     date = item.get("date") or ""
     rt = rights(item) or rights(data)
     print(f"{name}: {im.width}x{im.height}  {title[:70]}\n   rights: {rt[:120]}")
-    return {"name": name, "source": f"https://www.loc.gov/item/{iid}/", "title": title,
-            "date": date, "rights": rt, "credit": "Library of Congress, Prints & Photographs Division"}
+    return {"title": title + (f" ({date})" if date else ""), "page": f"https://www.loc.gov/item/{iid}/",
+            "license": rt, "artist": "", "credit": "Library of Congress, Prints & Photographs Division"}
 
 
 def main():
     if sys.argv[1] == "--search":
         return search(" ".join(sys.argv[2:]))
     vdir = sys.argv[1].rstrip("/")
-    path = f"{vdir}/credits.json"
-    credits = {c["name"]: c for c in (json.load(open(path)) if os.path.exists(path) else [])}
+    credits = cr.load(vdir)
     for arg in sys.argv[2:]:
         name, ref = arg.split("=", 1)
         try:
             credits[name] = fetch(vdir, name, ref)
         except Exception as e:
             print(f"{name}: FAILED {e}")
-    json.dump(list(credits.values()), open(path, "w"), indent=1)
-    with open(f"{vdir}/credits.md", "w") as f:
-        f.write("# Image credits\n\n")
-        for c in credits.values():
-            f.write(f"- **{c['name']}**: {c['title']} ({c.get('date', '')}). {c.get('credit', '')}. "
-                    f"{c['source']}. Rights: {c.get('rights', '')}\n")
+    cr.save(vdir, credits)
 
 
 if __name__ == "__main__":

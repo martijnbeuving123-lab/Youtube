@@ -32,8 +32,9 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
   SEO use the repo skills; no other vidIQ tools.
 - Voice profile: `.claude/youtube/voice.md`. The yt-* skills read it from
   `~/.claude/youtube/voice.md`, which the SessionStart hook symlinks to the repo copy.
-- Visuals: public-domain archive images from Wikimedia Commons (record the source and
-  licence of each one in `credits.md`), animated with slow pans and zooms, under a low music
+- Visuals: public-domain or CC BY archive images from Wellcome Collection, the Library of
+  Congress and Wikimedia Commons (Commons is rate-limited from the cloud; see
+  `channel/daily-run.md` step 4). Record the source and licence of each one in `credits.md`, animated with slow pans and zooms, under a low music
   bed. No AI imagery of real victims or perpetrators.
 - Budget: no paid services or credits beyond the vidIQ upload; anything that costs money is the
   owner's call.
