@@ -13,7 +13,7 @@ media company (full brief: `.claude/youtube/ceo-brief.md`). Since 2026-11-27 Cla
 showing the owner the draft. The owner checks the video in YouTube Studio and makes it public
 themselves. Never set a video to public or unlisted, schedule it, or change anything else on the
 live channel (metadata edits, comments, social posts) unless the owner explicitly asks in that
-conversation.
+conversation. Exception: the Sunday weekly review's repackaging (see below).
 
 Talk to the owner in Dutch. Videos, scripts and metadata are in English (British spelling).
 
