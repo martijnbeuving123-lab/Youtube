@@ -22,13 +22,25 @@ This is the full story of the Brides in the Bath case: George Joseph Smith's str
 Smith was tried for, and convicted of, the murder of Bessie Mundy. The other two deaths were put before the jury as similar-fact evidence. Where the record is uncertain, this video says so.
 
 CHAPTERS
+0:00 The experiment in Kentish Town
+1:47 The man with many names
+4:24 Bessie Mundy, Herne Bay 1912
+7:09 Alice Burnham, Blackpool 1913
+8:28 Margaret Lofty, Highgate 1914
+10:08 The letter from Blackpool
+12:19 The arrest
+13:05 Spilsbury and the three baths
+17:01 The trial at the Old Bailey
+19:39 Legacy
 
 SOURCES
 Eric R. Watson (ed.), Trial of George Joseph Smith, Notable British Trials (1922); Jane Robins, The Magnificent Spilsbury and the Case of the Brides in the Bath (2010); Arthur Neil, Man-Hunters of Scotland Yard (1932); contemporary newspaper reports. Details reported only in later accounts (including Neil's own description of the bath experiment) are marked as reported in the narration.
 
 IMAGES
 Archive images via Wikimedia Commons (public domain unless stated). Maps, cards and bath diagrams are original illustrations, not archive material. Full credits:
-CREDITS
+- GeorgeJosephSmithBridesintheBath1914BessieMundya (Public domain): https://commons.wikimedia.org/wiki/File:GeorgeJosephSmithBridesintheBath1914BessieMundya.jpg
+- GeorgeJosephSmith (Public domain): https://commons.wikimedia.org/wiki/File:GeorgeJosephSmith.JPG
+- BernardSpilsbury (Public domain): https://commons.wikimedia.org/wiki/File:BernardSpilsbury.jpg
 
 Music: original instrumental score.
 Narration: AI voice.
