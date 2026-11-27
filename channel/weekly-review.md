@@ -194,6 +194,24 @@ ideas. The owner decides and creates the YouTube channel; after that Claude sets
 Until then, keep a short list of niche candidates in `channel/next-channel.md` and update it
 when the weekly research turns up evidence.
 
+## 3f. Monetisation-review audit ("keuringscheck")
+The owner does not want to work a year and then be rejected. Audit both channels every week as
+a YouTube Partner Program reviewer would, against `channel/originality-rules.md` and YouTube's
+current monetisation policies (inauthentic content, reused content, advertiser-friendly
+guidelines; check the current wording with WebSearch on YouTube's help pages once a month).
+- **Every week (light):** sample 3 videos per channel: this week's newest, the most viewed and the
+  one with the most watch time (that is what reviewers look at). Score each rule pass/fail, look
+  at the 10 newest titles and thumbnails side by side for sameness, and check the originality
+  gate lines in `metadata.md`. Fix process problems in the runbooks (step 3); name videos that
+  would hurt a review.
+- **Full audit** once a channel is within about 20% of a threshold (subscribers or watch hours):
+  every public video, the channel page and About text, and a clear verdict: **groen** (apply),
+  **oranje** (fix these first) or **rood** (do not apply yet), with the list of fixes. Advise
+  the owner to apply only on groen.
+- Proposals that need the owner (human voice, making weak old videos private, slower cadence) go
+  under "Jouw akkoord nodig".
+In the report: a traffic light per channel (keuringsstatus) and the top 3 risks.
+
 ## 4. Report → `reports/weekly/<YYYY-MM-DD>.md` (Dutch)
 Structure:
 1. **Samenvatting** (5 regels): hoe ging de week, belangrijkste inzicht, belangrijkste actie.
@@ -206,6 +224,7 @@ Structure:
    elke aangepaste video: oude → nieuwe titel/beschrijving/tags/thumbnail, met reden; plus het
    oordeel over de aanpassingen van vorige week (beter/slechter/teruggedraaid).
 6. **Experimenten volgende week**, inclusief het grote idee van de week (3d).
+6a. **Keuringsstatus** per kanaal (groen/oranje/rood) met de top 3 risico's (3f).
 6b. **Groei:** staat een kanaal klaar voor een nieuw zusterkanaal (3e)? Zo ja: nicheadvies.
 7. **Voorstellen die jouw akkoord nodig hebben** (bijv. aanpassingen aan bestaande live-video's,
    andere uploadtijd, uitgaven, wijzigingen aan vaste besluiten) — als duidelijke vragen.

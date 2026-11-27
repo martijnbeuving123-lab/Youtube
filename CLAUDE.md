@@ -26,6 +26,7 @@ only) of underperforming public videos, under the rules in step 3b; nothing else
 Daily check (every day ~17:40, catch-up ~18:30, both channels): is today's private upload ready, and
 if so it is scheduled to go public at 19:00 (owner's decision 2026-11-27); and
 Claude replies to viewers' comments (owner's decision 2026-11-27): `channel/daily-check.md`.
+Originality rules for every video (so the Partner Program review passes): `channel/originality-rules.md`.
 Money plan: `channel/monetisation-plan.md`; progress in the weekly dashboard.
 vidIQ is the only connection to Precinct Archive, so besides uploading it is also used for that
 channel's analytics, repackaging and comment replies in the weekly review and daily check, within

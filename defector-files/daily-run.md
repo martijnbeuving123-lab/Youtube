@@ -45,6 +45,8 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
   official inquiries). Every fact sourced; contested points marked ⚠.
 
 ## 3. Script (45 min) → `script.md` and `beats.json`
+- **Originality:** follow `channel/originality-rules.md` (own angle, analysis passages, an opening
+  unlike the last 10 videos, no boilerplate). Owner's decision 2026-11-27.
 - ~3,000 words, 50–60 beats, each with `[ON SCREEN: ...]`, structure and voice per `voice.md`.
   Score 5 hooks with the `yt-script` scorer and keep the best.
 - `beats.json`: `[{"id": "01", "screen": "...", "text": "narration"}]`. Write numbers and dates
@@ -72,6 +74,8 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
 - `~/kvenv/bin/python tools/music.py defector-files/videos/<slug> --minutes 22 --key <A-G> --seed <day>`
 
 ## 6. Edit and render (30 min)
+- **Originality gate first:** check `channel/originality-rules.md` rules 1–6 and record the result
+  in `metadata.md`. Fix before rendering; never skip it for the deadline.
 - `edit.json` as in `videos/crippen/edit.json` (visual, motion, caption, pause_before, fallback,
   `music_db` -23, `chapters`).
 - `python3 tools/render.py defector-files/videos/<slug>`, then

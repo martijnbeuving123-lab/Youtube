@@ -63,6 +63,8 @@ Packaging and scripts also use the repo skills: `/yt-script` (hookscore.py), `/y
   report which primary sources were used.
 
 ## 3. Script (45 min) → `script.md` and `beats.json`
+- **Originality:** follow `channel/originality-rules.md` (own angle, analysis passages, an opening
+  unlike the last 10 videos, no boilerplate). Owner's decision 2026-11-27.
 - About 3,000 words, 50-60 beats, each with `[ON SCREEN: ...]`. Structure and voice as in
   `voice.md`. Run the `yt-script` hook scorer on 5 hooks and keep the best.
 - `beats.json`: `[{"id": "01", "screen": "...", "text": "narration"}]`, as in `videos/crippen/`.
@@ -116,6 +118,8 @@ archive images** per video:
   `beats.json` (never in `script.md`) and re-run with `--only <ids>` to test.
 
 ## 6. Edit and render (40 min)
+- **Originality gate first:** check `channel/originality-rules.md` rules 1–6 and record the result
+  in `metadata.md`. Fix before rendering; never skip it for the deadline.
 - `edit.json` (beats with visual, motion, caption, pause_before 1.4 at act changes, fallback;
   `music_db` -23; `chapters`), as in `videos/crippen/edit.json`.
 - `python3 tools/render.py videos/<slug>`, then `python3 tools/finalize_metadata.py videos/<slug>`.
