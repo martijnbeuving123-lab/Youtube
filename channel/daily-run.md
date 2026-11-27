@@ -14,38 +14,34 @@ Work on branch `claude/inspiring-tesla-iif0hl`, and commit and push after every 
 session can resume.
 
 ## 0. Check (5 min)
-- Are the vidIQ tools (`mcp__vidIQ__*`) available? Search for them with ToolSearch first. If they
-  are missing, do steps 1-4 (research, script, images), push, and report that the scheduled task
-  needs the vidIQ connector added in claude.ai.
+- **vidIQ is used for the upload only** (owner's decision, 2026-11-27). Topic research, script,
+  packaging and SEO use the repo skills (`yt-viral`, `yt-script`, `yt-package`, `yt-seo`); voice
+  and music are made locally for free. Do not call other vidIQ tools.
+- Set up the tools: `bash tools/setup.sh` (venv at `~/kvenv` with Kokoro, yt-dlp, soundfile).
 - `TZ=Europe/Amsterdam date`. If the previous run left a half-finished video (see
   `channel/pipeline.md`), finish that one first instead of starting a new case.
-- `vidiq_balance`. One video costs about 460 credits (selection research ~40, voiceover ~390, music ~25).
-  **If there are not enough credits, do NOT start the voiceover.** Do steps 1-3, plus image
-  prefetch, then stop and report "credits op" with the balance and reset date. Never buy credits
-  or use a paid service; that is the owner's call.
+- Are the vidIQ tools (`mcp__vidIQ__*`) available (ToolSearch)? Only step 8 needs them. If they are
+  missing, do everything up to the render, push, and report that the scheduled task needs the
+  vidIQ connector added in claude.ai.
 
-## 1. Pick the case with the most viral potential (30 min, ~30-40 credits)
+## 1. Pick the case with the most viral potential (30 min, no credits)
 The owner wants every video to be the case with the **highest chance of going viral** that day.
 Decide on data, not on a fixed order:
 
 1. **Candidates (8-12).** Combine:
    - the unproduced cases in `channel/pipeline.md` and the latest shortlist;
-   - `vidiq_outliers` (keyword e.g. "historical true crime documentary", "british murder case",
-     "forensic first"; long-form): which cases and angles are beating their channel's average right now;
-   - `vidiq_trending_videos` (titleQuery "true crime documentary", sortBy recentVph): what is hot today;
+   - **`yt-viral`**: `~/kvenv/bin/python tools/collect_channels.py channel/competitors.txt > /tmp/collected.json`,
+     then `python3 .claude/skills/yt-viral/swipe.py /tmp/collected.json --min 2.0`. Which cases and
+     angles beat their channel's own median? Name the formula, as the skill says;
    - WebSearch for anniversaries this week, new documentaries, series or news that put an
-     old case back in the spotlight.
-2. **Measure demand** for the 3-4 strongest candidates: `vidiq_keyword_research` (mode research)
-   on the case name, for search volume and competition.
-3. **Score** each candidate 1-10 on the ten criteria in `.claude/youtube/ceo-brief.md`, with the
-   data next to each score (outlier scores, views per hour, search volume, competition). Weight
-   demand, outlier evidence and topicality double. Write it to `channel/selection/<date>.md`.
-4. **Pick the highest total** that also passes the hard limits: closed case, strong sources, no
+     old case back in the spotlight, and for search interest in the case name.
+2. **Score** each candidate 1-10 on the ten criteria in `.claude/youtube/ceo-brief.md`, with the
+   evidence next to each score (outlier multiples, news, competition seen in the swipe file).
+   Weight demand, outlier evidence and topicality double. Write it to `channel/selection/<date>.md`.
+3. **Pick the highest total** that also passes the hard limits: closed case, strong sources, no
    accusation of anyone not convicted, advertiser-safe enough to monetise, not already Produced.
    Fit with the channel (historical cases, any country) counts as a criterion, not a ban.
-5. Add new candidates to the case log so they are not researched twice.
-
-Never spend more than about 50 credits on selection; the voiceover needs the rest.
+4. Add new candidates to the case log so they are not researched twice.
 
 ## 2. Research (60 min) → `videos/<slug>/research.md`
 - Sources: Wikipedia via `https://en.wikipedia.org/w/index.php?title=<Title>&action=raw` (the API
@@ -69,10 +65,13 @@ Never spend more than about 50 credits on selection; the voiceover needs the res
 - Never AI images of real victims or perpetrators. Check every image visually before using it.
 
 ## 5. Audio (20 min) → `audio.json`
-- `vidiq_voiceover_generate`, voice Daniel `onwK4e9ZLuTAKqWW03F9`, using `scriptLines` (one line per
-  beat) so the result has per-line start times. Split into two parts as for Crippen if needed.
-- `vidiq_generate_music`: low, sombre instrumental bed. Poll with `vidiq_job_poll`.
-- Download the files to `videos/<slug>/assets/audio/`.
+- Voice: `~/kvenv/bin/python tools/voiceover.py videos/<slug> --voice bm_george --speed 0.95`
+  (Kokoro, free, runs here). It speaks every beat of `beats.json` and writes
+  `assets/audio/vo.wav` and `audio.json` with per-beat start times.
+- Music: `~/kvenv/bin/python tools/music.py videos/<slug> --minutes 22 --key D --seed <day>`
+  (generated low, sombre pad; vary key and seed per video).
+- Listen-check: spot-check a few beats for mispronounced names; fix with phonetic spelling in
+  `beats.json` (never in `script.md`) and re-run with `--only <ids>` to test.
 
 ## 6. Edit and render (40 min)
 - `edit.json` (beats with visual, motion, caption, pause_before 1.4 at act changes, fallback;
@@ -109,6 +108,5 @@ Then end with a short report in Dutch:
 - the title and the case;
 - the owner's tasks in Studio: AI disclosure **Yes**, not made for kids, upload the captions,
   make it public at 19:00;
-- the credits left;
 - anything that went wrong or is uncertain;
 - tomorrow's case.

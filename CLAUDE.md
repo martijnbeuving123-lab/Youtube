@@ -26,19 +26,21 @@ Full operating brief (CEO role, weekly topic shortlist, research rules, reports)
 - Cadence: one new video **every day**, uploaded as private by 17:00 Amsterdam time; the owner
   makes it public at 19:00. A scheduled task runs `channel/daily-run.md` every morning.
   No script approval in advance: the owner approves by reviewing the private upload.
-- Voice: vidIQ voiceover, **Daniel – Steady Broadcaster** (British male), voiceId
-  `onwK4e9ZLuTAKqWW03F9`.
+- Voice: Kokoro (free, open-source, runs locally) British male voice `bm_george`, made with
+  `tools/voiceover.py`. Music bed made with `tools/music.py`. (Until 2026-11-27: vidIQ voice Daniel.)
+- **vidIQ is for uploading only** (owner's decision, 2026-11-27). Research, script, packaging and
+  SEO use the repo skills; no other vidIQ tools.
 - Voice profile: `.claude/youtube/voice.md`. The yt-* skills read it from
   `~/.claude/youtube/voice.md`, which the SessionStart hook symlinks to the repo copy.
 - Visuals: public-domain archive images from Wikimedia Commons (record the source and
   licence of each one in `credits.md`), animated with slow pans and zooms, under a low music
   bed. No AI imagery of real victims or perpetrators.
-- Budget: vidIQ credits are limited (renewable bucket resets around the 16th of each month).
-  Check `vidiq_balance` before a credit-heavy step, and say what it will cost.
+- Budget: no paid services or credits beyond the vidIQ upload; anything that costs money is the
+  owner's call.
 
 ## Pipeline, per video (`videos/<slug>/`)
 
-1. **Pick the case** — `/yt-viral` plus vidIQ outliers and keyword research.
+1. **Pick the case** — `/yt-viral` (`tools/collect_channels.py` + `swipe.py`) plus web search.
 2. **Research** — `research.md`, facts with sources. Mark anything contested.
 3. **Script** — `/yt-script`, saved as `script.md`. (Daily cadence: no advance approval.)
 4. **Package** — `/yt-package` and `/yt-seo`, saved as `metadata.md` (title, description,

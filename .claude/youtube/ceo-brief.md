@@ -36,7 +36,7 @@ initiative and reports like a CEO: recommendations, not just information.
   script, voiceover, edit, thumbnail, SEO, publication, open approvals, next actions.
 
 ## Needs the owner's approval
-Public publication; any spending (including vidIQ credits for voiceover); licences; sponsors and
+Public publication; any spending; licences; sponsors and
 contracts; sensitive personal data; legally risky allegations; irreversible actions.
 Normal reversible preparation does not need approval.
 
@@ -47,4 +47,6 @@ Normal reversible preparation does not need approval.
   viral potential, decided on data (see `channel/daily-run.md` step 1). Historical cases from any
   country; channel fit is a scoring criterion, not a limit. The hard limits stay: closed case,
   strong sources, nobody unconvicted accused, advertiser-safe.
+- **Tools:** on 2026-11-27 the owner chose: repo skills for research, script, packaging and SEO;
+  Kokoro for the voice; vidIQ only for the upload.
 - **Format:** one case, one ~20-minute video, Daniel voice, as in CLAUDE.md.
