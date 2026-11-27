@@ -52,7 +52,7 @@ One thumbprint, twelve points of agreement, and an expert who wrote to both side
 - Card at beat 43 (Muir introduced, Act IV): Crippen video.
 
 ## Upload checklist (owner, in YouTube Studio)
-- Video is uploaded as **private** by Claude via vidIQ.
+- Video is uploaded as **private** by Claude via vidIQ: https://www.youtube.com/watch?v=x_-Mk9eLR3Y (thumbnail sent with the upload).
 - Altered or synthetic content: **Yes** (AI narration voice).
 - Audience: **not made for kids**.
 - Upload `deliveries/deptford/captions.srt` as English subtitles.
