@@ -5,8 +5,8 @@ Updated 2026-11-27.
 | Stage | Case | Folder | Status | Waiting on |
 |---|---|---|---|---|
 | Uploaded (private) | Dr Crippen, 1910: first arrest by wireless | `videos/crippen/` | On YouTube as private: https://www.youtube.com/watch?v=LBPAjuWjXI8 | Owner: AI disclosure, not for kids, captions, then public |
-| In production (daily run 27 Nov) | Brides in the Bath, 1915: Spilsbury's bath test and "system" evidence | `videos/brides-in-the-bath/` | Selected on data (`channel/selection/2026-11-27.md`); research | — |
-| Next up | Deptford, 1905: first UK murder conviction on fingerprints | `videos/deptford/` | Wikipedia source saved | — |
+| Uploading (private) | Brides in the Bath, 1915: Spilsbury's bath test and "system" evidence | `videos/brides-in-the-bath/` | Rendered (21:15); vidIQ upload waiting for YouTube verification by owner | Owner: YouTube verification link, then AI disclosure, not for kids, thumbnail + captions, public 19:00 |
+| Next up (daily run 28 Nov) | Deptford, 1905: first UK murder conviction on fingerprints | `videos/deptford/` | Wikipedia source saved | — |
 | Shortlist | See `channel/shortlist-2026-11.md` | | | Owner may reorder |
 
 ## Case log (everything looked at, so nothing is repeated)
@@ -15,7 +15,7 @@ Updated 2026-11-27.
 |---|---|---|---|---|
 | Hawley Harvey Crippen | 1910 | UK/Canada | Wireless used to catch a murder suspect | Produced: public https://www.youtube.com/watch?v=zfbMUna7tSM (also an older 3-part short series) |
 | Stratton brothers (Deptford) | 1905 | UK | Fingerprint murder conviction | Next |
-| George Joseph Smith (Brides in the Bath) | 1915 | UK | Spilsbury's bath tests; "system" evidence | In production (27 Nov) |
+| George Joseph Smith (Brides in the Bath) | 1915 | UK | Spilsbury's bath tests; "system" evidence | Produced 27 Nov (private upload pending verification) |
 | PC George Gutteridge | 1927 | UK | Firearms identification at trial | Shortlisted |
 | Buck Ruxton | 1935 | UK | Photographic superimposition | Shortlisted |
 | Alfred Rouse (blazing car) | 1931 | UK | Fire investigation; victim never named | Shortlisted |
