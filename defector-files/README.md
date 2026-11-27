@@ -16,7 +16,9 @@ American date order: "June 19, 1953").
   **15:00 Amsterdam time**, with title, description, tags, category Education, thumbnail,
   captions, "altered or synthetic content" Yes and "made for kids" No. The owner checks it in
   YouTube Studio and makes it public themselves. Never public, unlisted or scheduled, and no
-  other changes on the live channel. No vidIQ for this channel. Steps: `daily-run.md` step 8.
+  other changes on the live channel, except that the Sunday weekly review may repackage
+  underperforming public videos (title, description, tags, thumbnail in the house style;
+  `channel/weekly-review.md` step 3b). No vidIQ for this channel. Steps: `daily-run.md` step 8.
   The upload pack in `defector-files/deliveries/<slug>/` is still written, as a record and backup.
 - Research, script, packaging and SEO with the repo skills (`yt-viral`, `yt-script`,
   `yt-package`, `yt-seo`). No paid services.

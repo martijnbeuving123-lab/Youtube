@@ -12,11 +12,16 @@ before every push. Read first: `CLAUDE.md`, `.claude/youtube/ceo-brief.md`,
 "experiments" section — this week's job is to judge them).
 
 ## Hard limits (never change these, not even via a runbook edit)
-- Read-only on the live channels. No metadata, thumbnail, privacy, comment or playlist changes,
-  no posts, no uploads. Only the owner changes live videos; you only advise.
-- No spending: never buy credits, plans or paid services. vidIQ: at most **6 analytics calls
-  (5 credits each, ~30 credits)** per review; check `vidiq_balance` first and skip vidIQ if the
-  balance is below 600 (the daily Precinct video needs ~520). Hermoso analytics are free.
+- On the live channels you may change **only the title, description, tags and thumbnail** of
+  public videos, as step 3b describes (owner's decision, 2026-11-27). Never privacy, schedule,
+  made-for-kids, AI disclosure, category, comments, playlists, posts, uploads or deletions.
+- **Thumbnail house style is fixed.** A new thumbnail is made with `tools/thumbnail.py` in the
+  channel's own house style; only the photo and the words change. Never a different layout, font,
+  colour scheme or template, not even on one video.
+- No spending: never buy credits, plans or paid services. vidIQ: at most **60 credits** per
+  review (analytics 5 per call, each title/description/tags update 5, each thumbnail 5); check
+  `vidiq_balance` first, and never let it drop below 550 (the daily Precinct video needs ~520).
+  Hermoso analytics and updates are free.
 - Do not touch the owner's standing decisions in `CLAUDE.md`, `defector-files/README.md` and the
   "Hard limits"/"Standing decisions" sections: private uploads only, daily cadence, voices, no AI
   images of real people, ethics and source rules, upload deadlines. If the data says one of those
@@ -94,6 +99,42 @@ Also set **1-3 experiments for next week** per channel (e.g. "3 of 7 titles use 
 formula") and write them into the daily runbook so the daily runs actually do them; mark them
 `EXPERIMENT <date>` so next Sunday can judge them.
 
+## 3b. Fix the packaging of videos that did not work
+The owner wants underperforming videos repackaged every week, not just advice.
+
+**Which videos.** Public videos at least 7 days old, not repackaged in the last 14 days (see the
+packaging log), that clearly lag the channel's own videos (views, impressions click-through,
+views from search) or fail the `yt-package` / `yt-seo` checks (truncated or vague title, no
+searchable case name, thin description, missing tags). At most **5 videos per channel per week**,
+worst first. Never touch a video that is still private (the owner has not reviewed it yet).
+
+**What to change.** Preferably one element per video, so next week shows what worked:
+- **Title:** `/yt-package` (`title.py`); lead with the name people search for; under ~60
+  characters visible; British spelling for Precinct Archive, American for The Defector Files;
+  factual, no claim the video does not deliver, nobody called guilty who was not convicted.
+- **Description and tags:** `/yt-seo`. Keep chapters, sources/credits lines and disclosures.
+- **Thumbnail:** only `tools/thumbnail.py` in the house style (Precinct Archive: reference
+  `videos/crippen/out/thumbnail.jpg`; The Defector Files: `defector-files/voice.md`). New archive
+  photo and/or new words, same rules as the daily run (real archive image, no AI images of real
+  people, words do not repeat the title). Look at the image before uploading.
+
+**How.** Precinct Archive: `vidiq_update_video` (title/description/tags) and
+`vidiq_update_video_thumbnail`, channel `UCdRfVXC9tY_Poq1cNZ-JXGA`. The Defector Files: Hermoso
+`update_youtube_video` (only `title`, `description`, `tags`) and `set_youtube_thumbnail` (image via
+`upload_file`). Read the result back; if YouTube asks for verification, stop and tell the owner.
+
+**Log every change** in `channel/packaging-log.md` or `defector-files/packaging-log.md` (create
+if missing): date, video id, element, old value → new value, reason with evidence. Also update the
+video's `metadata.md` in the repo. Next Sunday, compare before/after; if a change did worse,
+restore the old value and note it in the log. Winning patterns go into the playbook.
+
+**If the house style itself seems to be the problem** (e.g. click-through stays low across many
+videos while titles and topics vary): do NOT change the style. Put it in the report under
+"Jouw akkoord nodig": the evidence, and 1-2 alternative styles as example images (made locally,
+not uploaded). Only after the owner approves a new style in a conversation is it applied, and then
+to **all** videos of that channel at once and in `tools/thumbnail.py` and the daily runbook, so
+the channel keeps one style.
+
 ## 4. Report → `reports/weekly/<YYYY-MM-DD>.md` (Dutch)
 Structure:
 1. **Samenvatting** (5 regels): hoe ging de week, belangrijkste inzicht, belangrijkste actie.
@@ -102,7 +143,9 @@ Structure:
 3. **Wat werkte / wat niet** — met bewijs en zekerheid.
 4. **Uitgebreid advies** per kanaal: titels, thumbnails, hooks, onderwerpen, lengte, SEO,
    Shorts, community, en strategie voor de komende 30 dagen.
-5. **Wat ik zelf heb aangepast** — elke wijziging, het bestand en waarom (met commit).
+5. **Wat ik zelf heb aangepast** — elke wijziging aan draaiboeken (bestand, waarom, commit) én
+   elke aangepaste video: oude → nieuwe titel/beschrijving/tags/thumbnail, met reden; plus het
+   oordeel over de aanpassingen van vorige week (beter/slechter/teruggedraaid).
 6. **Experimenten volgende week.**
 7. **Voorstellen die jouw akkoord nodig hebben** (bijv. aanpassingen aan bestaande live-video's,
    andere uploadtijd, uitgaven, wijzigingen aan vaste besluiten) — als duidelijke vragen.

@@ -17,7 +17,9 @@ conversation.
 
 Talk to the owner in Dutch. Videos, scripts and metadata are in English (British spelling).
 
-Weekly review (Sunday 15:00, both channels, analysis + runbook improvements):
+Weekly review (Sunday 15:00, both channels, analysis + runbook improvements). Owner's decision
+2026-11-27: the weekly review may change the title, description, tags and thumbnail (house style
+only) of underperforming public videos, under the rules in step 3b; nothing else on the live channel:
 `channel/weekly-review.md`; reports in `reports/weekly/`.
 
 Full operating brief (CEO role, weekly topic shortlist, research rules, reports):
