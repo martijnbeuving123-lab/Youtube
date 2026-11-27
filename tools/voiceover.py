@@ -7,8 +7,8 @@ assets/audio/vo.wav plus audio.json in the format tools/render.py expects:
 {"voice": ..., "parts": [{"file", "beats", "starts", "end"}], "music": {...}}.
 An existing "music" entry in audio.json is kept.
 
-Needs: pip install kokoro soundfile (in a venv) and espeak-ng. The model is downloaded from
-huggingface.co on first use.
+Needs: bash tools/setup.sh (venv ~/kvenv with kokoro-onnx; model files in ~/.cache/kokoro,
+downloaded from the kokoro-onnx GitHub release).
 """
 import argparse
 import json
@@ -30,10 +30,11 @@ def main():
     ap.add_argument("--only", help="comma-separated beat ids (test run)")
     a = ap.parse_args()
 
-    from kokoro import KPipeline
+    from kokoro_onnx import Kokoro
 
-    lang = "b" if a.voice.startswith("b") else "a"  # b = British English, a = American
-    pipe = KPipeline(lang_code=lang, repo_id="hexgrad/Kokoro-82M")
+    lang = "en-gb" if a.voice.startswith("b") else "en-us"
+    cache = os.path.expanduser("~/.cache/kokoro")
+    tts = Kokoro(f"{cache}/kokoro-v1.0.onnx", f"{cache}/voices-v1.0.bin")
 
     beats = json.load(open(f"{a.vdir}/beats.json"))
     if a.only:
@@ -43,10 +44,10 @@ def main():
     chunks, starts, t = [], [], 0.0
     for b in beats:
         text = b["text"].strip()
-        pieces = [audio for _, _, audio in pipe(text, voice=a.voice, speed=a.speed, split_pattern=r"\n+")]
-        if not pieces:
+        wav, sr = tts.create(text, voice=a.voice, speed=a.speed, lang=lang)
+        if sr != SR or len(wav) == 0:
             sys.exit(f"beat {b['id']}: no audio produced")
-        wav = np.concatenate([np.asarray(p, dtype=np.float32) for p in pieces])
+        wav = np.asarray(wav, dtype=np.float32)
         wav = np.concatenate([wav, np.zeros(int(GAP * SR), dtype=np.float32)])
         starts.append(round(t, 6))
         chunks.append(wav)

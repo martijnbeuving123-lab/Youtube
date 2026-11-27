@@ -1,0 +1,9 @@
+# Competitor channels for yt-viral (tools/collect_channels.py). One handle or URL per line.
+# Add channels you meet in WebSearch results; YouTube search itself is blocked from the cloud
+# session, so check a new handle with collect_channels.py before adding it.
+@DarkHistories          # Victorian/Edwardian crime, closest to our format
+@RealCrime              # British true-crime documentaries, large
+@TimelineChannel        # British history documentaries
+@HistoryHit             # British history
+@TheHistoryGuyChannel   # forgotten-history stories
+@BarelySociable         # mystery/investigation narration
