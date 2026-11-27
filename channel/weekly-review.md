@@ -94,6 +94,13 @@ numbers exactly as returned (tables are fine) and add no derived figures (percen
 averages, rankings, growth) and no sentences that interpret them. For The Defector Files, base
 advice on content (titles, scripts, comments, public counts) and on numbers as returned.
 
+## 2a. Shorts
+Per channel, for the week's Shorts: views and engaged views (for Shorts the honest number),
+average view percentage, subscribers gained, and whether viewers went on to the long video
+(traffic from Shorts to long-form where the report shows it). Which hooks and moments held
+viewers. Improve the hook rules in `channel/daily-run.md` step 6b. Trial (from 2026-11-28, two
+weeks): after it, give a clear verdict in the report: keep, change, extend or stop.
+
 ## 2b. Be the best in the niche
 The owner's goal is for both channels to become the best in their niche. Keep a leaderboard per
 niche in `channel/niche-leaderboard.md` and `defector-files/niche-leaderboard.md`: each

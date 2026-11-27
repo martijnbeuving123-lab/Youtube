@@ -22,6 +22,9 @@ channel is connected there (`list_connector_accounts`; Hermoso is free, prefer i
   `private` and set `publishAt` to **today 19:00 Europe/Amsterdam** (work out the UTC time with
   `date -u -d 'TZ="Europe/Amsterdam" 19:00 today' +%Y-%m-%dT%H:%M:%SZ`, which gives 18:00Z in winter
   and 17:00Z in summer; it moves with summer time).
+  The second allowed action: **yesterday's or today's private Short** of each channel (recorded
+  in the pipeline) gets `publishAt` **tomorrow 12:00 Europe/Amsterdam** (`date -u -d 'TZ="Europe/Amsterdam" 12:00 tomorrow' +%Y-%m-%dT%H:%M:%SZ`),
+  if it passes the Short checks in part A2.
   Never make a video public immediately, never unlisted, never schedule any other video or time,
   never delete anything. If it is already past 18:55 Amsterdam time, do not schedule; report it.
 - vidIQ: at most 30 credits per day, and never below a balance of 550. Never buy anything.
@@ -69,6 +72,14 @@ video that fails a check; leave it private and say why at the top of the report.
 day's production run reported (its session / `pipeline.md`), and whether the finished MP4 exists
 so the owner can upload it by hand.
 
+## A2. Today's Short (for tomorrow 12:00)
+For each channel, find today's private Short (pipeline: "Short (private, for tomorrow 12:00)").
+Check: vertical, under 60 seconds, processing finished, title with the case, description with
+the link to the full video, made for kids No. If all pass, set `publishAt` to tomorrow 12:00
+Amsterdam (privacy stays private) and read it back; update the pipeline line to "Short
+(scheduled <date> 12:00)". If a check fails and you cannot fix it from the repo files, leave it
+private and report it. No Short today is not an error; just report "geen Short".
+
 ## B. Comment replies (Claude posts them)
 1. Read new comments on the channel's public videos from the last 60 days (Hermoso
    `list_youtube_comments`; vidIQ `vidiq_video_comments` for Precinct Archive). Skip comments
@@ -95,7 +106,7 @@ retrying.
 
 ## Report (Dutch, short — the owner reads it as a notification)
 Start with one line per channel: **✅ ingepland voor 19:00** (with the title) or **❌ niet
-ingepland** (with the reason, and what the owner can do: e.g. fix X in Studio and schedule it).
+ingepland**, plus a line for the Short ("Short ingepland morgen 12:00: <title>" / "geen Short") (with the reason, and what the owner can do: e.g. fix X in Studio and schedule it).
 The owner can still stop a scheduled video by setting it back to private in Studio. Then per
 channel:
 what was wrong and what you fixed, what the owner must still do in YouTube Studio (if anything),

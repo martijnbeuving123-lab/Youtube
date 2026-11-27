@@ -82,6 +82,28 @@ a video public, unlisted or scheduled, and change nothing else on the live chann
   `python3 tools/finalize_metadata.py defector-files/videos/<slug>` if it fits.
 - QA: duration, 1080p, about -14 LUFS, sampled frames.
 
+
+## 6b. Short for tomorrow 12:00 (owner's decision 2026-11-27; 20 min, never at the cost of the deadline)
+Every day one YouTube Short from today's long video, published the next day at **12:00
+Amsterdam** (the daily check schedules it). Skip it if the long video is not uploaded yet with
+less than 90 minutes to the deadline; the long video always comes first.
+1. **Pick** 30-55 s that stand on their own (`/yt-shorts`): a complete opening thought, a turn,
+   an ending line that sets up the full video (e.g. "Under the cellar floor...").
+2. **Hook:** write 5 on-screen hooks (two lines cream + two lines red, different words from the
+   narration), score them with `.claude/skills/yt-script/hookscore.py`, keep the best. If none is
+   genuinely gripping in the first second, make no Short today (no Short beats a weak one).
+3. **Build** with `python3 tools/short.py videos/<slug>/shorts/short1.json out/short1.mp4`
+   (spec format in the tool; example `videos/crippen/shorts/short1.json`): real archive images
+   only, full-frame shots that change every 5-10 s, the house fonts and colours.
+4. **Check** 6 sampled frames (hook readable, captions inside the frame, no AI faces) and the
+   length (under 60 s).
+5. **Upload as private** without a publish time, with: title = the hook as a sentence +
+   " #Shorts" (under 100 characters); description = one line of context, "Watch the full case:"
+   + the long video's link, image credits, "Narration is AI-generated."; category Education;
+   made for kids No; AI disclosure Yes where the tool allows it. Record the Short's video id in
+   the pipeline as "Short (private, for tomorrow 12:00)".
+   Upload route: The Defector Files: via Hermoso only while `hermoso_credits` → `posting.left` is above the days left in the month plus 2 (the long video comes first); otherwise skip and say so. If the channel is connected in vidIQ, use vidIQ instead (free).
+
 ## 7. Package → `metadata.md` and thumbnail
 - 3 titles and 3 thumbnail concepts (`yt-package` title.py), winner used. Thumbnail in the shared house style: follow the thumbnail rules in
   `channel/daily-run.md` step 7 (`tools/thumbnail.py ... --label "CASE FILE · PLACE, YEAR"`).

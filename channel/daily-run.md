@@ -125,6 +125,28 @@ archive images** per video:
 - `python3 tools/render.py videos/<slug>`, then `python3 tools/finalize_metadata.py videos/<slug>`.
 - QA: duration, 1080p, loudness about -14 LUFS, look at sampled frames.
 
+
+## 6b. Short for tomorrow 12:00 (owner's decision 2026-11-27; 20 min, never at the cost of the deadline)
+Every day one YouTube Short from today's long video, published the next day at **12:00
+Amsterdam** (the daily check schedules it). Skip it if the long video is not uploaded yet with
+less than 90 minutes to the deadline; the long video always comes first.
+1. **Pick** 30-55 s that stand on their own (`/yt-shorts`): a complete opening thought, a turn,
+   an ending line that sets up the full video (e.g. "Under the cellar floor...").
+2. **Hook:** write 5 on-screen hooks (two lines cream + two lines red, different words from the
+   narration), score them with `.claude/skills/yt-script/hookscore.py`, keep the best. If none is
+   genuinely gripping in the first second, make no Short today (no Short beats a weak one).
+3. **Build** with `python3 tools/short.py videos/<slug>/shorts/short1.json out/short1.mp4`
+   (spec format in the tool; example `videos/crippen/shorts/short1.json`): real archive images
+   only, full-frame shots that change every 5-10 s, the house fonts and colours.
+4. **Check** 6 sampled frames (hook readable, captions inside the frame, no AI faces) and the
+   length (under 60 s).
+5. **Upload as private** without a publish time, with: title = the hook as a sentence +
+   " #Shorts" (under 100 characters); description = one line of context, "Watch the full case:"
+   + the long video's link, image credits, "Narration is AI-generated."; category Education;
+   made for kids No; AI disclosure Yes where the tool allows it. Record the Short's video id in
+   the pipeline as "Short (private, for tomorrow 12:00)".
+   Upload route: Precinct Archive: `vidiq_video_upload` + `vidiq_social_post_draft_create` (YouTube, privacyStatus private, no publishAt) + `vidiq_social_post_publish`, as in step 8.
+
 ## 7. Package → `metadata.md` and `out/thumbnail.jpg`
 - 3 titles and 3 thumbnail concepts (scored with `yt-package`'s `title.py`), the winner used.
 - **Thumbnail: always the shared house style of both channels** ("case file" style, owner's
