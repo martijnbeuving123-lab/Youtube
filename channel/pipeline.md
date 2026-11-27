@@ -29,4 +29,4 @@ Updated 2026-11-27.
 ## Shorts
 | Date | Channel | Short | Video id / status |
 |---|---|---|---|
-| 2026-11-27 | Precinct Archive | Crippen: "He Disguised His Lover as a Boy. A Telegram Still Caught Him." (spec `videos/crippen/shorts/short1.json`) | uploaded via vidIQ, scheduled 2026-11-28 12:00 Amsterdam (post a9352f85) |
+| 2026-11-27 | Precinct Archive | Crippen: "He Disguised His Lover as a Boy. A Telegram Still Caught Him." (spec `videos/crippen/shorts/short1.json`) | https://www.youtube.com/watch?v=mqsBx6G3Aa8 — private, publishAt 2026-11-28 12:00 Amsterdam (verified) |
