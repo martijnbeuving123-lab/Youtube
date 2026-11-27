@@ -165,6 +165,35 @@ Check `channel/monetisation-plan.md` against this week's numbers and rules: upda
 we" table, mark steps done, and add the most useful next step. Changes to the owner's decisions
 (Shorts, accounts, spending) stay proposals.
 
+## 3d. Challenge yourself
+The owner wants Claude to keep raising the bar, not just tick boxes. Every week:
+- **Self-critique:** name the weakest part of our own process this week (selection, research,
+  script, visuals, packaging, the checks) and fix one thing in it, with evidence.
+- **One bold idea:** propose or run (within the hard limits) one experiment bigger than a tweak:
+  a new format, a new hook style, a new kind of case, a series of related cases, a collaboration
+  idea. Say what success would look like and how we measure it next week.
+- **Benchmark up:** compare our best video with the niche's best video of the week and name the
+  gap honestly.
+
+## 3e. Growth: when to propose a new channel
+The owner wants to add a channel, run exactly like the other two, as soon as one is clearly going
+the right way. Check every week whether **one** channel meets all of these:
+- at least 4 weeks of daily uploads with no missed day and no failed 19:00 schedule;
+- subscribers and long-form watch minutes up three weeks in a row;
+- the production runs finish without manual fixes (images, render, upload).
+
+When that is true, research a niche for channel 3 and put a recommendation in the report:
+3 candidate niches, each with evidence: outlier videos and competitor channels (`/yt-viral`,
+`swipe.py`), audience size and growth, likely ad value (RPM: history/education is mid to high),
+free archive imagery available for it (Library of Congress, Wellcome, Commons, national
+archives), whether our tools and rules fit (faceless, closed or historical subjects, no AI images
+of real people, advertiser-safe), competition, and risk under YouTube's inauthentic-content
+policy. Name your pick and why, plus a channel name, positioning line and the first 10 video
+ideas. The owner decides and creates the YouTube channel; after that Claude sets it up like
+`defector-files/` (README, voice, runbook, competitors, pipeline) and proposes the daily task.
+Until then, keep a short list of niche candidates in `channel/next-channel.md` and update it
+when the weekly research turns up evidence.
+
 ## 4. Report → `reports/weekly/<YYYY-MM-DD>.md` (Dutch)
 Structure:
 1. **Samenvatting** (5 regels): hoe ging de week, belangrijkste inzicht, belangrijkste actie.
@@ -176,7 +205,8 @@ Structure:
 5. **Wat ik zelf heb aangepast** — elke wijziging aan draaiboeken (bestand, waarom, commit) én
    elke aangepaste video: oude → nieuwe titel/beschrijving/tags/thumbnail, met reden; plus het
    oordeel over de aanpassingen van vorige week (beter/slechter/teruggedraaid).
-6. **Experimenten volgende week.**
+6. **Experimenten volgende week**, inclusief het grote idee van de week (3d).
+6b. **Groei:** staat een kanaal klaar voor een nieuw zusterkanaal (3e)? Zo ja: nicheadvies.
 7. **Voorstellen die jouw akkoord nodig hebben** (bijv. aanpassingen aan bestaande live-video's,
    andere uploadtijd, uitgaven, wijzigingen aan vaste besluiten) — als duidelijke vragen.
 8. Kosten van deze review (vidIQ-credits gebruikt, saldo).
