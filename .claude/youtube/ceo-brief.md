@@ -43,8 +43,8 @@ Normal reversible preparation does not need approval.
 ## Resolutions with earlier decisions
 - **Upload:** on 2026-11-27 the owner chose: Claude uploads as private via vidIQ, the owner makes
   it public.
-- **Niche:** the brief covers true crime broadly and worldwide. The channel identity stays
-  *closed historical cases that marked a forensic or policing first*, now open to any country, as
-  long as the owner does not widen it. Recent or unsolved cases only when the sourcing is strong
-  and nobody unconvicted is accused.
+- **Niche and selection:** on 2026-11-27 the owner chose: every day, the case with the highest
+  viral potential, decided on data (see `channel/daily-run.md` step 1). Historical cases from any
+  country; channel fit is a scoring criterion, not a limit. The hard limits stay: closed case,
+  strong sources, nobody unconvicted accused, advertiser-safe.
 - **Format:** one case, one ~20-minute video, Daniel voice, as in CLAUDE.md.
