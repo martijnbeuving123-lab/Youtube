@@ -151,9 +151,7 @@ Structure:
    andere uploadtijd, uitgaven, wijzigingen aan vaste besluiten) — als duidelijke vragen.
 8. Kosten van deze review (vidIQ-credits gebruikt, saldo).
 
-Commit and push the report. The owner gets the session's final message by email, so end with a
-final message in Dutch that holds the advice in full: points 1, 3-7 of the report (not only a
-summary), plus the report's path. Send the report file with `SendUserFile` (status proactive).
-If Hermoso has a connected mailbox (`list_email_mailboxes`), also send the same text with
-`send_email` to the owner (address in the scheduled task's prompt), subject
-"Weekrapport YouTube <date>", and to no one else.
+Commit and push the report. The owner reads the result in the Claude app (push notification),
+so end with a final message in Dutch that holds the advice in full: points 1, 3-7 of the report
+(not only a summary), plus the report's path. Send the report file with `SendUserFile` (status
+proactive). No email.
