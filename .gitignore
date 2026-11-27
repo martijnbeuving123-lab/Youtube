@@ -8,4 +8,8 @@ videos/*/assets/
 client_secret*.json
 token*.json
 *.pickle
+<<<<<<< HEAD
 __pycache__/
+=======
+defector-files/videos/*/assets/audio/
+>>>>>>> 0c6fe46790f5c55e650c163f00177e2422418096

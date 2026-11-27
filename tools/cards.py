@@ -2,7 +2,7 @@
 """Generate 1920x1080 text cards for Precinct Archive videos.
 
     python3 tools/cards.py title  out.png "PRECINCT ARCHIVE" "Case file: Crippen, 1910"
-    python3 tools/cards.py telegram out.png "message text" ["header line"]
+    python3 tools/cards.py telegram out.png "message text" ["header line"] ["sub line, e.g. S.S. MONTROSE  ·  JULY 1910"]
     python3 tools/cards.py quote  out.png "quoted words" "attribution"
     python3 tools/cards.py text   out.png "big line" ["small line"]
 """
@@ -84,7 +84,7 @@ def quote(out, words, who=""):
     vignette(grain(img)).save(out)
 
 
-def telegram(out, msg, header="WIRELESS MESSAGE", sub="S.S. MONTROSE  \u00b7  JULY 1910", foot="Text as recorded  \u00b7  reconstruction"):
+def telegram(out, msg, header="WIRELESS MESSAGE", sub="", foot="Text as recorded  \u00b7  reconstruction"):
     img = Image.new("RGB", (W, H), BG)
     paper = Image.new("RGB", (1500, 720), (226, 214, 184))
     pd = ImageDraw.Draw(paper)
@@ -93,7 +93,8 @@ def telegram(out, msg, header="WIRELESS MESSAGE", sub="S.S. MONTROSE  \u00b7  JU
         pd.line((0, i, 1500, i), fill=(c, c - 12, c - 40))
     pd.rectangle((30, 30, 1470, 690), outline=(120, 90, 60), width=3)
     pd.text((70, 60), header, font=font(SERIF_B, 40), fill=(90, 50, 35))
-    pd.text((70, 115), sub, font=font(SERIF, 30), fill=(110, 80, 55))
+    if sub:
+        pd.text((70, 115), sub, font=font(SERIF, 30), fill=(110, 80, 55))
     pd.line((70, 170, 1430, 170), fill=(120, 90, 60), width=2)
     y = 220
     for ln in textwrap.wrap(msg.upper(), 46):

@@ -1,0 +1,9 @@
+# Competitor / adjacent channels for yt-viral (tools/collect_channels.py).
+# YouTube search is blocked from the cloud; check new handles with collect_channels.py first.
+@DarkDocs               # "The man so dangerous..." history docs, large
+@MarkFeltonProductions  # WWII/Cold War history, archive-led
+@ColdWarConversations   # Cold War espionage interviews
+@Lemmino                # mystery/codes deep dives
+@HistoryScope           # history explainers
+@SimpleHistory          # war history, animated
+@TheOperationsRoom      # military operations
