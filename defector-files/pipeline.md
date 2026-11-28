@@ -5,8 +5,8 @@ Updated 2026-11-28.
 | Stage | Case | Folder | Status | Waiting on |
 |---|---|---|---|---|
 | Pilot (test) | Rosenbergs, 2.4-min pilot | `defector-files/videos/rosenberg-pilot/` | Test render sent to owner; not for upload | — |
-| Produced 28 Nov | The Duquesne Spy Ring (1941) | `defector-files/videos/duquesne-ring/` | UPLOAD_STATUS | daily check (19:00) |
-| Short (private, for tomorrow 12:00) | Duquesne Spy Ring, Short 1 | `defector-files/videos/duquesne-ring/shorts/` | SHORT_STATUS | daily check (29 Nov 12:00) |
+| Produced 28 Nov | The Duquesne Spy Ring (1941) | `defector-files/videos/duquesne-ring/` | Uploaded PRIVATE via Hermoso 28 Nov: https://youtube.com/watch?v=fVR22wZ2I4s (captions on, thumbnail set) | daily check (19:00) |
+| Short (private, for tomorrow 12:00) | Duquesne Spy Ring, Short 1 | `defector-files/videos/duquesne-ring/shorts/` | Short (private, for tomorrow 12:00): https://youtube.com/watch?v=2uL5uAAYJ5M | daily check (29 Nov 12:00) |
 | Next up | Rudolf Abel and the hollow nickel (1953–1962) — check LoC/FBI images first | | | — |
 
 ## Case log (everything looked at, so nothing is repeated)
@@ -32,7 +32,7 @@ Image sources: LoC = Library of Congress has full-size public-domain photos (che
 | Francis Gary Powers / U-2 | 1960 | US/USSR | Shot down over the USSR; the swap on Glienicke Bridge | LoC likely | Candidate |
 | Alger Hiss and the pumpkin papers | 1948–1950 | US | Microfilm hidden in a pumpkin | LoC likely | Candidate |
 | Velvalee Dickinson, the "Doll Woman" | 1942–1944 | US | Coded letters about dolls carried naval secrets | ? | Candidate |
-| Operation Pastorius | 1942 | US | Nazi saboteurs landed by U-boat on Long Island | LoC likely | Produced 27 Nov (video sent to owner as pastorius.bundle; not on GitHub, not uploaded); do not redo |
+| Operation Pastorius | 1942 | US | Nazi saboteurs landed by U-boat on Long Island | LoC likely | Produced 27 Nov; on the channel as public video yXKav7hNTro (seen 28 Nov); do not redo |
 | Ana Montes | 1985–2001 | US | Pentagon's top Cuba analyst spied for Havana | ? | Candidate |
 
 ### Recent cases (2015 onwards; check that the case is closed before choosing, mark facts ⚠ until verified)
@@ -47,3 +47,5 @@ Image sources: LoC = Library of Congress has full-size public-domain photos (che
 | Sergey Cherkasov ("Victor Muller Ferreira") | 2022 | Netherlands/Brazil | Russian illegal stopped at Schiphol on his way to an internship at the ICC | official releases, maps | Candidate |
 | Bulgarian spy ring for Russia (Orlin Roussev) | 2020–2025 | UK | Six Bulgarians in Britain spying for Moscow | court documents, maps | Candidate (check sentencing is final) |
 | Artem and Anna Dultsev | 2022–2024 | Slovenia | Russian illegals posing as Argentines; children did not know; freed in the 2024 swap | official releases, maps | Candidate |
+
+Hermoso posts: 8 of 10 left after 28 Nov (Free plan; the counter does not reset monthly).

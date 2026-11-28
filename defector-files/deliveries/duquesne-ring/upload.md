@@ -15,10 +15,10 @@ Manual fallback (Studio): 1. upload the MP4 → 2. title/description/tags → 3.
 # Short (for 2026-11-29 12:00)
 - File: `defector-files/videos/duquesne-ring/out/short1.mp4` (47 s, 1080x1920)
 - Title: Nazi spies came to this office for 16 months. It was the FBI's. #Shorts
-- Description: In 1940-41 the FBI ran a fake office near Times Square where German agents met a double agent. Watch the full case: <long video link>
+- Description: In 1940-41 the FBI ran a fake office near Times Square where German agents met a double agent. Watch the full case: https://youtube.com/watch?v=fVR22wZ2I4s
   Images: Library of Congress (FBI prints, public domain). Narration is AI-generated.
 - Category Education · made for kids No · AI disclosure Yes · Private, no schedule.
 
 ## YouTube links
-- Long video: LONG_LINK
-- Short: SHORT_LINK
+- Long video: https://youtube.com/watch?v=fVR22wZ2I4s (private, uploaded via Hermoso; captions serving; thumbnail set)
+- Short: https://youtube.com/watch?v=2uL5uAAYJ5M (private)

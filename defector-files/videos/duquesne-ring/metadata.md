@@ -50,22 +50,21 @@ SOURCES
 - Art Ronnie, Counterfeit Hero: Fritz Duquesne, Adventurer and Spy (1995)
 - Wikipedia overviews (as a map to the sources): https://en.wikipedia.org/wiki/Duquesne_Spy_Ring
 
-IMAGES (public domain / no known restrictions; crops and annotations are ours)
-- A company of Boer soldiers - prisoners of war in Simons Town, South Africa (1901) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/95515281/
-- Three-quarter view looking aft - main salon with passengers.  Pan American Martin Clipper / Photo by Clyde H. Sunderland, Oakland, Calif. (1936-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/93512485/
-- Capt. Fritz Duquesne (1916-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2014702778/
-- Harbor at Hamburg, Germany (1908-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2016821565/
-- Bird's-eye view of the harbor, Hamburg, Germany (1890-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2020680001/
-- J. Edgar Hoover, Dir. of F.B.I., in his office, April 1940 (1940-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2016877385/
-- Informal photo of J. Edgar Hoover, Director of FBI, Dept. of Justice, April 5, 1940 (1940-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2016877384/
-- Lord Kitchener (1915-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2014702041/
-- The 33 convicted members of the Duquesne spy ring (1941-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2001698243/
-- [Theodore Roosevelt with members of his party on safari in Africa] (1919-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2013649468/
-- Frederick Duquesne in office of Harry Sawyer, June 25, 1941 / FBI print. (1941-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2001698244/
-- Times Square with Father Duffy's statue still wrapped up (1937-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2013645899/
-- Times Square north at night, New York City (1934) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2006677804/
-- Transmitter, radio station, Toronto Star Newspaper, Ont., Canada (1923-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2019632980/
-- FIRST LADY CHRISTENS YANKEE CLIPPER. WASHINGTON, D.C. MARCH 3. MRS. ROOSEVELT TODAY SMASHED A BOTTLE OF WATER FROM THE SEVEN SEAS ON THE BOW OF THE YANKEE CLIPPER, CHRISTENING THE 40-TON, 74 PASSENGER FLYING BOAT WHICH WILL INAUGURATE TRANSATLANTIC AIR PASSENGER SERVICE. THE CEREMONY TOOK PLACE AT THE U.S. NAVAL AIR STATION HERE (1939-01-01) — Library of Congress, Prints & Photographs Division: https://www.loc.gov/item/2016883871/
+IMAGES (Library of Congress = LoC; public domain / no known restrictions; crops and annotations are ours)
+- A company of Boer soldiers - prisoners of war in Simons Town, South Africa (1901) — LoC: https://www.loc.gov/item/95515281/
+- Capt. Fritz Duquesne (1916) — LoC: https://www.loc.gov/item/2014702778/
+- Harbor at Hamburg, Germany (1908) — LoC: https://www.loc.gov/item/2016821565/
+- Bird's-eye view of the harbor, Hamburg, Germany (1890) — LoC: https://www.loc.gov/item/2020680001/
+- J. Edgar Hoover, Dir. of F.B.I., in his office, April 1940 (1940) — LoC: https://www.loc.gov/item/2016877385/
+- Informal photo of J. Edgar Hoover, Director of FBI, Dept. of Justice, April 5, 1940 (1940) — LoC: https://www.loc.gov/item/2016877384/
+- Lord Kitchener (1915) — LoC: https://www.loc.gov/item/2014702041/
+- The 33 convicted members of the Duquesne spy ring (1941) — LoC: https://www.loc.gov/item/2001698243/
+- [Theodore Roosevelt with members of his party on safari in Africa] (1919) — LoC: https://www.loc.gov/item/2013649468/
+- Frederick Duquesne in office of Harry Sawyer, June 25, 1941 / FBI print. (1941) — LoC: https://www.loc.gov/item/2001698244/
+- Times Square with Father Duffy's statue still wrapped up (1937) — LoC: https://www.loc.gov/item/2013645899/
+- Times Square north at night, New York City (1934) — LoC: https://www.loc.gov/item/2006677804/
+- Transmitter, radio station, Toronto Star Newspaper, Ont., Canada (1923) — LoC: https://www.loc.gov/item/2019632980/
+- Mrs. Roosevelt christens the Yankee Clipper, Washington, D.C., March 3 (1939) — LoC: https://www.loc.gov/item/2016883871/
 Maps and text cards: made for this video.
 
 Music: original instrumental score. Narration is AI-generated.
