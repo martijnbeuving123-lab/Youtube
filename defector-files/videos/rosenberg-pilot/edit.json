@@ -1,0 +1,50 @@
+{
+ "music_db": -23,
+ "beats": [
+  {
+   "id": "01",
+   "visual": "assets/img/singsing.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "02",
+   "visual": "assets/cards/title.png",
+   "motion": "in"
+  },
+  {
+   "id": "03",
+   "visual": "assets/img/hoover.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "04",
+   "visual": "assets/cards/gold.png",
+   "motion": "still"
+  },
+  {
+   "id": "05",
+   "visual": "assets/cards/arrest.png",
+   "motion": "still"
+  },
+  {
+   "id": "06",
+   "visual": "assets/img/wirescreen.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "07",
+   "visual": "assets/cards/quote.png",
+   "motion": "still"
+  },
+  {
+   "id": "08",
+   "visual": "assets/cards/2001.png",
+   "motion": "in"
+  },
+  {
+   "id": "09",
+   "visual": "assets/cards/end.png",
+   "motion": "out"
+  }
+ ]
+}

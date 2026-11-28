@@ -1,0 +1,544 @@
+{
+ "music_db": -23,
+ "beats": [
+  {
+   "id": "01",
+   "visual": "assets/img/office1.jpg",
+   "motion": "in",
+   "caption": "FBI surveillance print, New York, 1941"
+  },
+  {
+   "id": "02",
+   "visual": "assets/img/office3.jpg",
+   "motion": "left"
+  },
+  {
+   "id": "03",
+   "visual": "assets/img/office5.jpg",
+   "motion": "in",
+   "caption": "Frederick Duquesne (right), filmed by the FBI"
+  },
+  {
+   "id": "04",
+   "visual": "assets/img/duquesne_mug.jpg",
+   "motion": "in",
+   "caption": "Fritz Duquesne, FBI photograph"
+  },
+  {
+   "id": "05",
+   "visual": "assets/img/ring33.jpg",
+   "motion": "out",
+   "caption": "The 33 convicted members (FBI print)"
+  },
+  {
+   "id": "06",
+   "visual": "assets/cards/umbrella.png",
+   "motion": "still"
+  },
+  {
+   "id": "07",
+   "visual": "assets/cards/question.png",
+   "motion": "still"
+  },
+  {
+   "id": "08",
+   "visual": "assets/img/office_calendar.jpg",
+   "motion": "in",
+   "caption": "The calendar on the wall: June 25"
+  },
+  {
+   "id": "09",
+   "visual": "assets/cards/title.png",
+   "motion": "still"
+  },
+  {
+   "id": "10",
+   "visual": "assets/cards/map_sebold.png",
+   "motion": "in",
+   "caption": "I  ·  The man from Mülheim",
+   "pause_before": 1.2
+  },
+  {
+   "id": "11",
+   "visual": "assets/img/timessq1937.jpg",
+   "motion": "left",
+   "caption": "New York, 1937"
+  },
+  {
+   "id": "12",
+   "visual": "assets/cards/map_sebold.png",
+   "motion": "right"
+  },
+  {
+   "id": "13",
+   "visual": "assets/img/hamburg_birdseye.jpg",
+   "motion": "in",
+   "caption": "Hamburg harbor (early 1900s view)"
+  },
+  {
+   "id": "14",
+   "visual": "assets/img/hamburg1908.jpg",
+   "motion": "left",
+   "caption": "Hamburg harbor, 1908"
+  },
+  {
+   "id": "15",
+   "visual": "assets/cards/map_sebold.png",
+   "motion": "out"
+  },
+  {
+   "id": "16",
+   "visual": "assets/cards/gassner.png",
+   "motion": "still"
+  },
+  {
+   "id": "17",
+   "visual": "assets/img/hamburg_birdseye.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "18",
+   "visual": "assets/cards/papers.png",
+   "motion": "in"
+  },
+  {
+   "id": "19",
+   "visual": "assets/img/hamburg1908.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "20",
+   "visual": "assets/cards/ritter.png",
+   "motion": "still"
+  },
+  {
+   "id": "21",
+   "visual": "assets/img/timessq1937.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "22",
+   "visual": "assets/img/transmitter.jpg",
+   "motion": "in",
+   "caption": "A radio transmitter of the period (illustrative)"
+  },
+  {
+   "id": "23",
+   "visual": "assets/cards/tramp.png",
+   "motion": "in"
+  },
+  {
+   "id": "24",
+   "visual": "assets/cards/consulate.png",
+   "motion": "still"
+  },
+  {
+   "id": "25",
+   "visual": "assets/cards/map_sebold.png",
+   "motion": "in"
+  },
+  {
+   "id": "26",
+   "visual": "assets/cards/why.png",
+   "motion": "still"
+  },
+  {
+   "id": "27",
+   "visual": "assets/img/office2.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "28",
+   "visual": "assets/cards/map_sebold.png",
+   "motion": "left",
+   "caption": "II  ·  The office near Times Square",
+   "pause_before": 1.2
+  },
+  {
+   "id": "29",
+   "visual": "assets/img/timessq1937.jpg",
+   "motion": "out",
+   "caption": "Times Square, 1937"
+  },
+  {
+   "id": "30",
+   "visual": "assets/cards/office_plan.png",
+   "motion": "still"
+  },
+  {
+   "id": "31",
+   "visual": "assets/img/hoover1940.jpg",
+   "motion": "in",
+   "caption": "J. Edgar Hoover, FBI Director, April 1940"
+  },
+  {
+   "id": "32",
+   "visual": "assets/img/office4.jpg",
+   "motion": "in",
+   "caption": "Sebold (back to camera) and Duquesne"
+  },
+  {
+   "id": "33",
+   "visual": "assets/img/transmitter.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "34",
+   "visual": "assets/cards/radio.png",
+   "motion": "still"
+  },
+  {
+   "id": "35",
+   "visual": "assets/img/timessq_night.jpg",
+   "motion": "in",
+   "caption": "New York at night, 1934"
+  },
+  {
+   "id": "36",
+   "visual": "assets/cards/messages.png",
+   "motion": "still"
+  },
+  {
+   "id": "37",
+   "visual": "assets/cards/channel.png",
+   "motion": "still"
+  },
+  {
+   "id": "38",
+   "visual": "assets/img/office1.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "39",
+   "visual": "assets/img/duquesne1916.jpg",
+   "motion": "in",
+   "caption": "III  ·  DUNN",
+   "pause_before": 1.2
+  },
+  {
+   "id": "40",
+   "visual": "assets/img/boer_pows.jpg",
+   "motion": "left",
+   "caption": "Boer prisoners of war, Simon's Town, c. 1901"
+  },
+  {
+   "id": "41",
+   "visual": "assets/img/duquesne1916.jpg",
+   "motion": "out",
+   "caption": "Fritz Duquesne, c. 1916"
+  },
+  {
+   "id": "42",
+   "visual": "assets/img/roosevelt_safari.jpg",
+   "motion": "in",
+   "caption": "Theodore Roosevelt's African safari, 1909"
+  },
+  {
+   "id": "43",
+   "visual": "assets/cards/hippo.png",
+   "motion": "still"
+  },
+  {
+   "id": "44",
+   "visual": "assets/img/kitchener.jpg",
+   "motion": "in",
+   "caption": "Lord Kitchener, 1915"
+  },
+  {
+   "id": "45",
+   "visual": "assets/cards/hampshire.png",
+   "motion": "still"
+  },
+  {
+   "id": "46",
+   "visual": "assets/cards/legend.png",
+   "motion": "still"
+  },
+  {
+   "id": "47",
+   "visual": "assets/img/duquesne1916.jpg",
+   "motion": "left"
+  },
+  {
+   "id": "48",
+   "visual": "assets/img/office2.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "49",
+   "visual": "assets/img/duquesne_mug.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "50",
+   "visual": "assets/cards/newkirk.png",
+   "motion": "in"
+  },
+  {
+   "id": "51",
+   "visual": "assets/img/office3.jpg",
+   "motion": "in",
+   "caption": "FBI surveillance print"
+  },
+  {
+   "id": "52",
+   "visual": "assets/img/office5.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "53",
+   "visual": "assets/img/sawyeroffice.jpg",
+   "motion": "in",
+   "caption": "FBI surveillance prints, June 25, 1941"
+  },
+  {
+   "id": "54",
+   "visual": "assets/cards/letter.png",
+   "motion": "in"
+  },
+  {
+   "id": "55",
+   "visual": "assets/img/ring_top.jpg",
+   "motion": "in",
+   "caption": "IV  ·  The network",
+   "pause_before": 1.2
+  },
+  {
+   "id": "56",
+   "visual": "assets/img/ring33.jpg",
+   "motion": "left"
+  },
+  {
+   "id": "57",
+   "visual": "assets/img/yankee_clipper.jpg",
+   "motion": "in",
+   "caption": "Pan Am's Yankee Clipper, 1939"
+  },
+  {
+   "id": "58",
+   "visual": "assets/img/mezenen_mug.jpg",
+   "motion": "in",
+   "caption": "Rene Mezenen"
+  },
+  {
+   "id": "59",
+   "visual": "assets/img/roeder_mug.jpg",
+   "motion": "in",
+   "caption": "Everett Roeder"
+  },
+  {
+   "id": "60",
+   "visual": "assets/img/ring_top.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "61",
+   "visual": "assets/img/stein_mug.jpg",
+   "motion": "in",
+   "caption": "Lilly Stein"
+  },
+  {
+   "id": "62",
+   "visual": "assets/img/waalen_mug.jpg",
+   "motion": "in",
+   "caption": "Leo Waalen"
+  },
+  {
+   "id": "63",
+   "visual": "assets/cards/map_atlantic.png",
+   "motion": "in"
+  },
+  {
+   "id": "64",
+   "visual": "assets/img/strunk_mug.jpg",
+   "motion": "in",
+   "caption": "Erich Strunck"
+  },
+  {
+   "id": "65",
+   "visual": "assets/img/bante_mug.jpg",
+   "motion": "in",
+   "caption": "Paul Bante"
+  },
+  {
+   "id": "66",
+   "visual": "assets/img/lang_mug.jpg",
+   "motion": "in",
+   "caption": "V  ·  The umbrella",
+   "pause_before": 1.2
+  },
+  {
+   "id": "67",
+   "visual": "assets/cards/kitchen.png",
+   "motion": "in"
+  },
+  {
+   "id": "68",
+   "visual": "assets/cards/umbrella.png",
+   "motion": "still"
+  },
+  {
+   "id": "69",
+   "visual": "assets/cards/achieved.png",
+   "motion": "still"
+  },
+  {
+   "id": "70",
+   "visual": "assets/img/lang_mug.jpg",
+   "motion": "left",
+   "caption": "Hermann Lang"
+  },
+  {
+   "id": "71",
+   "visual": "assets/cards/timeline.png",
+   "motion": "still"
+  },
+  {
+   "id": "72",
+   "visual": "assets/img/lang_mug.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "73",
+   "visual": "assets/img/ring33.jpg",
+   "motion": "in"
+  },
+  {
+   "id": "74",
+   "visual": "assets/img/office4.jpg",
+   "motion": "in",
+   "caption": "VI  ·  The roundup",
+   "pause_before": 1.2
+  },
+  {
+   "id": "75",
+   "visual": "assets/img/office_calendar.jpg",
+   "motion": "out",
+   "caption": "June 25, 1941"
+  },
+  {
+   "id": "76",
+   "visual": "assets/cards/arrests.png",
+   "motion": "still"
+  },
+  {
+   "id": "77",
+   "visual": "assets/cards/trial.png",
+   "motion": "still"
+  },
+  {
+   "id": "78",
+   "visual": "assets/cards/verdict.png",
+   "motion": "still"
+  },
+  {
+   "id": "79",
+   "visual": "assets/cards/sentences.png",
+   "motion": "in"
+  },
+  {
+   "id": "80",
+   "visual": "assets/img/ring33.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "81",
+   "visual": "assets/img/hoover_informal.jpg",
+   "motion": "in",
+   "caption": "J. Edgar Hoover, April 5, 1940"
+  },
+  {
+   "id": "82",
+   "visual": "assets/cards/house92.png",
+   "motion": "still"
+  },
+  {
+   "id": "83",
+   "visual": "assets/img/hamburg1908.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "84",
+   "visual": "assets/cards/pastorius.png",
+   "motion": "still"
+  },
+  {
+   "id": "85",
+   "visual": "assets/img/duquesne_mug.jpg",
+   "motion": "in",
+   "caption": "VII  ·  After",
+   "pause_before": 1.2
+  },
+  {
+   "id": "86",
+   "visual": "assets/cards/welfare.png",
+   "motion": "still"
+  },
+  {
+   "id": "87",
+   "visual": "assets/cards/california.png",
+   "motion": "still"
+  },
+  {
+   "id": "88",
+   "visual": "assets/img/office4.jpg",
+   "motion": "out",
+   "caption": "Sebold (back to camera), 1941"
+  },
+  {
+   "id": "89",
+   "visual": "assets/cards/napa.png",
+   "motion": "still"
+  },
+  {
+   "id": "90",
+   "visual": "assets/cards/duffy.png",
+   "motion": "still"
+  },
+  {
+   "id": "91",
+   "visual": "assets/cards/credit.png",
+   "motion": "still"
+  },
+  {
+   "id": "92",
+   "visual": "assets/cards/consulate.png",
+   "motion": "still"
+  },
+  {
+   "id": "93",
+   "visual": "assets/cards/method.png",
+   "motion": "still"
+  },
+  {
+   "id": "94",
+   "visual": "assets/cards/snow.png",
+   "motion": "still"
+  },
+  {
+   "id": "95",
+   "visual": "assets/cards/ritter.png",
+   "motion": "still"
+  },
+  {
+   "id": "96",
+   "visual": "assets/img/ring33.jpg",
+   "motion": "out"
+  },
+  {
+   "id": "97",
+   "visual": "assets/cards/signoff.png",
+   "motion": "still"
+  }
+ ],
+ "chapters": {
+  "01": "Behind the mirror",
+  "10": "The man from Mülheim",
+  "28": "The office near Times Square",
+  "39": "DUNN",
+  "55": "The network",
+  "66": "The umbrella",
+  "74": "The roundup",
+  "85": "After"
+ }
+}

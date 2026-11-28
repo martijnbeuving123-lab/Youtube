@@ -8,6 +8,9 @@ Saves <video_dir>/assets/img/<name>.jpg (max 1280px wide) and rewrites
 """
 import json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import credits as cr
+
 UA = "PrecinctArchiveBot/0.2 (https://www.youtube.com/@precinctarchive) python-urllib"
 
 
@@ -35,8 +38,7 @@ def strip(html):
 def main():
     vdir, pairs = sys.argv[1], sys.argv[2:]
     os.makedirs(f"{vdir}/assets/img", exist_ok=True)
-    cpath = f"{vdir}/credits.json"
-    credits = json.load(open(cpath)) if os.path.exists(cpath) else {}
+    credits = cr.load(vdir)
     for pair in pairs:
         name, title = pair.split("=", 1)
         if os.path.exists(f"{vdir}/assets/img/{name}.jpg") and name in credits:
@@ -45,9 +47,9 @@ def main():
             fetch(vdir, name, title, credits)
         except Exception as e:
             print(f"{name}: FAILED {e}", flush=True)
-        json.dump(credits, open(cpath, "w"), indent=1)
+        cr.save(vdir, credits)
         time.sleep(60)
-    write_md(vdir, credits)
+    cr.save(vdir, credits)
 
 
 def fetch(vdir, name, title, credits):
@@ -69,13 +71,6 @@ def fetch(vdir, name, title, credits):
                          "credit": strip(m.get("Credit", {}).get("value", ""))[:200]}
         print(f"{name}: {len(data)//1024} KB  {credits[name]['license']}", flush=True)
 
-
-def write_md(vdir, credits):
-    with open(f"{vdir}/credits.md", "w") as f:
-        f.write("# Image credits\n\nAll images via Wikimedia Commons.\n\n")
-        for k, c in sorted(credits.items()):
-            who = f" — {c['artist']}" if c["artist"] else ""
-            f.write(f"- **{k}**: {c['title'][5:]}{who}. {c['license']}. {c['page']}\n")
 
 
 if __name__ == "__main__":

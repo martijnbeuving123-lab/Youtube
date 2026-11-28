@@ -1,0 +1,915 @@
+1
+00:00:01,000 --> 00:00:03,603
+Monday, the 27th of March, 1905.
+
+2
+00:00:03,603 --> 00:00:09,624
+Half past eight in the morning, Detford High Street, in south-east London.
+
+3
+00:00:09,624 --> 00:00:18,330
+A young shop assistant named William Jones arrives for work at Chapman's Oil and Colour Shop, at number 34.
+
+4
+00:00:18,780 --> 00:00:20,923
+The shop should already be open.
+
+5
+00:00:20,923 --> 00:00:24,806
+Instead, the shutters are still up and the door is locked.
+
+6
+00:00:24,806 --> 00:00:25,677
+Jones knocks.
+
+7
+00:00:25,677 --> 00:00:26,681
+Nobody answers.
+
+8
+00:00:26,681 --> 00:00:30,096
+Through the window, he can see chairs knocked over.
+
+9
+00:00:30,547 --> 00:00:39,902
+Within days, Scotland Yard will have a single clue: a greasy smudge, about the size of a thumb, on the inside tray of a metal cash box.
+
+10
+00:00:39,902 --> 00:00:44,059
+By the end of May, two young men will be dead because of it.
+
+11
+00:00:44,509 --> 00:00:50,297
+No British jury had ever convicted anyone of murder on the strength of a fingerprint.
+
+12
+00:00:50,297 --> 00:00:53,498
+The method was four years old at Scotland Yard.
+
+13
+00:00:53,498 --> 00:01:01,670
+Its own champions knew that if it failed in a murder trial, in front of the newspapers, it might never be trusted again.
+
+14
+00:01:02,119 --> 00:01:03,891
+This is Precinct Archive.
+
+15
+00:01:03,891 --> 00:01:13,456
+This is the case of the Detford murders, and how one thumbprint on a cash box became a turning point in the history of British justice.
+
+16
+00:01:15,307 --> 00:01:24,210
+Detford in 1905 was a working district on the south bank of the Thames, a few miles downriver from the City of London.
+
+17
+00:01:24,210 --> 00:01:27,831
+Dockyards, cattle markets, pubs and small shops.
+
+18
+00:01:27,831 --> 00:01:34,621
+Detford High Street was its spine: a long, busy road of butchers, drapers and ironmongers.
+
+19
+00:01:35,072 --> 00:01:40,577
+Chapman's Oil and Colour Shop sold paint, oils, brushes and household goods.
+
+20
+00:01:40,577 --> 00:01:45,213
+It was owned by a man named George Chapman, who had other shops.
+
+21
+00:01:45,213 --> 00:01:47,966
+Day to day, it was run by its manager.
+
+22
+00:01:48,415 --> 00:01:50,370
+His name was Thomas Farrow.
+
+23
+00:01:50,370 --> 00:01:57,028
+He was 71 years old, and he lived in the flat above the shop with his wife, Ann, who was 65.
+
+24
+00:01:57,028 --> 00:02:00,285
+They had looked after the business for years.
+
+25
+00:02:00,736 --> 00:02:05,170
+There was one more habit in that shop that matters to this story.
+
+26
+00:02:05,170 --> 00:02:10,901
+Every Monday morning, George Chapman came by to collect the previous week's takings.
+
+27
+00:02:10,901 --> 00:02:14,653
+Until then, the money was kept upstairs, in a cash box.
+
+28
+00:02:15,104 --> 00:02:19,445
+So on that Monday morning, William Jones knew something was wrong.
+
+29
+00:02:19,445 --> 00:02:24,774
+He ran for help, and found a man named Louis Kidman, who worked in a shop nearby.
+
+30
+00:02:24,774 --> 00:02:27,998
+Together they forced their way into the building.
+
+31
+00:02:28,448 --> 00:02:33,153
+In the parlour behind the shop, they found Thomas Farrow on the floor.
+
+32
+00:02:33,153 --> 00:02:33,959
+He was dead.
+
+33
+00:02:33,959 --> 00:02:36,245
+He had been beaten about the head.
+
+34
+00:02:36,245 --> 00:02:39,875
+Upstairs, in the bedroom, Ann Farrow was lying in bed.
+
+35
+00:02:39,875 --> 00:02:43,774
+She was unconscious, also badly beaten, but she was alive.
+
+36
+00:02:44,223 --> 00:02:46,762
+A doctor and the police were sent for.
+
+37
+00:02:46,762 --> 00:02:48,966
+Ann Farrow was taken to hospital.
+
+38
+00:02:48,966 --> 00:02:54,110
+If she woke up, she could tell the police exactly who had come into her home.
+
+39
+00:02:54,560 --> 00:02:57,907
+The police began to piece together what had happened.
+
+40
+00:02:57,907 --> 00:03:00,182
+There was no sign of a forced entry.
+
+41
+00:03:00,182 --> 00:03:03,214
+Both of the Farrows were in their night clothes.
+
+42
+00:03:03,214 --> 00:03:11,741
+The likeliest explanation was that someone had knocked early, and that Mr Farrow, still half asleep, had come down and opened the door.
+
+43
+00:03:12,192 --> 00:03:13,986
+He was struck almost at once.
+
+44
+00:03:13,986 --> 00:03:22,588
+From the blood in different parts of the house, the police concluded that he had got up and tried to fight back, and had been struck again.
+
+45
+00:03:22,588 --> 00:03:27,168
+The attackers had gone upstairs, found Mrs Farrow, and found the cash box.
+
+46
+00:03:27,168 --> 00:03:30,695
+That is the police reconstruction, not a witness account.
+
+47
+00:03:30,695 --> 00:03:34,409
+Nobody who was in that house that morning ever described it.
+
+48
+00:03:34,859 --> 00:03:37,208
+Then the police found something else.
+
+49
+00:03:37,208 --> 00:03:43,242
+On the floor lay two masks, made from the tops of black stockings, with holes cut for the eyes.
+
+50
+00:03:43,242 --> 00:03:44,766
+Two masks meant two men.
+
+51
+00:03:44,766 --> 00:03:48,831
+And a mask is worn by someone who thinks he might be recognised.
+
+52
+00:03:48,831 --> 00:03:53,911
+That is an inference, not a fact from the file, but it shaped the whole inquiry.
+
+53
+00:03:53,911 --> 00:03:55,817
+These were probably local men.
+
+54
+00:03:56,266 --> 00:04:00,688
+And on the bedroom floor lay the cash box itself, open and empty.
+
+55
+00:04:00,688 --> 00:04:04,634
+Accounts put the missing takings at about thirteen pounds.
+
+56
+00:04:04,634 --> 00:04:09,736
+Two lives, for roughly what a working man might earn in a couple of months.
+
+57
+00:04:10,187 --> 00:04:18,566
+At some point that morning, a police sergeant named Albert Atkinson saw the cash box lying where the doctor would have to step.
+
+58
+00:04:18,566 --> 00:04:21,800
+He pushed it out of the way, with his bare hands.
+
+59
+00:04:21,800 --> 00:04:25,099
+In 1905, nobody would have thought twice about it.
+
+60
+00:04:25,099 --> 00:04:29,652
+Hold on to that, because in a few weeks it would matter a great deal.
+
+61
+00:04:31,500 --> 00:04:33,798
+The case went straight to the top.
+
+62
+00:04:33,798 --> 00:04:47,445
+Chief Inspector Frederick Fox was put in charge, and he was soon joined by Melville Mack-nawten, the Assistant Commissioner for crime, the head of the Criminal Investigation Department at Scotland Yard.
+
+63
+00:04:47,896 --> 00:04:49,990
+Mack-nawten was not a scientist.
+
+64
+00:04:49,990 --> 00:04:59,610
+But five years earlier he had sat on a Home Office committee, the Belper Committee, which had been asked how Britain should identify its criminals.
+
+65
+00:04:59,610 --> 00:05:02,883
+It had recommended a new method over an older one.
+
+66
+00:05:02,883 --> 00:05:03,734
+Fingerprints.
+
+67
+00:05:04,184 --> 00:05:14,934
+For years, police in Europe had relied on a system invented in Paris by Alphonse Bair-tee-yon: careful measurements of a prisoner's head, arms, fingers and feet, written on a card.
+
+68
+00:05:14,934 --> 00:05:19,473
+It worked, but it was slow, and it depended on the clerk with the callipers.
+
+69
+00:05:19,473 --> 00:05:21,026
+Fingerprints were simpler.
+
+70
+00:05:21,026 --> 00:05:29,686
+The ridges on a fingertip are formed before birth, and the evidence of the time was that they did not change, and that no two people shared them.
+
+71
+00:05:30,136 --> 00:05:33,793
+The idea had several fathers, and they did not get on.
+
+72
+00:05:33,793 --> 00:05:46,051
+A Scottish doctor, Henry Faulds, working as a missionary in Tokyo, had written to the journal Nature in 1880, suggesting that prints left at a crime scene could identify a criminal.
+
+73
+00:05:46,051 --> 00:05:56,278
+A British official in India, William Herschel, replied that he had been using fingerprints for years to stop people cheating on contracts and pensions.
+
+74
+00:05:56,728 --> 00:06:02,775
+The man who made it workable was Edward Henry, a senior police officer in Bengal.
+
+75
+00:06:02,775 --> 00:06:18,454
+In the late 1890s, with two Indian sub-inspectors, Azizul Haque and Hemchandra Bose, he developed a way of sorting fingerprints into classes, so that one set could be found among thousands in minutes, not days.
+
+76
+00:06:18,903 --> 00:06:28,921
+In 1901, Henry was brought to London to run the CID, and on the 1st of July that year he opened a Fingerprint Bureau at Scotland Yard.
+
+77
+00:06:28,921 --> 00:06:33,482
+By 1905 he was Commissioner of the whole Metropolitan Police.
+
+78
+00:06:33,482 --> 00:06:43,425
+The bureau had already helped convict a burglar, Harry Jackson, in 1902, from a print left on fresh paint at a house in south London.
+
+79
+00:06:43,875 --> 00:06:45,783
+But a burglary was one thing.
+
+80
+00:06:45,783 --> 00:06:51,376
+No one had ever been convicted of murder in Britain on the strength of a fingerprint.
+
+81
+00:06:51,376 --> 00:06:54,600
+In a murder trial, a man's life would hang on it.
+
+82
+00:06:54,600 --> 00:07:00,588
+The defence would attack it with everything they had, and the newspapers would be watching.
+
+83
+00:07:01,036 --> 00:07:06,303
+When Mack-nawten heard about the empty cash box, he went to look at it himself.
+
+84
+00:07:06,303 --> 00:07:08,303
+He turned the inner tray over.
+
+85
+00:07:08,303 --> 00:07:12,703
+On its underside, on the smooth painted metal, there was a smudge.
+
+86
+00:07:12,703 --> 00:07:15,103
+It looked like the mark of a finger.
+
+87
+00:07:15,555 --> 00:07:23,725
+He picked up the box using his handkerchief, had it wrapped in paper, and sent it to the Fingerprint Bureau.
+
+88
+00:07:23,725 --> 00:07:27,508
+It was the kind of care that later became routine.
+
+89
+00:07:27,508 --> 00:07:29,323
+In 1905, it was unusual.
+
+90
+00:07:29,773 --> 00:07:38,598
+The bureau was run by Detective Inspector Charles Stockley Collins, who was regarded as the leading fingerprint expert in the country.
+
+91
+00:07:38,598 --> 00:07:40,837
+He studied the mark under a glass.
+
+92
+00:07:40,837 --> 00:07:44,328
+It had not been made in blood or paint, but in sweat.
+
+93
+00:07:44,328 --> 00:07:47,423
+It looked like a thumb, probably a right thumb.
+
+94
+00:07:47,875 --> 00:07:50,151
+Collins began by ruling people out.
+
+95
+00:07:50,151 --> 00:07:53,858
+He took the prints of the dead couple, and compared them.
+
+96
+00:07:53,858 --> 00:07:54,443
+No match.
+
+97
+00:07:54,443 --> 00:08:00,166
+Then he took the prints of Sergeant Atkinson, who had moved the box with his bare hands.
+
+98
+00:08:00,166 --> 00:08:02,377
+That was the right thing to check.
+
+99
+00:08:02,377 --> 00:08:04,524
+And the print was not his either.
+
+100
+00:08:04,973 --> 00:08:06,854
+So it belonged to someone else.
+
+101
+00:08:06,854 --> 00:08:15,411
+The bureau held somewhere between eighty and ninety thousand sets of prints, taken from people who had passed through the courts and prisons.
+
+102
+00:08:15,411 --> 00:08:17,050
+Collins searched the files.
+
+103
+00:08:17,050 --> 00:08:18,203
+There was no match.
+
+104
+00:08:18,203 --> 00:08:22,816
+Whoever had left that thumbprint had never been fingerprinted by the police.
+
+105
+00:08:23,266 --> 00:08:25,314
+The other hope was Ann Farrow.
+
+106
+00:08:25,314 --> 00:08:28,043
+If she woke, she could describe the men.
+
+107
+00:08:28,043 --> 00:08:28,998
+She never did.
+
+108
+00:08:28,998 --> 00:08:36,231
+On the 31st of March, four days after she was found, she died in hospital without regaining consciousness.
+
+109
+00:08:36,231 --> 00:08:42,304
+It was now a double murder, and the only person who had seen the killers' faces was gone.
+
+110
+00:08:42,754 --> 00:08:46,617
+Scotland Yard had a print, but no name to put next to it.
+
+111
+00:08:46,617 --> 00:08:50,885
+A fingerprint can tell a detective whether a suspect was there.
+
+112
+00:08:50,885 --> 00:08:54,002
+On its own, it cannot tell him who to suspect.
+
+113
+00:08:54,002 --> 00:08:59,084
+Could the old-fashioned business of knocking on doors find a name to match?
+
+114
+00:09:00,932 --> 00:09:01,524
+It could.
+
+115
+00:09:01,524 --> 00:09:07,241
+That Monday morning, Detford High Street had been waking up, and people had been about.
+
+116
+00:09:07,241 --> 00:09:15,127
+Several witnesses said that at around half past seven, they had seen two men come out of the shop and walk quickly away.
+
+117
+00:09:15,578 --> 00:09:18,344
+Their descriptions agreed on the clothes.
+
+118
+00:09:18,344 --> 00:09:21,110
+One man wore a dark brown suit and a cap.
+
+119
+00:09:21,110 --> 00:09:24,820
+The other wore a dark blue serge suit and a bowler hat.
+
+120
+00:09:24,820 --> 00:09:31,161
+A milkman, Henry Jennings, had seen two men near the shop, but he could not say who they were.
+
+121
+00:09:31,610 --> 00:09:34,210
+Two other witnesses were more certain.
+
+122
+00:09:34,210 --> 00:09:42,419
+A man named Henry Littlefield and a young local woman named Ellen Stanton both said they knew the man in the brown suit.
+
+123
+00:09:42,419 --> 00:09:43,992
+He was Alfred Stratton.
+
+124
+00:09:44,442 --> 00:09:48,610
+Alfred Stratton was in his early twenties, born in 1882.
+
+125
+00:09:48,610 --> 00:09:55,160
+He had no criminal record, but the local police knew him, and did not think well of him.
+
+126
+00:09:55,160 --> 00:09:57,690
+He did not hold down regular work.
+
+127
+00:09:57,690 --> 00:10:03,049
+His younger brother, Albert, born in 1884, was also known to the police.
+
+128
+00:10:03,049 --> 00:10:08,110
+The description of the second man, in the bowler hat, fitted Albert.
+
+129
+00:10:08,559 --> 00:10:12,687
+The detectives went to see Alfred's girlfriend, Annie Cromarty.
+
+130
+00:10:12,687 --> 00:10:20,222
+According to her statements, the day after the murders, Alfred had got rid of his brown coat and changed his shoes.
+
+131
+00:10:20,222 --> 00:10:24,546
+And not long before, he had asked her for a pair of old stockings.
+
+132
+00:10:24,996 --> 00:10:27,638
+Warrants were issued for both brothers.
+
+133
+00:10:27,638 --> 00:10:33,397
+On Sunday, the 2nd of April, Alfred was arrested in a pub called the King of Prussia.
+
+134
+00:10:33,397 --> 00:10:37,055
+The next day, Albert was picked up on the High Street.
+
+135
+00:10:37,055 --> 00:10:42,135
+Both were taken to Greenwich police station on Blackheath Road and charged.
+
+136
+00:10:42,586 --> 00:10:49,773
+And at the police station, both brothers had their fingerprints taken, in ink, on paper, the routine way.
+
+137
+00:10:49,773 --> 00:10:57,166
+Annie Cromarty also led police to about four pounds in coins, which had been buried near a local waterworks.
+
+138
+00:10:57,615 --> 00:11:00,831
+The inked cards went to Collins at Scotland Yard.
+
+139
+00:11:00,831 --> 00:11:05,424
+He laid the mark from the cash box beside each finger of each brother.
+
+140
+00:11:05,424 --> 00:11:06,999
+It did not match Albert.
+
+141
+00:11:06,999 --> 00:11:09,362
+It did not match Alfred's left hand.
+
+142
+00:11:09,362 --> 00:11:11,789
+Then he came to Alfred's right thumb.
+
+143
+00:11:12,240 --> 00:11:13,031
+It matched.
+
+144
+00:11:13,031 --> 00:11:17,999
+The same ridges, the same endings, the same forks in the same places.
+
+145
+00:11:17,999 --> 00:11:25,197
+The cash box and the thumbprint card are still kept today, in the Crime Museum at New Scotland Yard.
+
+146
+00:11:25,648 --> 00:11:29,847
+The brothers were charged with the murders of Thomas and Ann Farrow.
+
+147
+00:11:29,847 --> 00:11:32,997
+But Mack-nawten and Collins understood the problem.
+
+148
+00:11:32,997 --> 00:11:35,159
+The witnesses could be argued with.
+
+149
+00:11:35,159 --> 00:11:36,827
+Nobody had seen the attack.
+
+150
+00:11:36,827 --> 00:11:45,473
+The only piece of physical evidence that tied Alfred Stratton to the inside of that house was a mark of sweat, smaller than a postage stamp.
+
+151
+00:11:45,473 --> 00:11:47,635
+The case would stand or fall on it.
+
+152
+00:11:47,635 --> 00:11:52,515
+Would a jury in 1905 hang two men on a science most of them had never heard of?
+
+153
+00:11:54,365 --> 00:12:01,046
+The trial opened at the Old Bailey on the 5th of May, 1905, before Mr Justice Channell.
+
+154
+00:12:01,046 --> 00:12:07,574
+The case for the Crown was led by Richard Muir, the most feared prosecutor in London.
+
+155
+00:12:07,574 --> 00:12:11,568
+Five years later he would also prosecute Dr Crippen.
+
+156
+00:12:12,019 --> 00:12:14,411
+Muir was famous for his preparation.
+
+157
+00:12:14,411 --> 00:12:24,050
+He wrote his questions on small cards in coloured pencil, one colour for each kind of question, and the lawyers called them Muir's playing cards.
+
+158
+00:12:24,050 --> 00:12:25,977
+He trusted physical evidence.
+
+159
+00:12:25,977 --> 00:12:31,760
+He distrusted eyewitnesses, unless their story fitted what the evidence already showed.
+
+160
+00:12:32,211 --> 00:12:34,402
+He called more than forty witnesses.
+
+161
+00:12:34,402 --> 00:12:37,810
+The people on the High Street, who had seen the two men.
+
+162
+00:12:37,810 --> 00:12:42,497
+Kate Wade, Albert's girlfriend, who said he had not been with her that night.
+
+163
+00:12:42,497 --> 00:12:51,932
+And Annie Cromarty, who said Alfred had come home that morning with money he did not explain, and had asked her to say that he had been with her all night.
+
+164
+00:12:52,380 --> 00:12:57,338
+The defence team knew where the real fight would be, and they had found two experts.
+
+165
+00:12:57,338 --> 00:13:03,181
+One was Dr John Garson, a respected scientist who had championed the old Bair-tee-yon measurements.
+
+166
+00:13:03,181 --> 00:13:09,555
+The other was Henry Faulds himself, the doctor who had first proposed using fingerprints to catch criminals.
+
+167
+00:13:09,555 --> 00:13:15,634
+According to accounts of the case, Faulds argued that a single print was not enough to identify anyone.
+
+168
+00:13:15,634 --> 00:13:18,822
+Hold on to that, because the defence never called him.
+
+169
+00:13:19,272 --> 00:13:22,403
+The defence put Alfred Stratton into the witness box.
+
+170
+00:13:22,403 --> 00:13:29,849
+His story was that, at about half past two that morning, Albert had tapped on his window, wanting money for a night's lodging.
+
+171
+00:13:29,849 --> 00:13:31,268
+Alfred had none to give.
+
+172
+00:13:31,268 --> 00:13:37,768
+He had found his brother in the street and let him sleep on his floor, and they had both stayed in until nine.
+
+173
+00:13:37,768 --> 00:13:42,555
+The four pounds, he said, were winnings from a boxing match, buried weeks before.
+
+174
+00:13:43,004 --> 00:13:44,449
+Muir had expected that.
+
+175
+00:13:44,449 --> 00:13:50,166
+Before he called his fingerprint expert, he called a prison officer named William Gittings.
+
+176
+00:13:50,166 --> 00:14:00,407
+Gittings told the court that, while the brothers were held awaiting trial, Albert had said to him: I reckon he will get strung up, and I shall get about ten years.
+
+177
+00:14:00,407 --> 00:14:01,914
+He has led me into this.
+
+178
+00:14:02,365 --> 00:14:03,551
+Then came Collins.
+
+179
+00:14:03,551 --> 00:14:10,407
+Muir took him through the method slowly, in plain language, as if the jury had never seen a fingerprint.
+
+180
+00:14:10,407 --> 00:14:11,725
+Most of them hadn't.
+
+181
+00:14:11,725 --> 00:14:13,901
+Collins showed them the cash box.
+
+182
+00:14:13,901 --> 00:14:21,680
+He showed them photographic enlargements of the mark from the tray and of Alfred Stratton's right thumb, side by side.
+
+183
+00:14:22,130 --> 00:14:28,070
+He pointed out the places where the ridges matched: where a ridge ended, where one split in two.
+
+184
+00:14:28,070 --> 00:14:31,659
+By his count, there were up to twelve points of agreement.
+
+185
+00:14:31,659 --> 00:14:43,600
+When one of the jurors asked why the two images did not look exactly the same, Collins demonstrated how the same thumb leaves a different-looking mark when it is pressed harder or more lightly.
+
+186
+00:14:44,051 --> 00:14:46,322
+Then the defence called Dr Garson.
+
+187
+00:14:46,322 --> 00:14:51,465
+He had examined the same two prints, he said, and they were not in agreement.
+
+188
+00:14:51,465 --> 00:14:57,810
+On paper, he was a heavyweight, and the defence presented him as one of Collins's own teachers.
+
+189
+00:14:57,810 --> 00:15:03,622
+For a moment, it was expert against expert, and the jury had to decide whom to believe.
+
+190
+00:15:04,072 --> 00:15:07,249
+There was one more thing the defence did not know.
+
+191
+00:15:07,249 --> 00:15:13,032
+In cross-examination, Muir produced two letters, both written by Dr Garson on the same day.
+
+192
+00:15:13,032 --> 00:15:16,655
+One was addressed to the Director of Public Prosecutions.
+
+193
+00:15:16,655 --> 00:15:19,642
+The other was to the solicitor for the defence.
+
+194
+00:15:19,642 --> 00:15:24,980
+Each, according to accounts of the trial, offered his services as an expert witness.
+
+195
+00:15:24,980 --> 00:15:30,065
+Muir asked him how he could reconcile writing those two letters on the same day.
+
+196
+00:15:30,514 --> 00:15:33,943
+Garson answered: I am an independent witness.
+
+197
+00:15:33,943 --> 00:15:36,153
+The judge was less impressed.
+
+198
+00:15:36,153 --> 00:15:45,371
+Mr Justice Channell remarked that, after writing two such letters, Dr Garson was, in his words, absolutely untrustworthy.
+
+199
+00:15:45,821 --> 00:15:48,438
+That was the end of the expert defence.
+
+200
+00:15:48,438 --> 00:15:54,276
+Having watched Garson taken apart, the defence decided not to call Henry Faulds at all.
+
+201
+00:15:54,276 --> 00:16:02,128
+The man who had first suggested that fingerprints could catch a killer never said a word at the trial that proved it.
+
+202
+00:16:03,979 --> 00:16:06,391
+On the 6th of May, the jury retired.
+
+203
+00:16:06,391 --> 00:16:08,670
+They were out for about two hours.
+
+204
+00:16:08,670 --> 00:16:14,100
+They found both brothers guilty of murder, and the judge sentenced them to death.
+
+205
+00:16:14,548 --> 00:16:23,625
+Alfred and Albert Stratton were hanged together at Wandsworth Prison, at nine o'clock in the morning, on the 23rd of May, 1905.
+
+206
+00:16:23,625 --> 00:16:30,557
+Less than two months had passed since William Jones had knocked on a locked shop door in Detford.
+
+207
+00:16:31,008 --> 00:16:34,427
+It is worth being precise about what the jury decided.
+
+208
+00:16:34,427 --> 00:16:37,276
+They did not convict on the thumbprint alone.
+
+209
+00:16:37,276 --> 00:16:43,545
+There were the identifications, the stockings, the clothes, the money and the remark in the prison.
+
+210
+00:16:43,545 --> 00:16:49,181
+But the print was the only evidence that placed Alfred Stratton's hand inside that house.
+
+211
+00:16:49,181 --> 00:16:54,057
+Without it, the case was a collection of things that could be explained away.
+
+212
+00:16:54,506 --> 00:17:00,440
+After Detford, fingerprint evidence was no longer an experiment in a British murder court.
+
+213
+00:17:00,440 --> 00:17:06,900
+Defence lawyers would keep attacking it, sometimes rightly, on how a print was lifted or compared.
+
+214
+00:17:06,900 --> 00:17:12,372
+But the principle had been tested in the hardest setting there is, and it had held.
+
+215
+00:17:12,820 --> 00:17:23,626
+The Henry system, built in Bengal with the work of Azizul Haque and Hemchandra Bose, spread through police forces across the English-speaking world and beyond.
+
+216
+00:17:23,626 --> 00:17:27,975
+For most of the twentieth century, it was how prints were filed.
+
+217
+00:17:28,426 --> 00:17:31,245
+Some of the same people would meet again.
+
+218
+00:17:31,245 --> 00:17:38,600
+Five years later, Mack-nawten was overseeing the hunt for Dr Crippen, and Richard Muir was prosecuting him.
+
+219
+00:17:38,600 --> 00:17:41,556
+That case has its own file on this channel.
+
+220
+00:17:42,005 --> 00:17:49,695
+Henry Faulds spent the rest of his life arguing that he had never received the credit he deserved for the idea.
+
+221
+00:17:49,695 --> 00:17:53,575
+He died in Staffordshire in 1930, still bitter about it.
+
+222
+00:17:53,575 --> 00:18:00,019
+Today there are plaques in his memory, and a memorial in his home town of Beith, in Ayrshire.
+
+223
+00:18:00,469 --> 00:18:10,127
+The Detford murders are remembered for one first: the first time a British jury convicted anyone of murder with a fingerprint at the heart of the case.
+
+224
+00:18:10,127 --> 00:18:22,471
+It came down to a sergeant's bare hands that did not spoil it, an assistant commissioner's handkerchief that protected it, and a detective inspector who could explain it to twelve ordinary men.
+
+225
+00:18:22,923 --> 00:18:25,558
+But this case begins with two people.
+
+226
+00:18:25,558 --> 00:18:37,312
+Thomas Farrow, who was 71, and Ann Farrow, who was 65, who ran a paint shop on Detford High Street and kept the takings safe for their employer until Monday morning.
+
+227
+00:18:37,312 --> 00:18:40,019
+They are remembered here with respect.
+
+228
+00:18:40,469 --> 00:18:42,494
+This case file is closed.
+
+229
+00:18:42,494 --> 00:18:46,707
+New case files arrive every day on Precinct Archive.

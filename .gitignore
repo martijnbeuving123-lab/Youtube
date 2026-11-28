@@ -9,3 +9,5 @@ client_secret*.json
 token*.json
 *.pickle
 __pycache__/
+defector-files/videos/*/assets/audio/
+defector-files/videos/*/assets/build/

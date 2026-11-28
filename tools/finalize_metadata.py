@@ -5,12 +5,15 @@
 
 Chapter starts come from `chapters` in edit.json: {"beat_id": "Chapter title", ...}.
 """
-import json, sys
+import json, os, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import credits as cr
 
 vdir = sys.argv[1].rstrip("/")
 edit = json.load(open(f"{vdir}/edit.json"))
 tl = {b["id"]: b["start"] for b in json.load(open(f"{vdir}/out/timeline.json"))}
-credits = json.load(open(f"{vdir}/credits.json"))
+credits = cr.load(vdir)
 used = {b["visual"].split("/")[-1].rsplit(".", 1)[0] for b in json.load(open(f"{vdir}/out/used_visuals.json"))} \
     if __import__("os").path.exists(f"{vdir}/out/used_visuals.json") else set(credits)
 
@@ -28,8 +31,9 @@ lines = []
 for k, c in sorted(credits.items()):
     if k not in used:
         continue
-    who = f", {c['artist']}" if c["artist"] and c["license"] != "Public domain" else ""
-    lines.append(f"- {c['title'][5:].rsplit('.', 1)[0]}{who} ({c['license']}): {c['page']}")
+    who = f", {c['artist']}" if c.get("artist") and c.get("license") != "Public domain" else ""
+    via = f", {c['credit']}" if c.get("credit", "").startswith(("Wellcome", "Library of Congress")) else ""
+    lines.append(f"- {cr.label(c)}{who}{via} ({c.get('license', '?')}): {c.get('page', '')}")
 md = open(f"{vdir}/metadata.md").read()
 md = md.replace("CHAPTERS\n", "CHAPTERS\n" + "\n".join(chapters) + "\n", 1)
 md = md.replace("CREDITS\n", "\n".join(lines) + "\n", 1)

@@ -1,0 +1,82 @@
+# Upload sheet: The Duquesne Spy Ring
+
+## Title
+The FBI's Fake Office That Caught 33 Nazi Spies
+
+Alternatives (title.py): "The Blackmailed Spy Who Brought Down a Nazi Ring in New York" (80),
+"33 Nazi Spies and the FBI Agent Hamburg Trusted" (84). Winner scored 98/100.
+
+## Thumbnail
+`out/thumbnail.jpg`: house style. Words "BEHIND THE / MIRROR" (cream / red), label
+"CASE FILE · NEW YORK, 1941", archive portrait of Fritz Duquesne (Bain News Service, c. 1916, LoC),
+faded FBI surveillance print top-left. Concepts considered: "BEHIND THE MIRROR" (chosen),
+"HITLER'S MAN WAS OURS" (too long), "THE DOUBLE AGENT" (repeats nothing but weaker). Words do not repeat the title.
+
+## Originality gate
+Originality gate: passed — angle: the ring's biggest coup (the Norden bombsight, smuggled in an
+umbrella in January 1938) happened two years before the FBI case began, so the case is the story of
+the FBI's first takeover of an enemy service's own channel and of the coerced recruit who made it
+possible and was forgotten. Rule 2: six marked interpretation passages (beats 26-27, 37-38, 46-47,
+69-71, 91-92, 93-95). Rule 3: scene-first opening behind the two-way mirror, unlike the Rosenberg
+pilot's date-first open. Rule 4: archive photos, our crops of FBI prints, 2 maps, timeline/text
+cards, quote cards, location images; beats split so no visual stays much over 20 s. Rule 5: only the
+channel sign-off is fixed. Rule 6: sources below; contested points (Duquesne's legend, the Kitchener
+claim, the bombsight's value, the Robin Moor link) said as contested.
+
+## Description
+
+In 1940 the FBI rented an office near Times Square, put a camera behind a two-way mirror, and waited for Nazi Germany's spies in New York to walk in. They did, for sixteen months. In June 1941 thirty-three of them were arrested; all were convicted, in what the FBI still calls the largest espionage case in US history to end in convictions.
+
+But the ring's most valuable theft, the Norden bombsight, had already left New York hidden in an umbrella in January 1938, two years before the case began. This video tells the story the famous version skips: William Sebold, a German-born American blackmailed into spying for the Abwehr, who walked into the US consulate in Cologne and became the FBI's first double agent; the FBI shortwave station on Long Island that German intelligence trusted for sixteen months; Fritz Duquesne, the Boer War adventurer whose legend was partly his own invention; and what happened to the men afterwards.
+
+Where the record is uncertain or disputed, the narration says so.
+
+CHAPTERS
+0:00 Behind the mirror
+1:45 The man from Mülheim
+5:19 The office near Times Square
+7:36 DUNN
+11:25 The network
+13:52 The umbrella
+15:40 The roundup
+18:21 After
+
+SOURCES
+- FBI, Famous Cases: The Duquesne Spy Ring: https://www.fbi.gov/history/famous-cases/duquesne-spy-ring
+- FBI Records: The Vault, Duquesne Spy Ring: https://vault.fbi.gov/Duquesne%20Spy%20Ring
+- FBI, "A Byte Out of History: FBI Radio Monitoring in WWII" (2004): https://www.fbi.gov/news/stories/2004/october/radio101304
+- Raymond J. Batvinis, FBI Studies: https://fbistudies.com/2023/07/10/radio-cloak-and-dagger/
+- Peter Duffy, Double Agent: The First Hero of World War II and How the FBI Outwitted and Destroyed a Nazi Spy Ring (2014)
+- Art Ronnie, Counterfeit Hero: Fritz Duquesne, Adventurer and Spy (1995)
+- Wikipedia overviews (as a map to the sources): https://en.wikipedia.org/wiki/Duquesne_Spy_Ring
+
+IMAGES (Library of Congress = LoC; public domain / no known restrictions; crops and annotations are ours)
+- A company of Boer soldiers - prisoners of war in Simons Town, South Africa (1901) — LoC: https://www.loc.gov/item/95515281/
+- Capt. Fritz Duquesne (1916) — LoC: https://www.loc.gov/item/2014702778/
+- Harbor at Hamburg, Germany (1908) — LoC: https://www.loc.gov/item/2016821565/
+- Bird's-eye view of the harbor, Hamburg, Germany (1890) — LoC: https://www.loc.gov/item/2020680001/
+- J. Edgar Hoover, Dir. of F.B.I., in his office, April 1940 (1940) — LoC: https://www.loc.gov/item/2016877385/
+- Informal photo of J. Edgar Hoover, Director of FBI, Dept. of Justice, April 5, 1940 (1940) — LoC: https://www.loc.gov/item/2016877384/
+- Lord Kitchener (1915) — LoC: https://www.loc.gov/item/2014702041/
+- The 33 convicted members of the Duquesne spy ring (1941) — LoC: https://www.loc.gov/item/2001698243/
+- [Theodore Roosevelt with members of his party on safari in Africa] (1919) — LoC: https://www.loc.gov/item/2013649468/
+- Frederick Duquesne in office of Harry Sawyer, June 25, 1941 / FBI print. (1941) — LoC: https://www.loc.gov/item/2001698244/
+- Times Square with Father Duffy's statue still wrapped up (1937) — LoC: https://www.loc.gov/item/2013645899/
+- Times Square north at night, New York City (1934) — LoC: https://www.loc.gov/item/2006677804/
+- Transmitter, radio station, Toronto Star Newspaper, Ont., Canada (1923) — LoC: https://www.loc.gov/item/2019632980/
+- Mrs. Roosevelt christens the Yankee Clipper, Washington, D.C., March 3 (1939) — LoC: https://www.loc.gov/item/2016883871/
+Maps and text cards: made for this video.
+
+Music: original instrumental score. Narration is AI-generated.
+
+#DuquesneSpyRing #FBI #WW2History
+
+## Tags
+duquesne spy ring, fritz duquesne, william sebold, fbi double agent, nazi spies in america, abwehr, nikolaus ritter, norden bombsight, hermann lang, j edgar hoover, ww2 espionage, spy history documentary, house on 92nd street, times square 1941, declassified, the defector files
+
+## Pinned comment
+The detail most retellings skip: the Norden bombsight drawings left New York in an umbrella in January 1938, two years before William Sebold ever sent his first radio message. Was this case a counter-espionage triumph, or a clean-up after the damage was done? The file is open in the comments.
+
+## Upload settings
+Category Education (27) · made for kids No · altered or synthetic content Yes (AI narration) ·
+language English · privacy PRIVATE, no schedule (the daily check schedules 19:00) · no subscriber notification.

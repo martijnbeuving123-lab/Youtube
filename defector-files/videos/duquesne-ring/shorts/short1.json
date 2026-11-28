@@ -1,0 +1,19 @@
+{
+ "video": "defector-files/videos/duquesne-ring/out/duquesne-ring.mp4",
+ "captions": "defector-files/videos/duquesne-ring/out/captions.srt",
+ "start": 32.9,
+ "end": 80.3,
+ "hook": ["NAZI SPIES CAME HERE", "FOR 16 MONTHS."],
+ "hook_red": ["IT WAS THE", "FBI'S OFFICE."],
+ "end_card": ["THE SECRET", "LEFT IN AN", "UMBRELLA..."],
+ "end_label": "FULL CASE ON THE CHANNEL",
+ "end_at": 41.5,
+ "shots": [
+  {"t0": 0, "t1": 9.8, "src": "defector-files/videos/duquesne-ring/assets/img/office1.jpg", "mode": "fill", "sepia": true, "zoom": [1.0, 1.1], "center": [0.66, 0.4]},
+  {"t0": 9.8, "t1": 19.0, "src": "defector-files/videos/duquesne-ring/assets/img/ring33.jpg", "mode": "fill", "sepia": true, "zoom": [1.0, 1.08], "center": [0.5, 0.25], "to": [0.5, 0.6]},
+  {"t0": 19.0, "t1": 28.2, "src": "defector-files/videos/duquesne-ring/assets/img/office_calendar.jpg", "mode": "fill", "sepia": true, "zoom": [1.0, 1.12], "center": [0.55, 0.5]},
+  {"t0": 28.2, "t1": 35.0, "src": "frame:64", "mode": "card", "box": [16, 37, 68, 26], "zoom": [1.0, 1.08]},
+  {"t0": 35.0, "t1": 41.5, "src": "defector-files/videos/duquesne-ring/assets/img/lang_mug.jpg", "mode": "fill", "sepia": true, "zoom": [1.0, 1.1], "center": [0.5, 0.45]}
+ ],
+ "_note": "Short 1 for 2026-11-29 12:00. Long-video beats 04-06 (cold open: Duquesne on film, the 33, the umbrella)."
+}
