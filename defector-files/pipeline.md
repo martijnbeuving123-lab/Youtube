@@ -1,11 +1,13 @@
 # Production board — The Defector Files
 
-Updated 2026-11-27.
+Updated 2026-11-28.
 
 | Stage | Case | Folder | Status | Waiting on |
 |---|---|---|---|---|
 | Pilot (test) | Rosenbergs, 2.4-min pilot | `defector-files/videos/rosenberg-pilot/` | Test render sent to owner; not for upload | — |
-| Next up | Pick by data in the first daily run | | | — |
+| Produced 28 Nov | The Duquesne Spy Ring (1941) | `defector-files/videos/duquesne-ring/` | UPLOAD_STATUS | daily check (19:00) |
+| Short (private, for tomorrow 12:00) | Duquesne Spy Ring, Short 1 | `defector-files/videos/duquesne-ring/shorts/` | SHORT_STATUS | daily check (29 Nov 12:00) |
+| Next up | Rudolf Abel and the hollow nickel (1953–1962) — check LoC/FBI images first | | | — |
 
 ## Case log (everything looked at, so nothing is repeated)
 
@@ -22,7 +24,7 @@ Image sources: LoC = Library of Congress has full-size public-domain photos (che
 | Juan Pujol García (Garbo) | 1941–1944 | UK/Spain | Double agent whose invented network shielded D-Day | ? | Candidate |
 | Klaus Fuchs | 1943–1950 | UK/US | Los Alamos physicist who gave Moscow the bomb | ? | Candidate |
 | Oleg Gordievsky | 1974–1985 | UK/USSR | KGB colonel smuggled out of Moscow in a car boot | ? | Candidate |
-| Duquesne Spy Ring | 1941 | US | Largest espionage conviction in US history; FBI double agent | LoC likely | Candidate |
+| Duquesne Spy Ring | 1941 | US | Largest espionage conviction in US history; FBI double agent | LoC (FBI prints, 15 items) | Produced 28 Nov |
 | The Cambridge Five: Anthony Blunt | 1964–1979 | UK | The Queen's art adviser was a Soviet spy | ? | Candidate |
 | John Walker spy ring | 1967–1985 | US | Navy family spy ring sold codes for 17 years | ? | Candidate |
 | Mata Hari | 1917 | France | Myth versus file: was she a spy at all? | LoC likely | Candidate |
