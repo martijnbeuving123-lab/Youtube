@@ -31,3 +31,4 @@ Updated 2026-11-28.
 | Date | Channel | Short | Video id / status |
 |---|---|---|---|
 | 2026-11-27 | Precinct Archive | Crippen: "He Disguised His Lover as a Boy. A Telegram Still Caught Him." (spec `videos/crippen/shorts/short1.json`) | https://www.youtube.com/watch?v=mqsBx6G3Aa8 — private, publishAt 2026-11-28 12:00 Amsterdam (verified) |
+| 2026-11-28 | Precinct Archive | Gutteridge: "Two Scratches On A Revolver Sent Two Men To The Gallows #Shorts" (spec `videos/gutteridge/shorts/short1.json`, 42.7 s) | https://www.youtube.com/watch?v=Lt6eWgP37zY — Short (private, for tomorrow 12:00); uploaded without publish time; category Education; AI disclosure / made for kids not settable via the vidIQ upload |
