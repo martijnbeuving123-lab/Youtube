@@ -139,19 +139,35 @@ def main():
     sh(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", f"{work}/concat.txt", "-c", "pcm_s16le", narration])
     total = t
     json.dump(timeline, open(f"{vdir}/out/timeline.json", "w"), indent=1)
-    json.dump([{"id": b["id"], "visual": b["visual"]} for b in beats], open(f"{vdir}/out/used_visuals.json", "w"), indent=1)
+    json.dump([{"id": b["id"], "visual": b["visual"], **({"visual2": b["visual2"]} if b.get("visual2") else {})} for b in beats], open(f"{vdir}/out/used_visuals.json", "w"), indent=1)
 
     # 2. one clip per beat
     def clip(i):
         b, tl = beats[i], timeline[i]
         dur = tl["vis"] + (X if i < len(beats) - 1 else 0)
-        img = f"{work}/img_{b['id']}.jpg"
+        v2 = b.get("visual2")
+        if v2 and os.path.exists(f"{vdir}/{v2}") and dur > 8:
+            # long beat: split into two shots joined by a dissolve (no single image > ~20 s)
+            d1 = d2 = dur / 2 + X / 2
+            a = one_clip(dict(b), d1, b["id"] + "a")
+            c = {k: v for k, v in b.items() if k != "caption"}
+            c["visual"], c["motion"] = v2, b.get("motion2", "out" if b.get("motion", "in") == "in" else "in")
+            z = one_clip(c, d2, b["id"] + "b")
+            out = f"{work}/clip_{b['id']}.mp4"
+            sh(["ffmpeg", "-y", "-i", a, "-i", z, "-filter_complex",
+                f"[0:v][1:v]xfade=transition=fade:duration={X}:offset={d1 - X:.3f}[v]", "-map", "[v]",
+                "-r", str(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", out])
+            return out
+        return one_clip(b, dur, b["id"])
+
+    def one_clip(b, dur, tag):
+        img = f"{work}/img_{tag}.jpg"
         prep_image(f"{vdir}/{b['visual']}", img, b.get("grade", not b["visual"].startswith("assets/cards")))
-        out = f"{work}/clip_{b['id']}.mp4"
+        out = f"{work}/clip_{tag}.mp4"
         vf = motion_filter(b.get("motion", "in"), dur)
         cmd = ["ffmpeg", "-y", "-loop", "1", "-framerate", str(FPS), "-t", f"{dur:.3f}", "-i", img]
         if b.get("caption"):
-            cap = f"{work}/cap_{b['id']}.png"
+            cap = f"{work}/cap_{tag}.png"
             caption_png(b["caption"], cap)
             cmd += ["-loop", "1", "-framerate", str(FPS), "-t", f"{dur:.3f}", "-i", cap]
             fc = (f"[0:v]{vf}[bg];[1:v]format=rgba,fade=t=in:st=0.6:d=0.6:alpha=1,"

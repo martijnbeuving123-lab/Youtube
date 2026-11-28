@@ -14,7 +14,8 @@ vdir = sys.argv[1].rstrip("/")
 edit = json.load(open(f"{vdir}/edit.json"))
 tl = {b["id"]: b["start"] for b in json.load(open(f"{vdir}/out/timeline.json"))}
 credits = cr.load(vdir)
-used = {b["visual"].split("/")[-1].rsplit(".", 1)[0] for b in json.load(open(f"{vdir}/out/used_visuals.json"))} \
+used = {v.split("/")[-1].rsplit(".", 1)[0] for b in json.load(open(f"{vdir}/out/used_visuals.json"))
+        for v in (b["visual"], b.get("visual2")) if v} \
     if __import__("os").path.exists(f"{vdir}/out/used_visuals.json") else set(credits)
 
 
