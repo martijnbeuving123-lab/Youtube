@@ -62,3 +62,12 @@ Two scratches on a breech shield, and a jury handed a microscope. One question f
 - Audience: **not made for kids**.
 - Captions: `deliveries/gutteridge/captions.srt`.
 - Category: Education (27).
+
+## Originality gate (channel/originality-rules.md, checked before render, 28 Nov 2026)
+Originality gate: passed — angle: the "eyes" legend is not in the trial record, and Kennedy's statement was not evidence against Browne, so Browne was convicted in law by the breech-shield "gun print" shown to the jury through a microscope.
+1. Own angle: stated at the top of `script.md`. ✓
+2. Analysis: six marked passages (beats 14, 27-28, 39-40, 48, 53, 55 on screen as ANALYSIS / two-column cards). ✓
+3. Opening: courtroom-object hook (jury handed a microscope), then a legend flagged as legend; unlike Crippen (telegram read aloud), Deptford (timestamp scene), Brides (reconstruction scene). ✓
+4. Visuals: 17 real archive images (LoC, Wellcome) + our own schematic maps (4), timelines (2), document cards with highlights (3), two-column analysis cards, quote cards. Long beats split into two shots; no single image on screen longer than about 21 s. Period images are captioned as period images. ✓
+5. No boilerplate: only the brand line and the one channel sign-off; title and thumbnail words specific to the case. ✓
+6. Visible research: primary source (Notable British Trials 1930) and links in the description; one-source account, Sillitoe memoir, 999 link and later doubts all hedged in narration. ✓

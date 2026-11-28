@@ -1,0 +1,360 @@
+{
+ "music_db": -23,
+ "beats": [
+  {
+   "id": "01",
+   "visual": "assets/cards/c01_court.png",
+   "motion": "in",
+   "visual2": "assets/img/microscope_swift.jpg"
+  },
+  {
+   "id": "02",
+   "visual": "assets/img/adams_revolver.jpg",
+   "motion": "left",
+   "visual2": "assets/cards/d22_headstamp.png",
+   "caption": "Period revolver engraving (not the case weapon)"
+  },
+  {
+   "id": "03",
+   "visual": "assets/img/thumb_right_police_constables.jpg",
+   "motion": "out",
+   "caption": "British constables of the period (London, c.1911)"
+  },
+  {
+   "id": "04",
+   "visual": "assets/cards/c04_legend.png",
+   "motion": "right"
+  },
+  {
+   "id": "05",
+   "visual": "assets/cards/c05_casefile.png",
+   "motion": "still"
+  },
+  {
+   "id": "06",
+   "visual": "assets/cards/c06_title.png",
+   "motion": "still"
+  },
+  {
+   "id": "07",
+   "visual": "assets/cards/m07_essex.png",
+   "motion": "out",
+   "pause_before": 1.4,
+   "caption": "I  ·  The lane"
+  },
+  {
+   "id": "08",
+   "visual": "assets/img/london_police_strike.jpg",
+   "motion": "right",
+   "visual2": "assets/img/london_police_escort.jpg",
+   "caption": "Constables of the period (period image)"
+  },
+  {
+   "id": "09",
+   "visual": "assets/cards/c09_family.png",
+   "motion": "in"
+  },
+  {
+   "id": "10",
+   "visual": "assets/img/london_police_escort.jpg",
+   "motion": "left"
+  },
+  {
+   "id": "11",
+   "visual": "assets/cards/m11_beat.png",
+   "motion": "out",
+   "visual2": "assets/cards/t20_timeline.png"
+  },
+  {
+   "id": "12",
+   "visual": "assets/img/london_traffic_1926.jpg",
+   "motion": "right",
+   "caption": "Motor traffic, 1926 (period image)"
+  },
+  {
+   "id": "13",
+   "visual": "assets/cards/c13_plate.png",
+   "motion": "in"
+  },
+  {
+   "id": "14",
+   "visual": "assets/cards/c14_onesource.png",
+   "motion": "left",
+   "visual2": "assets/img/newspaper_seller.jpg"
+  },
+  {
+   "id": "15",
+   "visual": "assets/cards/d15_statement.png",
+   "motion": "out",
+   "visual2": "assets/img/thumb_right_police_constables.jpg"
+  },
+  {
+   "id": "16",
+   "visual": "assets/img/london_police_strike.jpg",
+   "motion": "right"
+  },
+  {
+   "id": "17",
+   "visual": "assets/cards/c17_looking.png",
+   "motion": "in"
+  },
+  {
+   "id": "18",
+   "visual": "assets/cards/m18_route.png",
+   "motion": "left"
+  },
+  {
+   "id": "19",
+   "visual": "assets/cards/c19_dawn.png",
+   "motion": "out",
+   "visual2": "assets/img/thumb_right_police_constables.jpg"
+  },
+  {
+   "id": "20",
+   "visual": "assets/cards/t20_timeline.png",
+   "motion": "right",
+   "visual2": "assets/img/telephone_operator_1922.jpg"
+  },
+  {
+   "id": "21",
+   "visual": "assets/img/westminster_1926.jpg",
+   "motion": "in",
+   "visual2": "assets/img/london_traffic_1926.jpg",
+   "pause_before": 1.4,
+   "caption": "II  ·  The hunt"
+  },
+  {
+   "id": "22",
+   "visual": "assets/cards/d22_headstamp.png",
+   "motion": "left",
+   "visual2": "assets/img/adams_revolver.jpg"
+  },
+  {
+   "id": "23",
+   "visual": "assets/img/gun_barrel_mill.jpg",
+   "motion": "out",
+   "caption": "Arms manufacture: a gun-barrel mill (period engraving)"
+  },
+  {
+   "id": "24",
+   "visual": "assets/cards/c24_powder.png",
+   "motion": "right",
+   "visual2": "assets/img/revolver_side.jpg"
+  },
+  {
+   "id": "25",
+   "visual": "assets/img/revolver_side.jpg",
+   "motion": "in",
+   "visual2": "assets/img/adams_revolver.jpg",
+   "caption": "A period revolver (American Colt, for illustration)"
+  },
+  {
+   "id": "26",
+   "visual": "assets/cards/c26_inquest.png",
+   "motion": "left"
+  },
+  {
+   "id": "27",
+   "visual": "assets/cards/c04_legend.png",
+   "motion": "out",
+   "visual2": "assets/img/microscope_swift.jpg"
+  },
+  {
+   "id": "28",
+   "visual": "assets/cards/c28_claimed.png",
+   "motion": "right",
+   "visual2": "assets/cards/c17_looking.png"
+  },
+  {
+   "id": "29",
+   "visual": "assets/cards/m29_sheffield.png",
+   "motion": "in",
+   "visual2": "assets/img/newspaper_seller2.jpg"
+  },
+  {
+   "id": "30",
+   "visual": "assets/img/london_traffic_1926.jpg",
+   "motion": "left",
+   "visual2": "assets/img/westminster_1926.jpg",
+   "caption": "London streets, 1926 (period image)"
+  },
+  {
+   "id": "31",
+   "visual": "assets/img/newspaper_seller.jpg",
+   "motion": "out",
+   "caption": "London, period image"
+  },
+  {
+   "id": "32",
+   "visual": "assets/cards/c32_raid.png",
+   "motion": "right",
+   "visual2": "assets/img/adams_revolver.jpg"
+  },
+  {
+   "id": "33",
+   "visual": "assets/img/revolver_side.jpg",
+   "motion": "in",
+   "visual2": "assets/cards/c40_left.png"
+  },
+  {
+   "id": "34",
+   "visual": "assets/img/lime_street_1925.jpg",
+   "motion": "left",
+   "caption": "Lime Street, Liverpool (period image)"
+  },
+  {
+   "id": "35",
+   "visual": "assets/cards/c35_standback.png",
+   "motion": "out",
+   "visual2": "assets/img/lime_street_1925.jpg"
+  },
+  {
+   "id": "36",
+   "visual": "assets/cards/c36_question.png",
+   "motion": "right",
+   "visual2": "assets/img/westminster_1926.jpg"
+  },
+  {
+   "id": "37",
+   "visual": "assets/img/westminster_1926.jpg",
+   "motion": "in",
+   "pause_before": 1.4,
+   "caption": "III  ·  The gun print"
+  },
+  {
+   "id": "38",
+   "visual": "assets/cards/d38_ithere.png",
+   "motion": "left",
+   "visual2": "assets/img/prison_governor_dock.jpg"
+  },
+  {
+   "id": "39",
+   "visual": "assets/cards/c39_law.png",
+   "motion": "out",
+   "visual2": "assets/cards/d15_statement.png"
+  },
+  {
+   "id": "40",
+   "visual": "assets/cards/c40_left.png",
+   "motion": "right",
+   "visual2": "assets/img/newspaper_seller.jpg"
+  },
+  {
+   "id": "41",
+   "visual": "assets/img/newgate_prison_yard.jpg",
+   "motion": "in",
+   "visual2": "assets/img/embankment_1890.jpg",
+   "caption": "Newgate Prison, on the site of the Old Bailey (engraving, 1873)"
+  },
+  {
+   "id": "42",
+   "visual": "assets/img/adams_revolver.jpg",
+   "motion": "left",
+   "visual2": "assets/img/gun_barrel_mill.jpg",
+   "caption": "Period revolver engraving"
+  },
+  {
+   "id": "43",
+   "visual": "assets/cards/c43_churchill.png",
+   "motion": "out",
+   "visual2": "assets/img/microscope_swift.jpg"
+  },
+  {
+   "id": "44",
+   "visual": "assets/img/revolver_side.jpg",
+   "motion": "right",
+   "visual2": "assets/cards/c24_powder.png"
+  },
+  {
+   "id": "45",
+   "visual": "assets/cards/c45_fox.png",
+   "motion": "in",
+   "visual2": "assets/img/adams_revolver.jpg"
+  },
+  {
+   "id": "46",
+   "visual": "assets/img/microscope_swift.jpg",
+   "motion": "left",
+   "visual2": "assets/cards/d22_headstamp.png",
+   "caption": "A period microscope (catalogue engraving)"
+  },
+  {
+   "id": "47",
+   "visual": "assets/cards/c47_microscope.png",
+   "motion": "out",
+   "visual2": "assets/img/microscope_swift.jpg"
+  },
+  {
+   "id": "48",
+   "visual": "assets/cards/c48_strength.png",
+   "motion": "right",
+   "visual2": "assets/img/gun_barrel_mill.jpg"
+  },
+  {
+   "id": "49",
+   "visual": "assets/cards/c49_oath.png",
+   "motion": "in",
+   "visual2": "assets/img/prison_governor_dock.jpg"
+  },
+  {
+   "id": "50",
+   "visual": "assets/cards/t50_jury.png",
+   "motion": "left"
+  },
+  {
+   "id": "51",
+   "visual": "assets/cards/c51_conscience.png",
+   "motion": "out"
+  },
+  {
+   "id": "52",
+   "visual": "assets/cards/c52_hanged.png",
+   "motion": "right",
+   "visual2": "assets/img/prison_convict_cell.jpg"
+  },
+  {
+   "id": "53",
+   "visual": "assets/cards/c53_doubts.png",
+   "motion": "in",
+   "visual2": "assets/img/newspaper_seller2.jpg",
+   "pause_before": 1.4,
+   "caption": "IV  ·  What the case left"
+  },
+  {
+   "id": "54",
+   "visual": "assets/img/microscope_swift.jpg",
+   "motion": "left",
+   "visual2": "assets/img/london_police_strike.jpg"
+  },
+  {
+   "id": "55",
+   "visual": "assets/img/telephone_operator_1922.jpg",
+   "motion": "out",
+   "visual2": "assets/img/london_police_escort.jpg",
+   "caption": "A telephone exchange, 1922 (period image)"
+  },
+  {
+   "id": "56",
+   "visual": "assets/img/thumb_right_police_constables.jpg",
+   "motion": "right",
+   "visual2": "assets/cards/m07_essex.png"
+  },
+  {
+   "id": "57",
+   "visual": "assets/cards/c57_memorial.png",
+   "motion": "in"
+  },
+  {
+   "id": "58",
+   "visual": "assets/cards/c58_closed.png",
+   "motion": "left"
+  }
+ ],
+ "chapters": {
+  "01": "A microscope at the Old Bailey",
+  "07": "The constable and the stolen car",
+  "21": "The cartridge and the hunt",
+  "37": "The gun print on trial",
+  "53": "Doubts and legacy"
+ }
+}
