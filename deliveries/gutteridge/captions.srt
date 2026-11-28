@@ -1,0 +1,843 @@
+1
+00:00:01,000 --> 00:00:11,483
+In April 1928, twelve jurors at the Old Bailey were handed a microscope, and asked to look at the bottom of one brass cartridge.
+
+2
+00:00:11,932 --> 00:00:18,374
+It was an army cartridge, fired and empty, the kind made at Woolwich before the First World War.
+
+3
+00:00:18,374 --> 00:00:24,816
+On its copper cap, a gunmaker said, there were two faint marks, side by side, at twelve o'clock.
+
+4
+00:00:24,816 --> 00:00:28,036
+They were not on any other cartridge in England.
+
+5
+00:00:28,036 --> 00:00:31,526
+Only on the ones fired from one particular revolver.
+
+6
+00:00:31,975 --> 00:00:40,078
+Seven months earlier, on a dark road in Essex, a village policeman had been shot four times beside a stolen car.
+
+7
+00:00:40,078 --> 00:00:43,333
+Two of those shots had gone through his eyes.
+
+8
+00:00:43,783 --> 00:00:46,852
+Ever since, one story has followed this case.
+
+9
+00:00:46,852 --> 00:00:56,263
+The killer, it is said, believed that a dead man's eyes kept the last thing they saw, like a photograph, and fired to destroy the picture.
+
+10
+00:00:56,263 --> 00:00:57,559
+It is a good story.
+
+11
+00:00:57,559 --> 00:00:59,877
+The trial record does not tell it.
+
+12
+00:01:00,328 --> 00:01:12,946
+What the record does tell is the story of a revolver, a dropped cartridge, and a flaw on a piece of steel so small that it had to be photographed and enlarged before a jury could see it.
+
+13
+00:01:12,946 --> 00:01:16,677
+A flaw that would decide whether two men lived or died.
+
+14
+00:01:17,128 --> 00:01:18,976
+This is Precinct Archive.
+
+15
+00:01:18,976 --> 00:01:23,707
+And this is the case that taught Britain the phrase a gun print.
+
+16
+00:01:25,557 --> 00:01:38,004
+Stapleford Abbotts, in 1927, is a scattering of farms and cottages in the Essex countryside, between Romford and Ongar, about twenty miles from the centre of London.
+
+17
+00:01:38,004 --> 00:01:46,302
+Its policeman is George William Gutteridge, Police Constable four eight nine of the Essex County Constabulary.
+
+18
+00:01:46,751 --> 00:01:48,077
+He is thirty-six.
+
+19
+00:01:48,077 --> 00:02:01,955
+He was born at Downham Market in Norfolk, joined the Essex police in 1910, and served in the Machine Gun Corps near the end of the First World War before going back to the force.
+
+20
+00:02:01,955 --> 00:02:05,853
+Since 1922 he has been the village constable here.
+
+21
+00:02:06,304 --> 00:02:12,953
+He lives at Towneley Cottages with his wife, Rose, and their two children, aged twelve and four.
+
+22
+00:02:12,953 --> 00:02:16,001
+A village constable is never quite off duty.
+
+23
+00:02:16,001 --> 00:02:20,435
+He works days, he works nights, and much of his work is walking.
+
+24
+00:02:20,884 --> 00:02:26,374
+On Monday, the 26th of September, he comes home from the day shift at about six.
+
+25
+00:02:26,374 --> 00:02:28,570
+He has his meal with his family.
+
+26
+00:02:28,570 --> 00:02:36,531
+At eleven that night, he goes out again, in uniform, with his heavy police cape over his shoulders against the cold.
+
+27
+00:02:36,980 --> 00:02:39,485
+Night duty in rural Essex has a ritual.
+
+28
+00:02:39,485 --> 00:02:46,483
+Constables from neighbouring beats meet at fixed points at fixed times, so that each knows the other is safe.
+
+29
+00:02:46,483 --> 00:02:52,519
+At about three in the morning, Gutteridge meets PC Sydney Taylor at a place called Howe Green.
+
+30
+00:02:52,519 --> 00:02:53,931
+They talk for a while.
+
+31
+00:02:53,931 --> 00:02:59,645
+At about twenty-five past three, they part, and Gutteridge sets off on foot towards home.
+
+32
+00:03:00,096 --> 00:03:07,003
+On the same night, fifteen miles away in Billericay, a doctor's car is stolen from his garage.
+
+33
+00:03:07,003 --> 00:03:11,411
+It is a blue Morris Cowley, registration T W six one two oh.
+
+34
+00:03:11,411 --> 00:03:16,041
+The doctor, Edward Lovell, keeps his medical instruments in it.
+
+35
+00:03:16,491 --> 00:03:18,008
+Hold on to that number.
+
+36
+00:03:18,008 --> 00:03:27,379
+Within a few minutes of Gutteridge leaving Howe Green, that car is coming along the lane towards him, and he steps out and signals it to stop.
+
+37
+00:03:27,829 --> 00:03:32,380
+Here, the case file has a problem that matters to everything that follows.
+
+38
+00:03:32,380 --> 00:03:36,562
+Only two people saw what happened next, apart from the man who died.
+
+39
+00:03:36,562 --> 00:03:39,207
+One of them never told the police anything.
+
+40
+00:03:39,207 --> 00:03:44,619
+The other gave his account only after he was arrested, and his account blamed the first.
+
+41
+00:03:44,619 --> 00:03:51,261
+Everything in the next few minutes comes from that one statement, made by a man trying to save his own life.
+
+42
+00:03:51,711 --> 00:03:58,963
+According to that statement, the constable asked where they had come from, and asked the driver for his licence.
+
+43
+00:03:58,963 --> 00:04:00,258
+The driver had none.
+
+44
+00:04:00,258 --> 00:04:02,524
+The passenger said the car was his.
+
+45
+00:04:02,524 --> 00:04:07,963
+The constable shone his torch into both their faces and asked the number of the car.
+
+46
+00:04:07,963 --> 00:04:09,388
+The passenger gave it.
+
+47
+00:04:09,388 --> 00:04:11,330
+Very well, the constable said.
+
+48
+00:04:11,330 --> 00:04:12,754
+I'll take particulars.
+
+49
+00:04:13,205 --> 00:04:15,723
+He took out his notebook and a pencil.
+
+50
+00:04:15,723 --> 00:04:21,491
+And while he was writing, the driver shot him twice, through the left side of his face.
+
+51
+00:04:21,940 --> 00:04:27,704
+The statement says the constable fell back against the bank, still alive, his eyes open.
+
+52
+00:04:27,704 --> 00:04:33,337
+The driver got out, stood over him and said, What are you looking at me like that for?
+
+53
+00:04:33,337 --> 00:04:38,183
+Then he stooped, and fired twice more, at close range, once into each eye.
+
+54
+00:04:38,634 --> 00:04:41,832
+The car drove on, through fog, towards London.
+
+55
+00:04:41,832 --> 00:04:45,932
+The passenger was told to reload the revolver as they went.
+
+56
+00:04:45,932 --> 00:04:53,299
+And in his hurry, by his own account, he dropped one of the empty cartridge cases on the floor of the car.
+
+57
+00:04:53,749 --> 00:05:05,361
+At about six in the morning, a postman named William Ward drives along the road in the half-light and sees a man sitting against the bank, with his legs out across the carriageway.
+
+58
+00:05:05,361 --> 00:05:06,909
+It is George Gutteridge.
+
+59
+00:05:06,909 --> 00:05:07,619
+He is dead.
+
+60
+00:05:07,619 --> 00:05:10,393
+His helmet and his notebook are beside him.
+
+61
+00:05:10,393 --> 00:05:13,619
+In his right hand, he is still holding the pencil.
+
+62
+00:05:14,069 --> 00:05:15,519
+Help is slow to come.
+
+63
+00:05:15,519 --> 00:05:24,016
+In the country in 1927, the nearest telephone might be a public call box, or a post office, or a police station miles away.
+
+64
+00:05:24,016 --> 00:05:33,549
+According to one local history, a passing bus driver tried to ring from a call box and the operator would not connect him without payment.
+
+65
+00:05:33,549 --> 00:05:37,971
+The postman went back to his post office and telephoned Romford.
+
+66
+00:05:39,821 --> 00:05:47,243
+That same morning, the stolen Morris Cowley is found abandoned in a quiet side street in Brixton, south London.
+
+67
+00:05:47,243 --> 00:05:49,650
+There is blood on the running board.
+
+68
+00:05:49,650 --> 00:05:57,408
+Because the car has turned up in London, Scotland Yard is called in, and Chief Inspector James Berrett takes charge.
+
+69
+00:05:57,858 --> 00:06:09,923
+Under a seat in the car, the police find what the passenger dropped: an empty brass cartridge case, point four five five calibre, the size used in the army's Webley revolvers.
+
+70
+00:06:09,923 --> 00:06:14,541
+Stamped on its base are the letters R L and the Roman numeral four.
+
+71
+00:06:14,541 --> 00:06:16,954
+Royal Laboratory, Woolwich Arsenal.
+
+72
+00:06:16,954 --> 00:06:17,644
+Mark Four.
+
+73
+00:06:18,093 --> 00:06:20,042
+That stamp narrows the field.
+
+74
+00:06:20,042 --> 00:06:26,562
+Mark Four cartridges had been withdrawn from the army around the outbreak of the First World War.
+
+75
+00:06:26,562 --> 00:06:32,075
+They were old stock, kept in drawers and kitbags by men who had brought them home.
+
+76
+00:06:32,524 --> 00:06:34,406
+The wounds narrow it further.
+
+77
+00:06:34,406 --> 00:06:44,465
+Doctors and gun experts could see that at least one of the shots had been fired with black powder, which leaves heavy marks of burnt grains around a wound.
+
+78
+00:06:44,465 --> 00:06:50,305
+Black powder had not been used in service revolver ammunition since the eighteen nineties.
+
+79
+00:06:50,305 --> 00:06:54,848
+Whoever fired that gun was loading it with a jumble of old cartridges.
+
+80
+00:06:55,298 --> 00:06:59,097
+So the police know what kind of gun they are looking for.
+
+81
+00:06:59,097 --> 00:07:06,760
+A Webley point four five five service revolver, of which there were hundreds of thousands in Britain after the war.
+
+82
+00:07:06,760 --> 00:07:09,159
+What they need is not a kind of gun.
+
+83
+00:07:09,159 --> 00:07:10,091
+It is one gun.
+
+84
+00:07:10,540 --> 00:07:17,256
+On the 30th of September, the inquest returns a verdict of murder by person or persons unknown.
+
+85
+00:07:17,256 --> 00:07:25,598
+Through the autumn, revolver after revolver that comes into police hands is tested against the cartridge from the car.
+
+86
+00:07:25,598 --> 00:07:27,083
+None of them matches.
+
+87
+00:07:27,533 --> 00:07:33,207
+This is where the legend of the eyes begins to grow, and it is worth stopping to weigh it.
+
+88
+00:07:33,207 --> 00:07:43,924
+In the eighteen seventies, a German scientist, Wilhelm Kooner, had shown that a rabbit's retina, treated quickly after death, could hold a faint image of a bright window.
+
+89
+00:07:43,924 --> 00:07:50,923
+Newspapers turned that into a popular belief: that a murdered person's eyes might keep a picture of the killer.
+
+90
+00:07:51,372 --> 00:07:55,906
+Writers on this case have often said the eyes were shot for that reason.
+
+91
+00:07:55,906 --> 00:08:01,133
+But no witness at the trial said so, and no document in the trial volume claims it.
+
+92
+00:08:01,133 --> 00:08:08,941
+The only account of the moment gives a different reason in the killer's own words: what are you looking at me like that for.
+
+93
+00:08:08,941 --> 00:08:13,034
+That is a man reacting to a stare, not a man destroying evidence.
+
+94
+00:08:13,034 --> 00:08:15,741
+The superstition may have been in his head.
+
+95
+00:08:15,741 --> 00:08:19,645
+That is an inference, and the file cannot prove it either way.
+
+96
+00:08:19,645 --> 00:08:21,975
+What the file does show is the irony.
+
+97
+00:08:21,975 --> 00:08:28,964
+The killer worried about the dead man's eyes, and was caught by the cartridge his partner dropped on the floor.
+
+98
+00:08:29,415 --> 00:08:30,118
+Weeks pass.
+
+99
+00:08:30,118 --> 00:08:42,079
+Then, according to the memoirs of Percy Sillitoe, chief constable of Sheffield at the time, a minor car accident in Sheffield in November brought in a local criminal named Charles Currie.
+
+100
+00:08:42,079 --> 00:08:48,412
+Currie, in Sillitoe's telling, named the driver of that car, and linked him to the murder in Essex.
+
+101
+00:08:48,412 --> 00:08:52,889
+Sillitoe says he was on the telephone to Scotland Yard within seconds.
+
+102
+00:08:53,341 --> 00:08:55,627
+The name was Frederick Guy Browne.
+
+103
+00:08:55,627 --> 00:09:01,411
+He ran a small motor garage in Northcote Road, near Clapham Junction, in south London.
+
+104
+00:09:01,411 --> 00:09:06,725
+He was in his forties, very tall, a skilled mechanic, and a professional thief.
+
+105
+00:09:06,725 --> 00:09:13,787
+He had served sentences in Parkhurst and Dartmoor, and he had been out of Dartmoor only since the spring.
+
+106
+00:09:14,236 --> 00:09:19,804
+His speciality was stealing cars and changing them enough that they could be sold.
+
+107
+00:09:19,804 --> 00:09:29,989
+Working for him in the garage, as a handyman who slept in a back room, was a Scotsman with a string of aliases and convictions, William Henry Kennedy.
+
+108
+00:09:30,438 --> 00:09:34,120
+The police wait, and watch, and build a theft case first.
+
+109
+00:09:34,120 --> 00:09:40,063
+On the 20th of January, 1928, officers raid the garage and arrest Browne for stealing a car.
+
+110
+00:09:40,063 --> 00:09:43,874
+In the car he is using, they find a loaded Webley revolver.
+
+111
+00:09:43,874 --> 00:09:48,848
+Behind the driver's seat, in a hidden compartment, they find a second Webley.
+
+112
+00:09:48,848 --> 00:09:56,794
+In the garage and at his home, they find more guns and boxes of old ammunition, including cartridges stamped R L Mark Four.
+
+113
+00:09:57,245 --> 00:10:00,147
+They also find a set of surgical instruments.
+
+114
+00:10:00,147 --> 00:10:04,211
+Doctor Lovell's bag of instruments had been taken with his car.
+
+115
+00:10:04,211 --> 00:10:08,727
+Browne said he had bought such things to use as tools in his workshop.
+
+116
+00:10:08,727 --> 00:10:14,662
+Hold on to those instruments, because the owner could not swear in court that they were his.
+
+117
+00:10:15,110 --> 00:10:17,035
+Kennedy is not at the garage.
+
+118
+00:10:17,035 --> 00:10:26,128
+He has seen the police there, and gone north to Liverpool, where he takes a room in Copperas Hill, a short walk from Lime Street station.
+
+119
+00:10:26,128 --> 00:10:29,711
+On the 25th of January, detectives come for him there.
+
+120
+00:10:30,162 --> 00:10:39,649
+As Detective Sergeant William Mattinson closes in, Kennedy pulls an automatic pistol, presses it towards him and shouts, stand back, or I'll shoot you.
+
+121
+00:10:39,649 --> 00:10:40,968
+He pulls the trigger.
+
+122
+00:10:40,968 --> 00:10:41,973
+Nothing happens.
+
+123
+00:10:41,973 --> 00:10:43,418
+The safety catch is on.
+
+124
+00:10:43,418 --> 00:10:47,691
+Later, in the police station, Kennedy tells the sergeant, I'm sorry.
+
+125
+00:10:47,691 --> 00:10:53,722
+I've no grudge against the police, but you should be in Heaven by now, and there was one for me.
+
+126
+00:10:54,173 --> 00:11:04,166
+So by the end of January 1928, Scotland Yard has two men, two guns, a box of old army cartridges, and one empty case from a stolen car.
+
+127
+00:11:04,166 --> 00:11:08,311
+Browne says he was at home with his wife all that night.
+
+128
+00:11:08,311 --> 00:11:14,086
+Could a piece of brass prove a man was on that lane, when he swore he was not?
+
+129
+00:11:15,934 --> 00:11:20,353
+Kennedy is brought to London by train and held at New Scotland Yard.
+
+130
+00:11:20,353 --> 00:11:22,823
+His wife of one week comes to see him.
+
+131
+00:11:22,823 --> 00:11:29,451
+According to the police account read at the trial, she asked him, why, you didn't murder him, did you?
+
+132
+00:11:29,451 --> 00:11:31,140
+No, I didn't, he answered.
+
+133
+00:11:31,140 --> 00:11:33,480
+But I was there, and I know who did.
+
+134
+00:11:33,929 --> 00:11:36,747
+That night Kennedy makes a long statement.
+
+135
+00:11:36,747 --> 00:11:43,925
+It is the account of the lane told earlier in this video: the stop, the questions, the notebook, the shots.
+
+136
+00:11:43,925 --> 00:11:48,553
+In it, Kennedy is the frightened passenger, and Browne is the gunman.
+
+137
+00:11:48,553 --> 00:11:51,303
+Browne, faced with it, denies everything.
+
+138
+00:11:51,754 --> 00:11:58,229
+Here is the part of the case that is easy to miss, and it is the reason the gun mattered so much.
+
+139
+00:11:58,229 --> 00:12:04,771
+In English law, a statement by one accused person is evidence only against the person who made it.
+
+140
+00:12:04,771 --> 00:12:08,710
+Both the magistrate and the trial judge ruled exactly that.
+
+141
+00:12:08,710 --> 00:12:11,046
+Kennedy's story could hang Kennedy.
+
+142
+00:12:11,046 --> 00:12:14,184
+In law, it could not be used to convict Browne.
+
+143
+00:12:14,634 --> 00:12:18,365
+Strip the statement away, and what is left against Browne?
+
+144
+00:12:18,365 --> 00:12:20,359
+No witness saw him on the lane.
+
+145
+00:12:20,359 --> 00:12:23,318
+The doctor could not identify his instruments.
+
+146
+00:12:23,318 --> 00:12:25,505
+Browne had an alibi from his wife.
+
+147
+00:12:25,505 --> 00:12:29,558
+What was left was ammunition of the right kind, and a revolver.
+
+148
+00:12:29,558 --> 00:12:37,021
+If the prosecution could not tie that revolver to that cartridge, the case against Browne would be very thin indeed.
+
+149
+00:12:37,471 --> 00:12:48,670
+The trial opens at the Central Criminal Court on Monday, the 23rd of April, 1928, before Mister Justice Avory, a judge with a reputation for severity.
+
+150
+00:12:48,670 --> 00:12:53,299
+The Solicitor-General, Sir Boyd Merriman, leads for the Crown.
+
+151
+00:12:53,299 --> 00:12:56,061
+Each prisoner has his own barristers.
+
+152
+00:12:56,061 --> 00:12:59,944
+Their application to be tried separately is refused.
+
+153
+00:13:00,394 --> 00:13:03,944
+Then the gun experts are called, one after another.
+
+154
+00:13:03,944 --> 00:13:16,544
+The first, from Woolwich Arsenal, produces a packet of twelve Mark Four cartridges unopened since it was packed in 1913, and says the case from the car was stamped by the same tool.
+
+155
+00:13:16,544 --> 00:13:20,860
+Then comes Robert Churchill, a gunmaker from Leicester Square.
+
+156
+00:13:21,311 --> 00:13:24,651
+Churchill explains what happens when a revolver fires.
+
+157
+00:13:24,651 --> 00:13:34,920
+The explosion drives the cartridge backwards against a steel plate at the back of the gun, the breech shield, so hard that the soft copper cap takes an imprint of it.
+
+158
+00:13:34,920 --> 00:13:44,509
+Under the microscope, he tells the court, he can see that this cartridge was fired from this Webley revolver, and could not have been fired from any other.
+
+159
+00:13:44,958 --> 00:13:55,736
+He has also fired both of Browne's revolvers into a pigskin target, at three, six and twelve inches, and compared the scorch marks with photographs of the wounds.
+
+160
+00:13:55,736 --> 00:13:59,727
+The two shots to the cheek, he says, were smokeless cordite.
+
+161
+00:13:59,727 --> 00:14:02,787
+The shot under the right eye was black powder.
+
+162
+00:14:02,787 --> 00:14:04,850
+One gun, loaded with a mixture.
+
+163
+00:14:05,301 --> 00:14:14,476
+Then William Fox, chief examiner of small arms at the Royal Small Arms Factory at Enfield Lock, with twenty-seven years' experience.
+
+164
+00:14:14,476 --> 00:14:17,466
+Asked for his opinion, he refuses the word.
+
+165
+00:14:17,466 --> 00:14:19,829
+I do not give an opinion, he says.
+
+166
+00:14:19,829 --> 00:14:22,957
+I say that case was fired from that revolver.
+
+167
+00:14:22,957 --> 00:14:25,807
+The judge asks if he means without doubt.
+
+168
+00:14:25,807 --> 00:14:27,198
+Absolutely, my lord.
+
+169
+00:14:27,647 --> 00:14:36,139
+Fox points to two small dents in the steel of the breech shield, just above the hole for the firing pin, at the twelve o'clock position.
+
+170
+00:14:36,139 --> 00:14:41,759
+They were made, he says, by a succession of blows, so their edges are rough and irregular.
+
+171
+00:14:41,759 --> 00:14:48,754
+And on the cap of the cartridge from the car, in the same position, the same shapes are pressed into the copper.
+
+172
+00:14:49,205 --> 00:14:56,970
+And then, the trial record notes, the jury were handed a microscope, so that they could examine the cartridge for themselves.
+
+173
+00:14:56,970 --> 00:15:01,940
+A Woolwich chemist, George Perry, showed photographic enlargements of the marks.
+
+174
+00:15:01,940 --> 00:15:10,824
+Fox told the court he had searched the whole stock of service revolvers waiting for repair at Enfield, and had found none marked like this one.
+
+175
+00:15:11,274 --> 00:15:14,525
+How strong was this evidence, by modern standards?
+
+176
+00:15:14,525 --> 00:15:24,021
+It rested on the judgement of experienced men, not on a database or a statistic, and Fox's word, absolutely, would make a modern scientist uneasy.
+
+177
+00:15:24,021 --> 00:15:32,476
+But the logic is the one firearms examiners still use: tool marks made by hand-finishing are unique enough to point to one weapon.
+
+178
+00:15:32,476 --> 00:15:35,402
+The editor of the trial volume put it simply.
+
+179
+00:15:35,402 --> 00:15:37,223
+Why not call it a gun print?
+
+180
+00:15:37,673 --> 00:15:41,894
+Browne gives evidence himself, and argues with almost everyone.
+
+181
+00:15:41,894 --> 00:15:48,659
+At first he refuses the oath, saying he does not know the whole truth and so cannot swear to tell it.
+
+182
+00:15:48,659 --> 00:15:55,224
+He explains the guns as protection, the stolen goods as other men's, and the instruments as tools.
+
+183
+00:15:55,224 --> 00:15:58,440
+Kennedy does not go into the witness box at all.
+
+184
+00:15:58,889 --> 00:16:05,724
+On the 27th of April, the jury retire at eight minutes to one, taking the exhibits with them.
+
+185
+00:16:05,724 --> 00:16:07,929
+They return at ten past three.
+
+186
+00:16:07,929 --> 00:16:12,338
+Both men, guilty of the murder of George William Gutteridge.
+
+187
+00:16:12,788 --> 00:16:25,153
+Asked if he has anything to say, Browne thanks the judge and his counsel, and tells the court that the jury have had stuff given to them that is not genuine, and that his conscience is clear.
+
+188
+00:16:25,153 --> 00:16:28,972
+Kennedy says it was fate, and that he is not afraid to die.
+
+189
+00:16:28,972 --> 00:16:30,525
+He asks to see his wife.
+
+190
+00:16:30,975 --> 00:16:35,636
+Their appeal, on the refusal of separate trials, is dismissed.
+
+191
+00:16:35,636 --> 00:16:50,824
+At nine in the morning on Thursday, the 31st of May, 1928, Frederick Browne is hanged at Pentonville, and William Kennedy at Wandsworth, at the same hour, in two prisons on opposite sides of the Thames.
+
+192
+00:16:52,673 --> 00:16:54,790
+Doubts have been raised since.
+
+193
+00:16:54,790 --> 00:17:05,796
+One person close to the trial wrote that he did not think Browne was the kind of man to fire the shots into the eyes, and others have suggested Kennedy did.
+
+194
+00:17:05,796 --> 00:17:08,124
+Those are opinions, not evidence.
+
+195
+00:17:08,124 --> 00:17:17,084
+In 2020, the case was examined again for a BBC series, and a retired judge, David Radford, concluded that the verdict was safe.
+
+196
+00:17:17,084 --> 00:17:27,173
+Whoever's hand held the gun on the lane, the gun was Browne's, the car was stolen by both of them, and the jury found they were in it together.
+
+197
+00:17:27,623 --> 00:17:35,368
+What changed after this case was not the science, which had been developing for years in Britain and America, but its fame.
+
+198
+00:17:35,368 --> 00:17:39,272
+It became known as the case of the men hanged by a microscope.
+
+199
+00:17:39,272 --> 00:17:45,568
+Robert Churchill became the expert the police turned to in firearms cases for the next twenty years.
+
+200
+00:17:45,568 --> 00:17:53,125
+And the idea that a gun leaves its own fingerprint on every cartridge passed from the laboratory into everyday language.
+
+201
+00:17:53,575 --> 00:18:05,927
+Some writers have linked the delay in reporting the murder, and that call box, to the arrival of the nine nine nine emergency number, first introduced in London in 1937.
+
+202
+00:18:05,927 --> 00:18:08,338
+The direct link is hard to prove.
+
+203
+00:18:08,338 --> 00:18:14,917
+What the case certainly showed was how alone a country constable was on his beat at night.
+
+204
+00:18:15,366 --> 00:18:19,829
+George Gutteridge was buried at Warley, not far from where he died.
+
+205
+00:18:19,829 --> 00:18:27,422
+A memorial stands by the road near Stapleford Abbotts, and the lane where he stopped the car now carries his name.
+
+206
+00:18:27,422 --> 00:18:34,149
+The revolver is kept in the Metropolitan Police's Crime Museum, on loan from the Essex Police Museum.
+
+207
+00:18:34,598 --> 00:18:35,947
+He was thirty-six.
+
+208
+00:18:35,947 --> 00:18:43,742
+He was doing an ordinary part of his job, on an ordinary night, writing down a car number by torchlight.
+
+209
+00:18:43,742 --> 00:18:54,384
+He is remembered, with respect, by the force he served, and by his family, who lost a husband and a father on an Essex lane in September 1927.
+
+210
+00:18:54,833 --> 00:18:56,858
+This case file is closed.
+
+211
+00:18:56,858 --> 00:19:01,071
+New case files arrive every day on Precinct Archive.

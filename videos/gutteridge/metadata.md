@@ -27,6 +27,11 @@ It also weighs two things most retellings skip: the famous legend that the const
 Where the record is uncertain, this video says so. The account of the shooting comes from one man's statement, and later doubts about who fired are presented as opinions.
 
 CHAPTERS
+0:00 A microscope at the Old Bailey
+1:25 The constable and the stolen car
+5:39 The cartridge and the hunt
+11:15 The gun print on trial
+16:52 Doubts and legacy
 
 SOURCES
 - W. Teignmouth Shore (ed.), Trial of Frederick Guy Browne and William Henry Kennedy, Notable British Trials (William Hodge, 1930): https://archive.org/details/in.ernet.dli.2015.173616
@@ -37,7 +42,23 @@ SOURCES
 - BBC, Murder, Mystery and My Family (2020): https://www.bbc.com/mediacentre/proginfo/2020/30/murder-mystery-and-my-family-ep3
 
 IMAGES
-CREDITS
+- Armaments: a variety of sporting guns. Engraving, c.1861. (detail: Adams patent revolver), Wellcome Collection (Public domain): https://wellcomecollection.org/works/q6ub2nzh/images?id=kartrws7
+- [Thames embankment, London, England] (1890-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/2002696941/
+- Engineering: rolling mill used to produce gun barrels, with different stages in producing the shape shown below. Engraving c.1861., Wellcome Collection (Public domain): https://wellcomecollection.org/works/gz796mqz/images?id=ttqmqr8y
+- Lime Street and St. George's Hall, Liverpool, England (1925-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/2019638422/
+- London Strike. Police escort for one van. (1910-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html): https://www.loc.gov/item/2014689758/
+- London strike. Truck under police protection (1910-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html): https://www.loc.gov/item/2014689497/
+- Traffic on High Holborn Street, London, England (1926), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/2019639903/
+- Swift & Son's new patent microscope., Wellcome Collection (Public domain): https://wellcomecollection.org/works/shz53d52/images?id=y38jn2d2
+- Newgate Prison, London: male prisoners taking exercise by walking around the prison yard. Wood engraving after M. Fitzgerald, 1873. (1873), Wellcome Collection (Public domain): https://wellcomecollection.org/works/ywqse52s/images?id=c9bxxm9f
+- Newspaper seller, London (1900-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html): https://www.loc.gov/item/2014688586/
+- Newspaper seller, London (1900-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html): https://www.loc.gov/item/2014688588/
+- Wormwood Scrubs Prison: a convict sitting in a bare room on a stool with some work in his hands. Process print after Paul Renouard. ([1889]), Wellcome Collection (Public domain): https://wellcomecollection.org/works/bd358vua/images?id=mtv2ndsq
+- Wormwood Scrubs Prison: a prisoner standing in a dock before the governor, in the presence of guards. Process print after Paul Renouard, 1889. ([1889]), Wellcome Collection (Public domain): https://wellcomecollection.org/works/g6mr2sgw/images?id=segb5jg6
+- [Colt revolver, side view] (1878-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/2006691778/
+- [Telephone operator at work] (1922-01-01), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/2013647219/
+- London strike. Truck under police protection (1910-01-01) (detail: constables), Library of Congress, Prints & Photographs Division (No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html): https://www.loc.gov/item/2014689497/
+- Westminster Bridge - west past clock tower of Houses of Parliament, London, England (1926), Library of Congress, Prints & Photographs Division (No known restrictions on publication.): https://www.loc.gov/item/99472780/
 
 Maps, timelines, document cards and graphics are our own. Period images that are not of the actual people or places are labelled as such.
 Music: original instrumental score.
