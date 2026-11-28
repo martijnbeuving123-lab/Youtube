@@ -1,0 +1,935 @@
+1
+00:00:01,000 --> 00:00:06,216
+Behind a mirror in a small office near Times Square, a camera is running.
+
+2
+00:00:06,216 --> 00:00:10,074
+On the other side of the glass, two men sit at a desk.
+
+3
+00:00:10,525 --> 00:00:14,981
+One is a German-born engineer who calls himself Harry Sawyer.
+
+4
+00:00:14,981 --> 00:00:20,751
+The other is sixty-three years old, and he has been a spy for most of his life.
+
+5
+00:00:21,202 --> 00:00:23,407
+His name is Frederick Duquesne.
+
+6
+00:00:23,407 --> 00:00:32,582
+He has fought the British in South Africa, escaped from their prison camps, and worked for German intelligence in two world wars.
+
+7
+00:00:33,031 --> 00:00:35,386
+He has used about thirty names.
+
+8
+00:00:35,386 --> 00:00:37,209
+He trusts almost nobody.
+
+9
+00:00:37,209 --> 00:00:42,298
+And he is talking, on film, to the Federal Bureau of Investigation.
+
+10
+00:00:42,749 --> 00:00:47,697
+Within days of this picture, thirty-three people would be in custody.
+
+11
+00:00:47,697 --> 00:00:49,920
+All of them would be convicted.
+
+12
+00:00:49,920 --> 00:00:56,518
+The FBI still calls it the largest espionage case in American history to end in convictions.
+
+13
+00:00:56,518 --> 00:01:00,678
+Their sentences added up to more than three hundred years.
+
+14
+00:01:01,128 --> 00:01:07,413
+But there is a detail in the file that the famous version of this story tends to skip.
+
+15
+00:01:07,413 --> 00:01:18,740
+The most valuable American secret this network ever stole had already left New York, hidden inside an umbrella, two years before the FBI's case even began.
+
+16
+00:01:18,740 --> 00:01:19,909
+Hold on to that.
+
+17
+00:01:20,359 --> 00:01:24,013
+So this is not really the story of a secret saved.
+
+18
+00:01:24,013 --> 00:01:26,790
+It is the story of something stranger.
+
+19
+00:01:27,239 --> 00:01:36,234
+How the FBI, for the first time, took over an enemy spy service's own line of communication, and ran it for sixteen months.
+
+20
+00:01:36,234 --> 00:01:41,499
+And how the man who made that possible was almost erased from the story.
+
+21
+00:01:41,948 --> 00:01:44,197
+This is The Defector Files.
+
+22
+00:01:45,847 --> 00:01:51,337
+The file begins with a man named Gottlieb Adolf Wilhelm Sebold.
+
+23
+00:01:51,337 --> 00:01:56,827
+He was born in Mülheim, in the Rhineland, on March tenth, 1899.
+
+24
+00:01:56,827 --> 00:02:02,753
+He served in the German army's engineers during the First World War.
+
+25
+00:02:03,203 --> 00:02:16,054
+In 1922 he emigrated to the United States, and over the next years he worked in industrial plants and aircraft factories, in America and in South America.
+
+26
+00:02:16,503 --> 00:02:21,191
+On February tenth, 1936, he became an American citizen.
+
+27
+00:02:21,191 --> 00:02:22,811
+He went by William.
+
+28
+00:02:22,811 --> 00:02:27,413
+He had a wife, Helen, and a life in the United States.
+
+29
+00:02:27,864 --> 00:02:34,393
+In February 1939 he sailed back to Germany to visit his mother in Mülheim.
+
+30
+00:02:34,393 --> 00:02:37,393
+It was meant to be a family visit.
+
+31
+00:02:37,393 --> 00:02:39,158
+It did not stay one.
+
+32
+00:02:39,608 --> 00:02:44,522
+When his ship docked in Hamburg, a man from the Gestapo approached him.
+
+33
+00:02:44,522 --> 00:02:53,866
+According to the FBI's account, the man told Sebold that he would be contacted, because of what he knew about American aircraft plants.
+
+34
+00:02:54,317 --> 00:02:55,703
+Then he let him go.
+
+35
+00:02:55,703 --> 00:02:59,424
+Sebold traveled on to Mülheim and found work there.
+
+36
+00:02:59,875 --> 00:03:06,616
+In September 1939, the month the war began in Europe, a visitor came to see him.
+
+37
+00:03:06,616 --> 00:03:09,397
+He called himself Doctor Gassner.
+
+38
+00:03:09,848 --> 00:03:16,109
+He asked detailed questions about military aircraft and equipment in the United States.
+
+39
+00:03:16,109 --> 00:03:17,692
+Then he made an offer.
+
+40
+00:03:17,692 --> 00:03:22,443
+Sebold should go back to America and work for German intelligence.
+
+41
+00:03:22,893 --> 00:03:29,905
+When Sebold hesitated, Gassner and a second man, who called himself Doctor Renken, used leverage.
+
+42
+00:03:29,905 --> 00:03:38,218
+Years earlier Sebold had served time in a German jail, and he had left that off his American naturalization papers.
+
+43
+00:03:38,669 --> 00:03:42,489
+If he refused, they would make sure the Americans found out.
+
+44
+00:03:42,489 --> 00:03:45,163
+There were threats against his family too.
+
+45
+00:03:45,612 --> 00:03:47,793
+Doctor Renken was not a doctor.
+
+46
+00:03:47,793 --> 00:03:57,290
+He was Major Nikolaus Ritter of the Abwehr, the German military intelligence service, head of its air intelligence work out of Hamburg.
+
+47
+00:03:57,741 --> 00:04:02,121
+Ritter had lived in New York for years in the nineteen twenties.
+
+48
+00:04:02,121 --> 00:04:05,750
+He knew America, and he had already run agents there.
+
+49
+00:04:06,199 --> 00:04:07,212
+Sebold agreed.
+
+50
+00:04:07,212 --> 00:04:11,986
+He was sent to a training school in Hamburg for about seven weeks.
+
+51
+00:04:11,986 --> 00:04:21,461
+He learned to work a clandestine shortwave radio, to use codes, and to read microphotographs, messages shrunk to the size of a dot.
+
+52
+00:04:21,911 --> 00:04:29,365
+He was given a cover name, Harry Sawyer, a code name, TRAMP, and an Abwehr number, A three five four nine.
+
+53
+00:04:29,815 --> 00:04:35,597
+And then, before he left Germany, he did something the Abwehr never found out about.
+
+54
+00:04:35,597 --> 00:04:42,411
+He went to the American consulate in Cologne, and he insisted on seeing the Consul General himself.
+
+55
+00:04:42,860 --> 00:04:45,190
+He said he had been blackmailed.
+
+56
+00:04:45,190 --> 00:04:48,101
+He said he was a loyal American citizen.
+
+57
+00:04:48,101 --> 00:04:51,232
+And he said he wanted to work with the FBI.
+
+58
+00:04:51,682 --> 00:04:57,293
+Here the file invites a question, and this is interpretation rather than fact.
+
+59
+00:04:57,293 --> 00:05:01,680
+Why did the Abwehr trust a man it had recruited by blackmail?
+
+60
+00:05:01,680 --> 00:05:04,413
+Coercion can force someone to say yes.
+
+61
+00:05:04,413 --> 00:05:06,284
+It cannot make them loyal.
+
+62
+00:05:06,733 --> 00:05:18,326
+Ritter had built his operation on a recruit with every reason to hate him, and then sent that recruit to a country where he had a home, a wife and a citizenship to protect.
+
+63
+00:05:19,975 --> 00:05:26,657
+Sebold sailed from Genoa and reached New York on February eighth, 1940.
+
+64
+00:05:26,657 --> 00:05:28,538
+The FBI was waiting.
+
+65
+00:05:28,988 --> 00:05:43,738
+Over the following weeks, agents and Sebold built a cover for Harry Sawyer: a consulting diesel engineer, with his own firm, the Diesel Research Company, and an office in the Times Square district of Manhattan.
+
+66
+00:05:44,189 --> 00:05:45,914
+The office was a stage.
+
+67
+00:05:45,914 --> 00:05:48,164
+There were hidden microphones.
+
+68
+00:05:48,164 --> 00:05:56,791
+One wall held a mirror that was really a window, and in the room behind it FBI agents could watch, listen and film.
+
+69
+00:05:56,791 --> 00:06:02,266
+Everything a German agent said at Sawyer's desk could be shown to a jury.
+
+70
+00:06:02,716 --> 00:06:05,431
+The case went to the top of the Bureau.
+
+71
+00:06:05,431 --> 00:06:06,197
+Director J.
+
+72
+00:06:06,197 --> 00:06:11,835
+Edgar Hoover followed it closely, and briefed President Franklin Roosevelt on it.
+
+73
+00:06:12,285 --> 00:06:19,054
+Special Agent James Ellsworth was assigned to stay with Sebold for the entire investigation.
+
+74
+00:06:19,054 --> 00:06:24,646
+For sixteen months, he would shadow almost every move the double agent made.
+
+75
+00:06:25,096 --> 00:06:28,114
+The second part of the plan was the radio.
+
+76
+00:06:28,114 --> 00:06:33,360
+Ritter had told Sebold to set up a shortwave station and contact Hamburg.
+
+77
+00:06:33,810 --> 00:06:39,772
+So in May 1940, on Long Island, FBI laboratory engineers built one.
+
+78
+00:06:39,772 --> 00:06:44,399
+The men who tapped out the messages were FBI agents.
+
+79
+00:06:44,399 --> 00:06:49,115
+To the Abwehr, it was TRAMP's transmitter in America.
+
+80
+00:06:49,564 --> 00:06:58,127
+Over the next sixteen months, that station became one of the main channels between German agents in New York and their headquarters.
+
+81
+00:06:58,579 --> 00:07:05,626
+The FBI says it sent more than three hundred messages to Germany and received about two hundred.
+
+82
+00:07:05,626 --> 00:07:08,489
+Everything going out was checked first.
+
+83
+00:07:08,489 --> 00:07:10,251
+Some of it was harmless.
+
+84
+00:07:10,251 --> 00:07:11,792
+Some of it was false.
+
+85
+00:07:12,242 --> 00:07:17,600
+This is the part of the case that matters most, and it is easy to miss.
+
+86
+00:07:17,600 --> 00:07:20,468
+The FBI was not simply watching spies.
+
+87
+00:07:20,468 --> 00:07:23,259
+It had become the spies' post office.
+
+88
+00:07:23,709 --> 00:07:30,789
+Every German agent who wanted a report to reach Hamburg quickly had a reason to bring it to Sawyer.
+
+89
+00:07:30,789 --> 00:07:33,507
+The trap did not need to chase anyone.
+
+90
+00:07:33,507 --> 00:07:35,152
+It only needed to wait.
+
+91
+00:07:36,802 --> 00:07:41,919
+One of the first names on Sebold's list was a code name: DUNN.
+
+92
+00:07:41,919 --> 00:07:45,468
+Ritter wanted him to find DUNN in New York.
+
+93
+00:07:45,468 --> 00:07:48,439
+DUNN was Frederick Joubert Duquesne.
+
+94
+00:07:48,439 --> 00:07:56,609
+He was born in the Cape Colony, in South Africa, on September twenty-first, 1877, to a Boer family.
+
+95
+00:07:57,059 --> 00:08:01,040
+His own account of his life reads like an adventure serial.
+
+96
+00:08:01,040 --> 00:08:04,009
+He fought for the Boers against the British.
+
+97
+00:08:04,009 --> 00:08:10,892
+He said he was captured by the British three times and by the Portuguese once, and escaped every time.
+
+98
+00:08:11,341 --> 00:08:20,800
+He was shipped as a prisoner of war to Bermuda, and got away to the United States, where he became a citizen in 1913.
+
+99
+00:08:21,250 --> 00:08:30,027
+In New York he wrote for the New York Herald, lectured on big game hunting, and claimed to have taught Theodore Roosevelt to shoot.
+
+100
+00:08:30,476 --> 00:08:41,663
+In 1910 he was even part of a serious proposal to bring hippopotamuses into the Louisiana bayous, to ease an American meat shortage.
+
+101
+00:08:41,663 --> 00:08:44,715
+That one, remarkably, is documented.
+
+102
+00:08:45,164 --> 00:08:46,845
+Other parts are not.
+
+103
+00:08:46,845 --> 00:08:55,921
+His most famous boast was that in 1916 he had sunk the British cruiser Hampshire with Lord Kitchener aboard.
+
+104
+00:08:55,921 --> 00:09:01,130
+A 1932 biography was even titled The Man Who Killed Kitchener.
+
+105
+00:09:01,581 --> 00:09:03,499
+The record points elsewhere.
+
+106
+00:09:03,499 --> 00:09:07,267
+The Hampshire struck a mine laid by a German submarine.
+
+107
+00:09:07,267 --> 00:09:11,446
+There is no good evidence that Duquesne was anywhere near it.
+
+108
+00:09:11,895 --> 00:09:14,502
+So the file has to separate two men.
+
+109
+00:09:14,502 --> 00:09:20,077
+The legend, which Duquesne wrote himself and told to anyone who would listen.
+
+110
+00:09:20,077 --> 00:09:23,552
+And the record, which is smaller but still real.
+
+111
+00:09:24,003 --> 00:09:31,166
+In the First World War he did work for Germany, against British shipping in South America.
+
+112
+00:09:31,166 --> 00:09:40,161
+In 1917 he was arrested in New York, faked paralysis in a hospital prison ward for nearly two years, and escaped.
+
+113
+00:09:40,610 --> 00:09:43,643
+By 1937 he was back in touch with Ritter.
+
+114
+00:09:43,643 --> 00:09:49,485
+When Sebold finally met him, Duquesne was immediately suspicious of the office.
+
+115
+00:09:49,485 --> 00:09:54,440
+He passed Sebold a note suggesting they should talk somewhere else.
+
+116
+00:09:54,440 --> 00:10:00,651
+The two men went to an automat, a coin-operated cafeteria, and talked there instead.
+
+117
+00:10:01,100 --> 00:10:04,779
+The agents assigned to Duquesne found him hard work.
+
+118
+00:10:04,779 --> 00:10:13,057
+Agent Raymond Newkirk rented the room above his apartment near Central Park and listened through a hidden microphone.
+
+119
+00:10:13,057 --> 00:10:17,302
+Newkirk later described how Duquesne moved through the city.
+
+120
+00:10:17,751 --> 00:10:27,123
+He would take a local train, change to an express, change back to a local, go through a revolving door and keep going right around.
+
+121
+00:10:27,123 --> 00:10:31,200
+Duquesne even confronted one of the agents following him.
+
+122
+00:10:31,650 --> 00:10:34,810
+And yet he kept coming back to Sawyer's office.
+
+123
+00:10:34,810 --> 00:10:37,970
+That is the paradox at the center of this case.
+
+124
+00:10:37,970 --> 00:10:42,945
+The most careful man in the network used the one channel that was not his.
+
+125
+00:10:43,394 --> 00:10:47,360
+He brought photographs and specifications of a new bomb.
+
+126
+00:10:47,360 --> 00:10:51,680
+He explained how fires could be started in industrial plants.
+
+127
+00:10:51,680 --> 00:10:55,575
+He said he had slipped into a DuPont plant in Delaware.
+
+128
+00:10:55,575 --> 00:10:58,549
+That is his claim, not a fact in the file.
+
+129
+00:10:59,000 --> 00:11:03,340
+Much of what he gathered came not from break-ins but from the mail.
+
+130
+00:11:03,340 --> 00:11:08,586
+He wrote to companies and government offices as a writer and lecturer, and asked.
+
+131
+00:11:09,037 --> 00:11:14,392
+One letter went to the Army's Chemical Warfare Service, about a new gas mask.
+
+132
+00:11:14,392 --> 00:11:23,573
+He told them not to be concerned if the information was confidential, because it would be in the hands of a good, patriotic citizen.
+
+133
+00:11:25,224 --> 00:11:30,169
+Through the office and the radio, the rest of the network came into view.
+
+134
+00:11:30,169 --> 00:11:33,082
+It was not a ring of professional officers.
+
+135
+00:11:33,533 --> 00:11:39,730
+It was mostly ordinary people with ordinary jobs, placed where secrets passed by.
+
+136
+00:11:39,730 --> 00:11:46,463
+Ship's cooks, butchers, bakers and stewards who could carry letters across the Atlantic.
+
+137
+00:11:46,463 --> 00:11:47,611
+A truck driver.
+
+138
+00:11:47,611 --> 00:11:48,529
+A carpenter.
+
+139
+00:11:48,529 --> 00:11:49,371
+A musician.
+
+140
+00:11:49,821 --> 00:11:54,661
+Rene Mezenen was a steward on Pan American's transatlantic clipper.
+
+141
+00:11:54,661 --> 00:12:02,608
+He could carry papers from New York to Lisbon in about a day, and he reported the convoys he saw from the air.
+
+142
+00:12:03,058 --> 00:12:09,723
+He boasted to Sebold that he hid letters so well that finding them would mean taking the airplane apart.
+
+143
+00:12:10,173 --> 00:12:12,946
+Everett Roeder was born in the Bronx.
+
+144
+00:12:12,946 --> 00:12:20,890
+He was an engineer at the Sperry Gyroscope Company, working on confidential designs for the Army and Navy.
+
+145
+00:12:21,341 --> 00:12:31,878
+According to the FBI, he passed on blueprints for the radio equipment of a new Glenn Martin bomber, range finders and blind-flying instruments.
+
+146
+00:12:31,878 --> 00:12:36,816
+When agents searched his Long Island home, they found sixteen guns.
+
+147
+00:12:37,267 --> 00:12:39,558
+Lilly Stein had come from Vienna.
+
+148
+00:12:39,558 --> 00:12:48,307
+She had trained at the same Hamburg school as Sebold, and in New York she moved in social circles and gathered what she could.
+
+149
+00:12:48,307 --> 00:12:54,000
+Her address was used by others as a return address for material bound for Germany.
+
+150
+00:12:54,451 --> 00:12:56,744
+And the stakes were not abstract.
+
+151
+00:12:56,744 --> 00:13:11,269
+Prosecutors later told the jury that Leo Waalen, a painter at a boatyard building small craft for the Navy, had handed in the sailing date of an American freighter, the Robin Moor, for transmission to Germany.
+
+152
+00:13:11,720 --> 00:13:17,918
+In May 1941 a U-boat sank the Robin Moor in the Atlantic off West Africa.
+
+153
+00:13:17,918 --> 00:13:22,164
+Everyone aboard survived, after days in lifeboats.
+
+154
+00:13:22,164 --> 00:13:27,089
+The file does not show that his report caused the sinking.
+
+155
+00:13:27,538 --> 00:13:30,626
+Some ideas were stopped in the office itself.
+
+156
+00:13:30,626 --> 00:13:41,328
+A seaman named Erich Strunck asked for permission to steal the diplomatic bag of a British officer traveling on his ship, and to push the officer overboard.
+
+157
+00:13:41,778 --> 00:13:45,776
+Sebold talked him out of it, telling him it was too risky.
+
+158
+00:13:45,776 --> 00:13:50,875
+Another member, Paul Bante, brought dynamite and detonators to the office.
+
+159
+00:13:52,524 --> 00:13:53,886
+Now, the umbrella.
+
+160
+00:13:53,886 --> 00:13:57,215
+Hermann Lang was an inspector at the Carl L.
+
+161
+00:13:57,215 --> 00:14:06,141
+Norden company, which made the Norden bombsight, one of the most closely guarded instruments in the American military.
+
+162
+00:14:06,141 --> 00:14:12,117
+In 1937 Lang met Ritter in New York and told him he had access to the drawings.
+
+163
+00:14:12,567 --> 00:14:21,024
+According to the FBI, Lang took the drawings home and copied them at his kitchen table at night, while his family slept.
+
+164
+00:14:21,475 --> 00:14:32,134
+On January ninth, 1938, he handed the copies, hidden in the wooden casing of an umbrella, to a courier aboard a ship bound for Bremen.
+
+165
+00:14:32,134 --> 00:14:39,532
+He was paid fifteen hundred dollars, and later invited to Germany to help rebuild the device.
+
+166
+00:14:39,980 --> 00:14:44,141
+This is where historians are careful, and so is this file.
+
+167
+00:14:44,141 --> 00:14:46,005
+How much did Germany gain?
+
+168
+00:14:46,456 --> 00:15:02,550
+German bombsights of the war used a stabilized, gyroscopic design with similarities to the Norden, but the Luftwaffe also developed its own instruments, and there is no agreement that Lang's drawings changed the air war.
+
+169
+00:15:03,000 --> 00:15:05,762
+What is clear is the timing.
+
+170
+00:15:05,762 --> 00:15:12,865
+The theft happened in 1937 and 1938, long before Sebold's first message.
+
+171
+00:15:13,315 --> 00:15:17,062
+So the case did not prevent the ring's greatest coup.
+
+172
+00:15:17,062 --> 00:15:19,820
+What it did was find the man behind it.
+
+173
+00:15:19,820 --> 00:15:25,548
+Ritter, in Germany, still wanted Lang's help, and Sebold was told to contact him.
+
+174
+00:15:25,996 --> 00:15:32,615
+Through the office, the FBI connected the bombsight theft to a living network in New York.
+
+175
+00:15:32,615 --> 00:15:36,660
+Lang refused an offer to be taken to safety in Germany.
+
+176
+00:15:36,660 --> 00:15:38,720
+He stayed at home in Queens.
+
+177
+00:15:40,370 --> 00:15:51,644
+By the early summer of 1941, the Bureau had what it needed: films, recordings, intercepted letters and sixteen months of radio traffic.
+
+178
+00:15:52,092 --> 00:15:58,829
+The FBI print of Duquesne in Sawyer's office is dated June twenty-fifth, 1941.
+
+179
+00:15:58,829 --> 00:16:05,307
+A few days later, at the end of June, agents moved in on the whole network.
+
+180
+00:16:05,756 --> 00:16:09,112
+Thirty-three people were arrested and charged.
+
+181
+00:16:09,112 --> 00:16:10,862
+Nineteen pleaded guilty.
+
+182
+00:16:10,862 --> 00:16:19,833
+A Japanese naval officer who had met Sebold, and been filmed doing it, slipped away to the West Coast and sailed for Tokyo.
+
+183
+00:16:19,833 --> 00:16:22,021
+He was never tried in America.
+
+184
+00:16:22,471 --> 00:16:29,698
+The other fourteen went on trial in Federal District Court in Brooklyn on September third, 1941.
+
+185
+00:16:29,698 --> 00:16:33,913
+The jury watched the FBI's films from behind the mirror.
+
+186
+00:16:33,913 --> 00:16:36,547
+They saw Duquesne at Sawyer's desk.
+
+187
+00:16:36,547 --> 00:16:43,473
+They heard the men from the ships and the factories talking about convoys, bombs and plants.
+
+188
+00:16:43,923 --> 00:16:46,471
+The trial ran through the autumn.
+
+189
+00:16:46,471 --> 00:16:55,586
+On December seventh, 1941, Japan attacked Pearl Harbor, and within days the United States was at war with Germany too.
+
+190
+00:16:55,586 --> 00:16:59,834
+On December thirteenth, the jury returned its verdicts.
+
+191
+00:16:59,834 --> 00:17:01,765
+All fourteen were guilty.
+
+192
+00:17:02,216 --> 00:17:06,736
+On January second, 1942, the sentences came down.
+
+193
+00:17:06,736 --> 00:17:11,073
+Duquesne received eighteen years for espionage.
+
+194
+00:17:11,073 --> 00:17:12,180
+So did Lang.
+
+195
+00:17:12,180 --> 00:17:14,486
+Roeder was given sixteen.
+
+196
+00:17:14,486 --> 00:17:15,962
+Lilly Stein ten.
+
+197
+00:17:16,413 --> 00:17:19,854
+Together, more than three hundred years in prison.
+
+198
+00:17:19,854 --> 00:17:27,770
+A German intelligence officer would later call the roundup the death blow to German espionage in the United States.
+
+199
+00:17:28,221 --> 00:17:35,310
+Hoover called it the greatest spy roundup in American history, and the Bureau told the story often.
+
+200
+00:17:35,310 --> 00:17:42,544
+Four years later Hollywood told it too, as The House on Ninety-Second Street, with the names changed.
+
+201
+00:17:42,994 --> 00:17:46,126
+The FBI's version made the Bureau the hero.
+
+202
+00:17:46,126 --> 00:17:50,640
+Hold on to that as well, because it shaped who was remembered.
+
+203
+00:17:51,090 --> 00:17:55,417
+There is a consequence that connects this case to another file.
+
+204
+00:17:55,417 --> 00:18:01,873
+With its networks in America gone, the Abwehr could no longer rely on agents already in place.
+
+205
+00:18:02,323 --> 00:18:10,089
+In June 1942, it sent saboteurs instead, landed by U-boat on Long Island and in Florida.
+
+206
+00:18:10,089 --> 00:18:14,413
+That operation, Pastorius, is a story of its own.
+
+207
+00:18:14,413 --> 00:18:19,356
+But it began with the empty space this case left behind.
+
+208
+00:18:21,005 --> 00:18:24,863
+Duquesne served his sentence at Leavenworth, in Kansas.
+
+209
+00:18:24,863 --> 00:18:30,827
+According to the accounts of his life, he was mistreated and beaten by other inmates.
+
+210
+00:18:31,277 --> 00:18:37,353
+In 1954, in poor health, he was released, after about fourteen years.
+
+211
+00:18:37,353 --> 00:18:45,542
+He died penniless at City Hospital on Welfare Island in New York, on May twenty-fourth, 1956.
+
+212
+00:18:45,542 --> 00:18:47,391
+He was seventy-eight.
+
+213
+00:18:47,843 --> 00:18:49,197
+Sebold disappeared.
+
+214
+00:18:49,197 --> 00:18:57,110
+He was given a new identity and moved to California, where he tried, among other things, to run a chicken farm.
+
+215
+00:18:57,559 --> 00:19:00,749
+He struggled to hold a job and was often ill.
+
+216
+00:19:00,749 --> 00:19:07,765
+Letters from Germany suggested that people there still wanted revenge, and he lived with that fear.
+
+217
+00:19:08,215 --> 00:19:16,008
+In 1965 he was committed to Napa State Hospital, diagnosed with manic depression.
+
+218
+00:19:16,008 --> 00:19:22,261
+He died there on February sixteenth, 1970, at the age of seventy.
+
+219
+00:19:22,711 --> 00:19:25,725
+A book had told his story in 1943.
+
+220
+00:19:25,725 --> 00:19:36,714
+It was not until 2014 that a full history, by the journalist Peter Duffy, called him the first hero of the Second World War.
+
+221
+00:19:37,164 --> 00:19:42,271
+Here is the final judgment of this file, and it is an interpretation.
+
+222
+00:19:42,271 --> 00:19:48,266
+The famous version of this case is about the FBI's skill, and the skill was real.
+
+223
+00:19:48,717 --> 00:19:58,591
+But the decisive act came first, and it came from one frightened man in Cologne who walked into a consulate when he could have stayed silent.
+
+224
+00:19:58,591 --> 00:20:02,934
+Without that visit, there is no office, no radio and no trial.
+
+225
+00:20:03,384 --> 00:20:05,654
+What the case changed was method.
+
+226
+00:20:05,654 --> 00:20:17,898
+It showed that the best way to fight a spy service was not only to arrest its agents, but to become its channel: to control what it heard and to let it lead you to everyone else.
+
+227
+00:20:18,348 --> 00:20:30,346
+In Britain, MI5 was running the same idea at the same time, and on a far larger scale, turning captured German agents into what became the Double Cross system.
+
+228
+00:20:30,797 --> 00:20:38,239
+One of its first double agents, a Welshman code-named SNOW, had also been recruited by Major Ritter.
+
+229
+00:20:38,239 --> 00:20:44,715
+The same spymaster was beaten twice, on both sides of the Atlantic, by the same method.
+
+230
+00:20:45,164 --> 00:20:47,600
+Thirty-three people were convicted.
+
+231
+00:20:47,600 --> 00:20:54,210
+Much of what they handed over after Sebold's arrival went through a channel the FBI controlled.
+
+232
+00:20:54,210 --> 00:21:00,959
+And the one secret that mattered most had escaped before anyone was watching, inside an umbrella.
+
+233
+00:21:01,411 --> 00:21:02,984
+This file is closed.
+
+234
+00:21:02,984 --> 00:21:07,628
+New files are declassified every day on The Defector Files.

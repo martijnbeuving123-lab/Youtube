@@ -32,6 +32,14 @@ But the ring's most valuable theft, the Norden bombsight, had already left New Y
 Where the record is uncertain or disputed, the narration says so.
 
 CHAPTERS
+0:00 Behind the mirror
+1:45 The man from Mülheim
+5:19 The office near Times Square
+7:36 DUNN
+11:25 The network
+13:52 The umbrella
+15:40 The roundup
+18:21 After
 
 SOURCES
 - FBI, Famous Cases: The Duquesne Spy Ring: https://www.fbi.gov/history/famous-cases/duquesne-spy-ring
